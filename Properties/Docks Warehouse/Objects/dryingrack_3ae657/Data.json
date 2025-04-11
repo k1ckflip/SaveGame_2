@@ -18,15 +18,8 @@
     },
     "Output": {
         "Items": [
-            "{\"DataType\":\"QualityItemData\",\"DataVersion\":0,\"GameVersion\":\"0.3.4f4\",\"ID\":\"cocaleaf\",\"Quantity\":20,\"Quality\":\"Heavenly\"}"
+            "{\"DataType\":\"ItemData\",\"DataVersion\":0,\"GameVersion\":\"0.3.4f4\",\"ID\":\"\",\"Quantity\":0}"
         ]
     },
-    "DryingOperations": [
-        {
-            "ItemID": "cocaleaf",
-            "Quantity": 12,
-            "StartQuality": 2,
-            "Time": 56
-        }
-    ]
+    "DryingOperations": []
 }

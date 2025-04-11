@@ -13,7 +13,7 @@
     "Rotation": -90,
     "InputContents": {
         "Items": [
-            "{\"DataType\":\"QualityItemData\",\"DataVersion\":0,\"GameVersion\":\"0.3.4f4\",\"ID\":\"cocainebase\",\"Quantity\":10,\"Quality\":\"Heavenly\"}"
+            "{\"DataType\":\"ItemData\",\"DataVersion\":0,\"GameVersion\":\"0.3.4f4\",\"ID\":\"\",\"Quantity\":0}"
         ]
     },
     "OutputContents": {
@@ -21,9 +21,9 @@
             "{\"DataType\":\"ItemData\",\"DataVersion\":0,\"GameVersion\":\"0.3.4f4\",\"ID\":\"\",\"Quantity\":0}"
         ]
     },
-    "CurrentIngredientID": "cocainebase",
-    "CurrentIngredientQuantity": 10,
-    "CurrentIngredientQuality": 4,
-    "CurrentProductID": "cocaine",
-    "CurrentCookProgress": 203
+    "CurrentIngredientID": "",
+    "CurrentIngredientQuantity": 0,
+    "CurrentIngredientQuality": 2,
+    "CurrentProductID": "",
+    "CurrentCookProgress": 0
 }

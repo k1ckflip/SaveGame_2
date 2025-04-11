@@ -1,0 +1,52 @@
+{
+    "DataType": "ContractData",
+    "DataVersion": 0,
+    "GameVersion": "0.3.4f4",
+    "GUID": "95d563c0-0949-4510-b04d-82c2b3104abd",
+    "State": 1,
+    "IsTracked": false,
+    "Title": "Deal for Louis",
+    "Description": "Louis has requested a delivery of 1x Slimy Puke behind the auto shop for $785.",
+    "Expires": true,
+    "ExpiryDate": {
+        "DataType": "GameDateTimeData",
+        "DataVersion": 0,
+        "GameVersion": "0.3.4f4",
+        "ElapsedDays": 105,
+        "Time": 1800
+    },
+    "Entries": [
+        {
+            "DataType": "QuestEntryData",
+            "DataVersion": 0,
+            "GameVersion": "0.3.4f4",
+            "Name": "1x Slimy Puke, Behind the auto shop",
+            "State": 1
+        }
+    ],
+    "CustomerGUID": "38a57b2c-92e6-4f9c-b26e-18081faf57c0",
+    "Payment": 785.0,
+    "ProductList": {
+        "entries": [
+            {
+                "ProductID": "slimypuke",
+                "Quality": 2,
+                "Quantity": 1
+            }
+        ]
+    },
+    "DeliveryLocationGUID": "11538f47-051e-4c88-b488-e273010e2213",
+    "DeliveryWindow": {
+        "IsEnabled": true,
+        "WindowStartTime": 1200,
+        "WindowEndTime": 1800
+    },
+    "PickupScheduleIndex": 0,
+    "AcceptTime": {
+        "DataType": "GameDateTimeData",
+        "DataVersion": 0,
+        "GameVersion": "0.3.4f4",
+        "ElapsedDays": 105,
+        "Time": 1000
+    }
+}

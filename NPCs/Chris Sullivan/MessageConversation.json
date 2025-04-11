@@ -2,45 +2,9 @@
     "DataType": "MSGConversationData",
     "DataVersion": 0,
     "GameVersion": "0.3.4f4",
-    "ConversationIndex": 12,
-    "Read": true,
+    "ConversationIndex": 0,
+    "Read": false,
     "MessageHistory": [
-        {
-            "Sender": 1,
-            "MessageID": 1294365366,
-            "Text": "You got 3x Cocaine? I'll pay <color=#46CB4F>$690</color> for it",
-            "EndOfChain": true
-        },
-        {
-            "Sender": 0,
-            "MessageID": -4898341,
-            "Text": "How about 3x Cocaine for $890?",
-            "EndOfChain": false
-        },
-        {
-            "Sender": 1,
-            "MessageID": 854659156,
-            "Text": "Hmm ok. What time?",
-            "EndOfChain": true
-        },
-        {
-            "Sender": 0,
-            "MessageID": 784974432,
-            "Text": "Late Night",
-            "EndOfChain": true
-        },
-        {
-            "Sender": 1,
-            "MessageID": 2061900199,
-            "Text": "Great, I'll meet you <b>rehind Ray's Realty</b> between 12:00 AM and 6:00 AM.",
-            "EndOfChain": true
-        },
-        {
-            "Sender": 1,
-            "MessageID": -2077116776,
-            "Text": "You got 3x Cocaine? I'll pay <color=#46CB4F>$690</color> for it",
-            "EndOfChain": true
-        },
         {
             "Sender": 0,
             "MessageID": -159557172,
@@ -64,8 +28,57 @@
             "MessageID": -364681718,
             "Text": "Great, I'll meet you <b>behind the dealership</b> between 12:00 AM and 6:00 AM.",
             "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": 2023896398,
+            "Text": "You got 4x Cocaine? I'll pay <color=#46CB4F>$920</color> for it",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 0,
+            "MessageID": 369358496,
+            "Text": "How about 4x Cocaine for $1,020?",
+            "EndOfChain": false
+        },
+        {
+            "Sender": 1,
+            "MessageID": 937186641,
+            "Text": "Hmm ok. What time?",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 0,
+            "MessageID": -1823923236,
+            "Text": "Late Night",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": 1108037963,
+            "Text": "Great, I'll meet you <b>behind the dealership</b> between 12:00 AM and 6:00 AM.",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": 1748566676,
+            "Text": "Hey, can I get 4x Cocaine? I'll pay <color=#46CB4F>$920</color>",
+            "EndOfChain": true
         }
     ],
-    "ActiveResponses": [],
+    "ActiveResponses": [
+        {
+            "Text": "Yep",
+            "Label": "ACCEPT_CONTRACT"
+        },
+        {
+            "Text": "[Counter-offer]",
+            "Label": "COUNTEROFFER"
+        },
+        {
+            "Text": "Not right now",
+            "Label": "REJECT_CONTRACT"
+        }
+    ],
     "IsHidden": false
 }

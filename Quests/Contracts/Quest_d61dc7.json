@@ -1,0 +1,52 @@
+{
+    "DataType": "ContractData",
+    "DataVersion": 0,
+    "GameVersion": "0.3.4f4",
+    "GUID": "d61dc712-334b-4a5c-8cf4-30095e28baa4",
+    "State": 1,
+    "IsTracked": false,
+    "Title": "Deal for Elizabeth",
+    "Description": "Elizabeth has requested a delivery of 1x Tokyo Death in the central canal near the car wash for $425.",
+    "Expires": true,
+    "ExpiryDate": {
+        "DataType": "GameDateTimeData",
+        "DataVersion": 0,
+        "GameVersion": "0.3.4f4",
+        "ElapsedDays": 105,
+        "Time": 1800
+    },
+    "Entries": [
+        {
+            "DataType": "QuestEntryData",
+            "DataVersion": 0,
+            "GameVersion": "0.3.4f4",
+            "Name": "1x Tokyo Death, Central canal",
+            "State": 1
+        }
+    ],
+    "CustomerGUID": "8c79336d-8047-41b7-971d-5cf6f2599946",
+    "Payment": 425.0,
+    "ProductList": {
+        "entries": [
+            {
+                "ProductID": "tokyodeath",
+                "Quality": 2,
+                "Quantity": 1
+            }
+        ]
+    },
+    "DeliveryLocationGUID": "23b689f9-628c-455e-bf81-111680a94150",
+    "DeliveryWindow": {
+        "IsEnabled": true,
+        "WindowStartTime": 1200,
+        "WindowEndTime": 1800
+    },
+    "PickupScheduleIndex": 0,
+    "AcceptTime": {
+        "DataType": "GameDateTimeData",
+        "DataVersion": 0,
+        "GameVersion": "0.3.4f4",
+        "ElapsedDays": 105,
+        "Time": 1015
+    }
+}

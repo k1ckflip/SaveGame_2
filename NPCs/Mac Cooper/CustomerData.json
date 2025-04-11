@@ -2,7 +2,7 @@
     "DataType": "CustomerData",
     "DataVersion": 0,
     "GameVersion": "0.3.4f4",
-    "Dependence": 0.9224998950958252,
+    "Dependence": 1.0,
     "PurchaseableProducts": [
         "cocaine",
         "dreampuke",
@@ -13,10 +13,10 @@
         0.21670007705688477,
         1.0
     ],
-    "TimeSinceLastDealCompleted": 13,
-    "TimeSinceLastDealOffered": 140,
-    "OfferedDeals": 36,
-    "CompletedDeals": 18,
+    "TimeSinceLastDealCompleted": 1058,
+    "TimeSinceLastDealOffered": 1159,
+    "OfferedDeals": 37,
+    "CompletedDeals": 19,
     "IsContractOffered": false,
     "OfferedContract": {
         "Payment": 0.0,
@@ -35,10 +35,10 @@
         "IsCounterOffer": false
     },
     "OfferedContractTime": {
-        "elapsedDays": 103,
-        "time": 1645
+        "elapsedDays": 0,
+        "time": 0
     },
-    "TimeSincePlayerApproached": 1146855,
-    "TimeSinceInstantDealOffered": 1146855,
+    "TimeSincePlayerApproached": 1149553,
+    "TimeSinceInstantDealOffered": 1149553,
     "HasBeenRecommended": false
 }

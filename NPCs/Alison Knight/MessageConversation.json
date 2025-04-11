@@ -2,33 +2,9 @@
     "DataType": "MSGConversationData",
     "DataVersion": 0,
     "GameVersion": "0.3.4f4",
-    "ConversationIndex": 13,
-    "Read": true,
+    "ConversationIndex": 1,
+    "Read": false,
     "MessageHistory": [
-        {
-            "Sender": 0,
-            "MessageID": -1396873442,
-            "Text": "How about 5x Cocaine for $690?",
-            "EndOfChain": false
-        },
-        {
-            "Sender": 1,
-            "MessageID": 1896641847,
-            "Text": "I guess that's fine. When?",
-            "EndOfChain": true
-        },
-        {
-            "Sender": 1,
-            "MessageID": -821063095,
-            "Text": "Don't worry about it",
-            "EndOfChain": true
-        },
-        {
-            "Sender": 1,
-            "MessageID": 901190727,
-            "Text": "Hey, can I get 3x Cocaine? I'll pay <color=#46CB4F>$690</color>",
-            "EndOfChain": true
-        },
         {
             "Sender": 1,
             "MessageID": 1606284457,
@@ -64,8 +40,45 @@
             "MessageID": 602914825,
             "Text": "Great, I'll meet you <b>rehind Ray's Realty</b> between 12:00 AM and 6:00 AM.",
             "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": -1038692795,
+            "Text": "Hello, I'm after 4x Cocaine. I can pay <color=#46CB4F>$920</color> for it.",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 0,
+            "MessageID": 1940667030,
+            "Text": "How about 4x Cocaine for $1,120?",
+            "EndOfChain": false
+        },
+        {
+            "Sender": 1,
+            "MessageID": -1529493209,
+            "Text": "You crazy? No thanks",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": 752103874,
+            "Text": "Hey, if you got 4x Cocaine I'll pay <color=#46CB4F>$920</color> for it. Deal?",
+            "EndOfChain": true
         }
     ],
-    "ActiveResponses": [],
+    "ActiveResponses": [
+        {
+            "Text": "Deal",
+            "Label": "ACCEPT_CONTRACT"
+        },
+        {
+            "Text": "[Counter-offer]",
+            "Label": "COUNTEROFFER"
+        },
+        {
+            "Text": "Not right now",
+            "Label": "REJECT_CONTRACT"
+        }
+    ],
     "IsHidden": false
 }

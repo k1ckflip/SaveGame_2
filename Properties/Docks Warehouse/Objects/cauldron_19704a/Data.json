@@ -21,7 +21,7 @@
     },
     "Liquid": {
         "Items": [
-            "{\"DataType\":\"ItemData\",\"DataVersion\":0,\"GameVersion\":\"0.3.4f4\",\"ID\":\"gasoline\",\"Quantity\":13}"
+            "{\"DataType\":\"ItemData\",\"DataVersion\":0,\"GameVersion\":\"0.3.4f4\",\"ID\":\"gasoline\",\"Quantity\":8}"
         ]
     },
     "Output": {
@@ -29,6 +29,6 @@
             "{\"DataType\":\"ItemData\",\"DataVersion\":0,\"GameVersion\":\"0.3.4f4\",\"ID\":\"\",\"Quantity\":0}"
         ]
     },
-    "RemainingCookTime": 129,
+    "RemainingCookTime": 249,
     "InputQuality": 4
 }

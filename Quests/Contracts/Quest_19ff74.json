@@ -1,0 +1,52 @@
+{
+    "DataType": "ContractData",
+    "DataVersion": 0,
+    "GameVersion": "0.3.4f4",
+    "GUID": "19ff74cc-f5e5-409d-9209-1955d46421f0",
+    "State": 1,
+    "IsTracked": false,
+    "Title": "Deal for Doris",
+    "Description": "Doris has requested a delivery of 1x Cocaine behind the western Gas Mart for $230.",
+    "Expires": true,
+    "ExpiryDate": {
+        "DataType": "GameDateTimeData",
+        "DataVersion": 0,
+        "GameVersion": "0.3.4f4",
+        "ElapsedDays": 105,
+        "Time": 1800
+    },
+    "Entries": [
+        {
+            "DataType": "QuestEntryData",
+            "DataVersion": 0,
+            "GameVersion": "0.3.4f4",
+            "Name": "1x Cocaine, Behind the western Gas Mart",
+            "State": 1
+        }
+    ],
+    "CustomerGUID": "959103b2-1e7c-4e87-a47f-dad6acbbed86",
+    "Payment": 230.0,
+    "ProductList": {
+        "entries": [
+            {
+                "ProductID": "cocaine",
+                "Quality": 1,
+                "Quantity": 1
+            }
+        ]
+    },
+    "DeliveryLocationGUID": "aecd84fe-d0bf-41e7-859d-7c3cd1e99a40",
+    "DeliveryWindow": {
+        "IsEnabled": true,
+        "WindowStartTime": 1200,
+        "WindowEndTime": 1800
+    },
+    "PickupScheduleIndex": 0,
+    "AcceptTime": {
+        "DataType": "GameDateTimeData",
+        "DataVersion": 0,
+        "GameVersion": "0.3.4f4",
+        "ElapsedDays": 105,
+        "Time": 1100
+    }
+}

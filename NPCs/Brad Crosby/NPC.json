@@ -14,8 +14,11 @@
         "greg_fliggle",
         "jeff_gilmore"
     ],
-    "ActiveContractGUIDs": [],
-    "Cash": 5182.7998046875,
+    "ActiveContractGUIDs": [
+        "d61dc712-334b-4a5c-8cf4-30095e28baa4",
+        "229f5a43-489b-44ff-ae11-60d4ea88aaa7"
+    ],
+    "Cash": 3208.800048828125,
     "OverflowItems": {
         "Items": [
             "{\"DataType\":\"ItemData\",\"DataVersion\":0,\"GameVersion\":\"0.3.4f4\",\"ID\":\"\",\"Quantity\":0}",

@@ -14,8 +14,10 @@
         "trent_sherman",
         "jerry_montero"
     ],
-    "ActiveContractGUIDs": [],
-    "Cash": 11371.2001953125,
+    "ActiveContractGUIDs": [
+        "19ff74cc-f5e5-409d-9209-1955d46421f0"
+    ],
+    "Cash": 2778.400146484375,
     "OverflowItems": {
         "Items": [
             "{\"DataType\":\"ItemData\",\"DataVersion\":0,\"GameVersion\":\"0.3.4f4\",\"ID\":\"\",\"Quantity\":0}",

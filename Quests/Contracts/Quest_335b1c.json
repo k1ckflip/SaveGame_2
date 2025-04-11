@@ -1,0 +1,52 @@
+{
+    "DataType": "ContractData",
+    "DataVersion": 0,
+    "GameVersion": "0.3.4f4",
+    "GUID": "335b1c77-5434-45e4-a478-734941b8768f",
+    "State": 1,
+    "IsTracked": false,
+    "Title": "Deal for Kyle",
+    "Description": "Kyle has requested a delivery of 3x Cocaine at the north waterfront for $690.",
+    "Expires": true,
+    "ExpiryDate": {
+        "DataType": "GameDateTimeData",
+        "DataVersion": 0,
+        "GameVersion": "0.3.4f4",
+        "ElapsedDays": 105,
+        "Time": 1800
+    },
+    "Entries": [
+        {
+            "DataType": "QuestEntryData",
+            "DataVersion": 0,
+            "GameVersion": "0.3.4f4",
+            "Name": "3x Cocaine, North waterfront",
+            "State": 1
+        }
+    ],
+    "CustomerGUID": "e8e4e974-86b8-49cd-8252-a43b76f14708",
+    "Payment": 690.0,
+    "ProductList": {
+        "entries": [
+            {
+                "ProductID": "cocaine",
+                "Quality": 1,
+                "Quantity": 3
+            }
+        ]
+    },
+    "DeliveryLocationGUID": "7b391235-04fc-49e1-945b-e6a27b0b6596",
+    "DeliveryWindow": {
+        "IsEnabled": true,
+        "WindowStartTime": 1200,
+        "WindowEndTime": 1800
+    },
+    "PickupScheduleIndex": 0,
+    "AcceptTime": {
+        "DataType": "GameDateTimeData",
+        "DataVersion": 0,
+        "GameVersion": "0.3.4f4",
+        "ElapsedDays": 105,
+        "Time": 1030
+    }
+}

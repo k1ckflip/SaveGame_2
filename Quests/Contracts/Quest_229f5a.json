@@ -1,0 +1,52 @@
+{
+    "DataType": "ContractData",
+    "DataVersion": 0,
+    "GameVersion": "0.3.4f4",
+    "GUID": "229f5a43-489b-44ff-ae11-60d4ea88aaa7",
+    "State": 1,
+    "IsTracked": false,
+    "Title": "Deal for Peter",
+    "Description": "Peter has requested a delivery of 2x Cocaine at the basketball court for $460.",
+    "Expires": true,
+    "ExpiryDate": {
+        "DataType": "GameDateTimeData",
+        "DataVersion": 0,
+        "GameVersion": "0.3.4f4",
+        "ElapsedDays": 105,
+        "Time": 1800
+    },
+    "Entries": [
+        {
+            "DataType": "QuestEntryData",
+            "DataVersion": 0,
+            "GameVersion": "0.3.4f4",
+            "Name": "2x Cocaine, Basketball court",
+            "State": 1
+        }
+    ],
+    "CustomerGUID": "7b74bf42-5b10-4e89-936e-c36b307bd775",
+    "Payment": 460.0,
+    "ProductList": {
+        "entries": [
+            {
+                "ProductID": "cocaine",
+                "Quality": 1,
+                "Quantity": 2
+            }
+        ]
+    },
+    "DeliveryLocationGUID": "084e7d19-60a4-46ef-a64c-bb0b2d8a7260",
+    "DeliveryWindow": {
+        "IsEnabled": true,
+        "WindowStartTime": 1200,
+        "WindowEndTime": 1800
+    },
+    "PickupScheduleIndex": 0,
+    "AcceptTime": {
+        "DataType": "GameDateTimeData",
+        "DataVersion": 0,
+        "GameVersion": "0.3.4f4",
+        "ElapsedDays": 105,
+        "Time": 1100
+    }
+}

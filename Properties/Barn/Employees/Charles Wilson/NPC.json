@@ -9,22 +9,22 @@
     "IsMale": true,
     "AppearanceIndex": 5,
     "Position": {
-        "x": 188.69766235351563,
-        "y": 0.09000080823898316,
-        "z": -4.288662910461426
+        "x": 189.63172912597657,
+        "y": 0.09000059962272644,
+        "z": -6.043875217437744
     },
     "Rotation": {
         "x": 0.0,
-        "y": 0.5004576444625855,
+        "y": -0.7071064114570618,
         "z": 0.0,
-        "w": 0.8657610416412354
+        "w": 0.7071072459220886
     },
     "GUID": "baff9abe-aadf-40cf-91c1-ec325f46d790",
     "PaidForToday": true,
     "MoveItemData": {
-        "TemplateItemJSON": "",
-        "GrabbedItemQuantity": 0,
-        "SourceGUID": "",
-        "DestinationGUID": ""
+        "TemplateItemJSON": "{\"DataType\":\"QualityItemData\",\"DataVersion\":0,\"GameVersion\":\"0.3.4f4\",\"ID\":\"cocaleaf\",\"Quantity\":0,\"Quality\":\"Heavenly\"}",
+        "GrabbedItemQuantity": 8,
+        "SourceGUID": "30d41e68-c7dd-4e5c-b93c-dc00f733efe3",
+        "DestinationGUID": "e334a145-ce4e-4950-a2f6-66899641293c"
     }
 }

@@ -2,7 +2,7 @@
     "DataType": "CustomerData",
     "DataVersion": 0,
     "GameVersion": "0.3.4f4",
-    "Dependence": 1.0,
+    "Dependence": 0.9375,
     "PurchaseableProducts": [
         "cocaine"
     ],
@@ -11,10 +11,10 @@
         -0.5120000243186951,
         1.0
     ],
-    "TimeSinceLastDealCompleted": 922,
-    "TimeSinceLastDealOffered": 185,
-    "OfferedDeals": 26,
-    "CompletedDeals": 18,
+    "TimeSinceLastDealCompleted": 2223,
+    "TimeSinceLastDealOffered": 1204,
+    "OfferedDeals": 27,
+    "CompletedDeals": 19,
     "IsContractOffered": false,
     "OfferedContract": {
         "Payment": 0.0,
@@ -33,10 +33,10 @@
         "IsCounterOffer": false
     },
     "OfferedContractTime": {
-        "elapsedDays": 103,
-        "time": 1600
+        "elapsedDays": 0,
+        "time": 0
     },
-    "TimeSincePlayerApproached": 1146853,
-    "TimeSinceInstantDealOffered": 32024,
+    "TimeSincePlayerApproached": 1149551,
+    "TimeSinceInstantDealOffered": 34722,
     "HasBeenRecommended": false
 }
