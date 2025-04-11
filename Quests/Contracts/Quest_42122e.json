@@ -1,0 +1,52 @@
+{
+    "DataType": "ContractData",
+    "DataVersion": 0,
+    "GameVersion": "0.3.4f4",
+    "GUID": "42122e66-23b0-4e9b-98b1-ae84a6dfdf41",
+    "State": 1,
+    "IsTracked": true,
+    "Title": "Deal for Karen",
+    "Description": "Karen has requested a delivery of 3x Cocaine behind the green house in the suburbs for $790.",
+    "Expires": true,
+    "ExpiryDate": {
+        "DataType": "GameDateTimeData",
+        "DataVersion": 0,
+        "GameVersion": "0.3.4f4",
+        "ElapsedDays": 104,
+        "Time": 600
+    },
+    "Entries": [
+        {
+            "DataType": "QuestEntryData",
+            "DataVersion": 0,
+            "GameVersion": "0.3.4f4",
+            "Name": "3x Cocaine, Behind green house",
+            "State": 1
+        }
+    ],
+    "CustomerGUID": "b2f11684-1b0e-4cd3-8fb6-012ded4ea83e",
+    "Payment": 790.0,
+    "ProductList": {
+        "entries": [
+            {
+                "ProductID": "cocaine",
+                "Quality": 3,
+                "Quantity": 3
+            }
+        ]
+    },
+    "DeliveryLocationGUID": "c9fad1e6-d724-4fc3-aa5e-56449f83e2ee",
+    "DeliveryWindow": {
+        "IsEnabled": true,
+        "WindowStartTime": 0,
+        "WindowEndTime": 600
+    },
+    "PickupScheduleIndex": 0,
+    "AcceptTime": {
+        "DataType": "GameDateTimeData",
+        "DataVersion": 0,
+        "GameVersion": "0.3.4f4",
+        "ElapsedDays": 103,
+        "Time": 1624
+    }
+}

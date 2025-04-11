@@ -1,0 +1,30 @@
+{
+    "DataType": "BotanistData",
+    "DataVersion": 0,
+    "GameVersion": "0.3.4f4",
+    "ID": "ronald_garcia",
+    "AssignedProperty": "dockswarehouse",
+    "FirstName": "Ronald",
+    "LastName": "Garcia",
+    "IsMale": true,
+    "AppearanceIndex": 1,
+    "Position": {
+        "x": -77.03582763671875,
+        "y": -2.429999828338623,
+        "z": -65.28089904785156
+    },
+    "Rotation": {
+        "x": 0.0,
+        "y": 0.061317648738622668,
+        "z": 0.0,
+        "w": 0.9981183409690857
+    },
+    "GUID": "4e1e0522-2f55-48f0-9bbd-732ce9631353",
+    "PaidForToday": true,
+    "MoveItemData": {
+        "TemplateItemJSON": "",
+        "GrabbedItemQuantity": 0,
+        "SourceGUID": "",
+        "DestinationGUID": ""
+    }
+}

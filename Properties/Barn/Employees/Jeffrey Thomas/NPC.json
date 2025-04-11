@@ -1,0 +1,30 @@
+{
+    "DataType": "BotanistData",
+    "DataVersion": 0,
+    "GameVersion": "0.3.4f4",
+    "ID": "jeffrey_thomas",
+    "AssignedProperty": "barn",
+    "FirstName": "Jeffrey",
+    "LastName": "Thomas",
+    "IsMale": true,
+    "AppearanceIndex": 4,
+    "Position": {
+        "x": 183.25563049316407,
+        "y": 0.09000059217214585,
+        "z": -6.073552131652832
+    },
+    "Rotation": {
+        "x": 0.0,
+        "y": 0.7071070075035095,
+        "z": 0.0,
+        "w": 0.7071066498756409
+    },
+    "GUID": "0dc2ccf0-1825-4d26-a355-3faf6d80ebb1",
+    "PaidForToday": true,
+    "MoveItemData": {
+        "TemplateItemJSON": "{\"DataType\":\"QualityItemData\",\"DataVersion\":0,\"GameVersion\":\"0.3.4f4\",\"ID\":\"cocaleaf\",\"Quantity\":0,\"Quality\":\"Heavenly\"}",
+        "GrabbedItemQuantity": 20,
+        "SourceGUID": "7b87bbc8-425b-462d-afd5-0348347dcd37",
+        "DestinationGUID": "f2ddfdad-0085-4741-a266-9a75c3cd6d00"
+    }
+}

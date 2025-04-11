@@ -1,0 +1,59 @@
+{
+    "DataType": "MSGConversationData",
+    "DataVersion": 0,
+    "GameVersion": "0.3.4f4",
+    "ConversationIndex": 52,
+    "Read": true,
+    "MessageHistory": [
+        {
+            "Sender": 1,
+            "MessageID": -778056647,
+            "Text": "Need me 4x Meth! I'll pay <color=#46CB4F>$270</color> yeah??",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 0,
+            "MessageID": 1611130543,
+            "Text": "Yep",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": -1813775788,
+            "Text": "Good!! I'll see u <b>behind Thrifty threads</b> between 6:00 PM and 12:00 PM.",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": -1215297823,
+            "Text": "I NEED 4x Meth. I GOT <color=#46CB4F>$275</color>. DEAL?",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 0,
+            "MessageID": -871365645,
+            "Text": "Yes",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": -279689864,
+            "Text": "Good!! I'll see u <b>behind Thrifty threads</b> between 6:00 PM and 12:00 PM.",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": 1701959504,
+            "Text": "I'm after 2x Cocaine. I can pay <color=#46CB4F>$460</color> for it Deal??",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": -2095124333,
+            "Text": "nvm",
+            "EndOfChain": true
+        }
+    ],
+    "ActiveResponses": [],
+    "IsHidden": true
+}

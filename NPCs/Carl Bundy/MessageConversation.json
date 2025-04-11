@@ -1,0 +1,71 @@
+{
+    "DataType": "MSGConversationData",
+    "DataVersion": 0,
+    "GameVersion": "0.3.4f4",
+    "ConversationIndex": 10,
+    "Read": true,
+    "MessageHistory": [
+        {
+            "Sender": 1,
+            "MessageID": 1507037021,
+            "Text": "Hey, if you got 4x Cocaine I'll pay <color=#46CB4F>$745</color> for it. Deal?",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 0,
+            "MessageID": 316133141,
+            "Text": "How about 4x Cocaine for $945?",
+            "EndOfChain": false
+        },
+        {
+            "Sender": 1,
+            "MessageID": -993721103,
+            "Text": "Ok fine. What time?",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 0,
+            "MessageID": -274771210,
+            "Text": "Late Night",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": -680449810,
+            "Text": "Great, I'll meet you <b>behind the bus stop in the suburbs</b> between 12:00 AM and 6:00 AM.",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": -1137577220,
+            "Text": "Hello, I'm after 4x Cocaine. I can pay <color=#46CB4F>$755</color> for it.",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 0,
+            "MessageID": 1926751317,
+            "Text": "How about 4x Cocaine for $955?",
+            "EndOfChain": false
+        },
+        {
+            "Sender": 1,
+            "MessageID": -648000949,
+            "Text": "Ok. What time you wanna meet?",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 0,
+            "MessageID": -1277951948,
+            "Text": "Late Night",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": 2053663030,
+            "Text": "Great, I'll meet you <b>behind the bus stop in the suburbs</b> between 12:00 AM and 6:00 AM.",
+            "EndOfChain": true
+        }
+    ],
+    "ActiveResponses": [],
+    "IsHidden": false
+}

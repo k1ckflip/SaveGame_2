@@ -1,0 +1,71 @@
+{
+    "DataType": "MSGConversationData",
+    "DataVersion": 0,
+    "GameVersion": "0.3.3f15",
+    "ConversationIndex": 23,
+    "Read": true,
+    "MessageHistory": [
+        {
+            "Sender": 1,
+            "MessageID": -2099031577,
+            "Text": "Hey, I need 4x Granddaddy Purple. I'll pay <color=#46CB4F>$295</color>. Deal?",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 0,
+            "MessageID": -517921485,
+            "Text": "How about 5x Granddaddy Purple for $335?",
+            "EndOfChain": false
+        },
+        {
+            "Sender": 1,
+            "MessageID": 1665071961,
+            "Text": "I guess that's fine. When?",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 0,
+            "MessageID": -1338082044,
+            "Text": "Morning",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": 1545248867,
+            "Text": "Great, I'll meet you <b>at the basketball court</b> between 6:00 AM and 12:00 PM.",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": 1175263565,
+            "Text": "Hey, I need 3x Pink Diamond. I'll pay <color=#46CB4F>$420</color>. Deal?",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 0,
+            "MessageID": -1099129014,
+            "Text": "How about 5x Pink Diamond for $540?",
+            "EndOfChain": false
+        },
+        {
+            "Sender": 1,
+            "MessageID": 287535194,
+            "Text": "Alright then. What time?",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 0,
+            "MessageID": 677479559,
+            "Text": "Night",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": -864801350,
+            "Text": "Great, I'll meet you <b>next to Bud's bar</b> between 6:00 PM and 12:00 PM.",
+            "EndOfChain": true
+        }
+    ],
+    "ActiveResponses": [],
+    "IsHidden": false
+}

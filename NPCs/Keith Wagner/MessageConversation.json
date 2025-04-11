@@ -1,0 +1,71 @@
+{
+    "DataType": "MSGConversationData",
+    "DataVersion": 0,
+    "GameVersion": "0.3.3f15",
+    "ConversationIndex": 14,
+    "Read": true,
+    "MessageHistory": [
+        {
+            "Sender": 1,
+            "MessageID": -1240240688,
+            "Text": "Need me 2x Granddaddy Purple! I'll pay <color=#46CB4F>$95</color> yeah??",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 0,
+            "MessageID": -944234151,
+            "Text": "How about 5x Granddaddy Purple for $235?",
+            "EndOfChain": false
+        },
+        {
+            "Sender": 1,
+            "MessageID": -74799967,
+            "Text": "Goddammit no. I'll just look elsewhere",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": -1341339348,
+            "Text": "I NEED 2x Granddaddy Purple. I GOT <color=#46CB4F>$95</color>. DEAL?",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 0,
+            "MessageID": 673515508,
+            "Text": "How about 5x Granddaddy Purple for $235?",
+            "EndOfChain": false
+        },
+        {
+            "Sender": 1,
+            "MessageID": -216002495,
+            "Text": "You insane?! No thanks",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": 752112129,
+            "Text": "You got 2x Granddaddy Purple? I'll pay <color=#46CB4F>$95</color> for it",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 0,
+            "MessageID": 600900520,
+            "Text": "How about 5x Granddaddy Purple for $155?",
+            "EndOfChain": false
+        },
+        {
+            "Sender": 1,
+            "MessageID": -366859736,
+            "Text": "Not gonna happen!! I'll get it somewhere else bitch",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": 806410369,
+            "Text": "TOO LONG!! Nevermind",
+            "EndOfChain": true
+        }
+    ],
+    "ActiveResponses": [],
+    "IsHidden": false
+}

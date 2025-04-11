@@ -1,0 +1,30 @@
+{
+    "DataType": "ChemistData",
+    "DataVersion": 0,
+    "GameVersion": "0.3.4f4",
+    "ID": "brian_scott",
+    "AssignedProperty": "barn",
+    "FirstName": "Brian",
+    "LastName": "Scott",
+    "IsMale": true,
+    "AppearanceIndex": 4,
+    "Position": {
+        "x": 198.82774353027345,
+        "y": 0.0899994894862175,
+        "z": -15.331982612609864
+    },
+    "Rotation": {
+        "x": 0.0,
+        "y": 0.7071070075035095,
+        "z": 0.0,
+        "w": 0.7071066498756409
+    },
+    "GUID": "4bc5e2ce-1679-4c60-ad01-886b98f51540",
+    "PaidForToday": true,
+    "MoveItemData": {
+        "TemplateItemJSON": "",
+        "GrabbedItemQuantity": 0,
+        "SourceGUID": "",
+        "DestinationGUID": ""
+    }
+}

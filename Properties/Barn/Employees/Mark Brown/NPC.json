@@ -1,0 +1,30 @@
+{
+    "DataType": "BotanistData",
+    "DataVersion": 0,
+    "GameVersion": "0.3.4f4",
+    "ID": "mark_brown",
+    "AssignedProperty": "barn",
+    "FirstName": "Mark",
+    "LastName": "Brown",
+    "IsMale": true,
+    "AppearanceIndex": 0,
+    "Position": {
+        "x": 177.66290283203126,
+        "y": -0.008779296651482582,
+        "z": -4.6369452476501469
+    },
+    "Rotation": {
+        "x": 0.0,
+        "y": -0.35980352759361269,
+        "z": 0.0,
+        "w": 0.9330281615257263
+    },
+    "GUID": "4ebff0c7-ba3e-46cd-86d8-21bf0d8789c7",
+    "PaidForToday": true,
+    "MoveItemData": {
+        "TemplateItemJSON": "",
+        "GrabbedItemQuantity": 0,
+        "SourceGUID": "",
+        "DestinationGUID": ""
+    }
+}

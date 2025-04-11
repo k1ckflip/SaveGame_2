@@ -1,0 +1,71 @@
+{
+    "DataType": "MSGConversationData",
+    "DataVersion": 0,
+    "GameVersion": "0.3.3f15",
+    "ConversationIndex": 16,
+    "Read": true,
+    "MessageHistory": [
+        {
+            "Sender": 1,
+            "MessageID": 1068815966,
+            "Text": "Ok fine. What time?",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 0,
+            "MessageID": -997231328,
+            "Text": "Afternoon",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": -908798273,
+            "Text": "Great, I'll meet you <b>behind the pawn shop</b> between 12:00 PM and 6:00 PM.",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": 117346895,
+            "Text": "Hello, I'm after 3x Granddaddy Purple. I can pay <color=#46CB4F>$160</color> for it.",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": -1246604001,
+            "Text": "Oh alright",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": -1445570207,
+            "Text": "Hey, I need 3x Granddaddy Purple. I'll pay <color=#46CB4F>$160</color>. Deal?",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 0,
+            "MessageID": 244527792,
+            "Text": "How about 5x Granddaddy Purple for $260?",
+            "EndOfChain": false
+        },
+        {
+            "Sender": 1,
+            "MessageID": 1440875676,
+            "Text": "Ok fine. What time?",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 0,
+            "MessageID": 1882736403,
+            "Text": "Afternoon",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": -1913631966,
+            "Text": "Great, I'll meet you <b>in the west construction site</b> between 12:00 PM and 6:00 PM.",
+            "EndOfChain": true
+        }
+    ],
+    "ActiveResponses": [],
+    "IsHidden": false
+}

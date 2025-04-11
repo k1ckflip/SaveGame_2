@@ -1,0 +1,30 @@
+{
+    "DataType": "ChemistData",
+    "DataVersion": 0,
+    "GameVersion": "0.3.4f4",
+    "ID": "margaret_hernandez",
+    "AssignedProperty": "barn",
+    "FirstName": "Margaret",
+    "LastName": "Hernandez",
+    "IsMale": false,
+    "AppearanceIndex": 3,
+    "Position": {
+        "x": 177.17767333984376,
+        "y": -0.008779296651482582,
+        "z": -2.2974276542663576
+    },
+    "Rotation": {
+        "x": 0.0,
+        "y": 1.0,
+        "z": 0.0,
+        "w": 3.874301341966202e-7
+    },
+    "GUID": "a3bb3194-9c0d-4d9d-9697-1ec9181b8288",
+    "PaidForToday": true,
+    "MoveItemData": {
+        "TemplateItemJSON": "",
+        "GrabbedItemQuantity": 0,
+        "SourceGUID": "",
+        "DestinationGUID": ""
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "DataType": "CocaineProductData",
+    "DataVersion": 0,
+    "GameVersion": "0.3.4f4",
+    "Name": "Pink Mint",
+    "ID": "pinkmint",
+    "DrugType": 2,
+    "Properties": [
+        "jennerising"
+    ],
+    "AppearanceSettings": {
+        "MainColor": {
+            "r": 255,
+            "g": 195,
+            "b": 252,
+            "a": 255
+        },
+        "SecondaryColor": {
+            "r": 255,
+            "g": 198,
+            "b": 252,
+            "a": 255
+        }
+    }
+}

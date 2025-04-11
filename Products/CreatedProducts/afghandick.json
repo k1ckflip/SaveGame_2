@@ -1,0 +1,31 @@
+{
+    "DataType": "CocaineProductData",
+    "DataVersion": 0,
+    "GameVersion": "0.3.4f4",
+    "Name": "Afghan Dick",
+    "ID": "afghandick",
+    "DrugType": 2,
+    "Properties": [
+        "calming",
+        "energizing",
+        "brighteyed",
+        "thoughtprovoking",
+        "tropicthunder",
+        "glowie",
+        "zombifying"
+    ],
+    "AppearanceSettings": {
+        "MainColor": {
+            "r": 255,
+            "g": 249,
+            "b": 242,
+            "a": 255
+        },
+        "SecondaryColor": {
+            "r": 234,
+            "g": 245,
+            "b": 205,
+            "a": 255
+        }
+    }
+}

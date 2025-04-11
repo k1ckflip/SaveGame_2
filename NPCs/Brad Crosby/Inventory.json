@@ -1,0 +1,9 @@
+{
+    "Items": [
+        "{\"DataType\":\"CocaineData\",\"DataVersion\":0,\"GameVersion\":\"0.3.4f4\",\"ID\":\"cocaine\",\"Quantity\":3,\"Quality\":\"Heavenly\",\"PackagingID\":\"jar\"}",
+        "{\"DataType\":\"CocaineData\",\"DataVersion\":0,\"GameVersion\":\"0.3.4f4\",\"ID\":\"cocaine\",\"Quantity\":3,\"Quality\":\"Heavenly\",\"PackagingID\":\"baggie\"}",
+        "{\"DataType\":\"CocaineData\",\"DataVersion\":0,\"GameVersion\":\"0.3.4f4\",\"ID\":\"tokyodeath\",\"Quantity\":9,\"Quality\":\"Heavenly\",\"PackagingID\":\"baggie\"}",
+        "{\"DataType\":\"CocaineData\",\"DataVersion\":0,\"GameVersion\":\"0.3.4f4\",\"ID\":\"cocaine\",\"Quantity\":2,\"Quality\":\"Heavenly\",\"PackagingID\":\"brick\"}",
+        "{\"DataType\":\"ItemData\",\"DataVersion\":0,\"GameVersion\":\"0.3.4f4\",\"ID\":\"\",\"Quantity\":0}"
+    ]
+}

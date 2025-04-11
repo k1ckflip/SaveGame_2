@@ -1,0 +1,59 @@
+{
+    "DataType": "MSGConversationData",
+    "DataVersion": 0,
+    "GameVersion": "0.3.3f15",
+    "ConversationIndex": 17,
+    "Read": true,
+    "MessageHistory": [
+        {
+            "Sender": 1,
+            "MessageID": -16026100,
+            "Text": "Hello, I'm after 5x Pink Diamond. I can pay <color=#46CB4F>$665</color> for it.",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 0,
+            "MessageID": 1575062271,
+            "Text": "Sure thing",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": 1566586965,
+            "Text": "Great, I'll meet you <b>Behind Randy's bait & tackle</b> between 12:00 PM and 6:00 PM.",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": -420262134,
+            "Text": "Hey, can I get 5x Pink Diamond? I'll pay <color=#46CB4F>$710</color>",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 0,
+            "MessageID": -550546566,
+            "Text": "How about 5x Pink Diamond for $710?",
+            "EndOfChain": false
+        },
+        {
+            "Sender": 1,
+            "MessageID": 1520382285,
+            "Text": "Alright then. What time?",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 0,
+            "MessageID": 233664042,
+            "Text": "Morning",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": 1599104710,
+            "Text": "Great, I'll meet you <b>behind the shipping containers at the docks</b> between 6:00 AM and 12:00 PM.",
+            "EndOfChain": true
+        }
+    ],
+    "ActiveResponses": [],
+    "IsHidden": false
+}

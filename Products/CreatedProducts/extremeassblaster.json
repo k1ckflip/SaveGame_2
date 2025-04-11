@@ -1,0 +1,26 @@
+{
+    "DataType": "MethProductData",
+    "DataVersion": 0,
+    "GameVersion": "0.3.4f4",
+    "Name": "Extreme Assblaster",
+    "ID": "extremeassblaster",
+    "DrugType": 1,
+    "Properties": [
+        "spicy",
+        "tropicthunder"
+    ],
+    "AppearanceSettings": {
+        "MainColor": {
+            "r": 255,
+            "g": 166,
+            "b": 147,
+            "a": 255
+        },
+        "SecondaryColor": {
+            "r": 255,
+            "g": 157,
+            "b": 109,
+            "a": 255
+        }
+    }
+}

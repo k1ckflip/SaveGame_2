@@ -1,0 +1,71 @@
+{
+    "DataType": "MSGConversationData",
+    "DataVersion": 0,
+    "GameVersion": "0.3.3f15",
+    "ConversationIndex": 16,
+    "Read": true,
+    "MessageHistory": [
+        {
+            "Sender": 1,
+            "MessageID": -1843972071,
+            "Text": "Hello, I'm after 6x Granddaddy Purple. I can pay <color=#46CB4F>$385</color> for it.",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 0,
+            "MessageID": 360859477,
+            "Text": "How about 10x Granddaddy Purple for $515?",
+            "EndOfChain": false
+        },
+        {
+            "Sender": 1,
+            "MessageID": 1427298973,
+            "Text": "I guess that's fine. When?",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 0,
+            "MessageID": -1139293232,
+            "Text": "Afternoon",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": 875439233,
+            "Text": "Great, I'll meet you <b>behind the diner</b> between 12:00 PM and 6:00 PM.",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": -1093716132,
+            "Text": "Hello, I'm after 5x Meth. I can pay <color=#46CB4F>$375</color> for it.",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 0,
+            "MessageID": -1800742613,
+            "Text": "Yes",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": -1625306300,
+            "Text": "Great, I'll meet you <b>in the parking garage next to the casino</b> between 6:00 PM and 12:00 PM.",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": -1220695076,
+            "Text": "Hello, I'm after 8x Granddaddy Purple. I can pay <color=#46CB4F>$520</color> for it.",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": 238093304,
+            "Text": "nvm",
+            "EndOfChain": true
+        }
+    ],
+    "ActiveResponses": [],
+    "IsHidden": false
+}

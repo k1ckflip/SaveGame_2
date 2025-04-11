@@ -1,0 +1,44 @@
+{
+    "DataType": "WeedProductData",
+    "DataVersion": 0,
+    "GameVersion": "0.3.4f4",
+    "Name": "Ultra Urkle",
+    "ID": "ultraurkle",
+    "DrugType": 0,
+    "Properties": [
+        "smelly",
+        "Euphoric",
+        "sneaky",
+        "sedating",
+        "balding",
+        "brighteyed",
+        "jennerising",
+        "tropicthunder"
+    ],
+    "AppearanceSettings": {
+        "MainColor": {
+            "r": 114,
+            "g": 120,
+            "b": 77,
+            "a": 255
+        },
+        "SecondaryColor": {
+            "r": 133,
+            "g": 138,
+            "b": 80,
+            "a": 255
+        },
+        "LeafColor": {
+            "r": 123,
+            "g": 129,
+            "b": 78,
+            "a": 255
+        },
+        "StemColor": {
+            "r": 91,
+            "g": 96,
+            "b": 61,
+            "a": 255
+        }
+    }
+}

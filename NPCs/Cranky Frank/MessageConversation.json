@@ -1,0 +1,71 @@
+{
+    "DataType": "MSGConversationData",
+    "DataVersion": 0,
+    "GameVersion": "0.3.3f15",
+    "ConversationIndex": 16,
+    "Read": true,
+    "MessageHistory": [
+        {
+            "Sender": 0,
+            "MessageID": 2017642623,
+            "Text": "Afternoon",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": 898843436,
+            "Text": "Good!! I'll see u <b>Behind Randy's bait & tackle</b> between 12:00 PM and 6:00 PM.",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": -1139890689,
+            "Text": "I NEED 5x Granddaddy Purple. I GOT <color=#46CB4F>$380</color>. DEAL?",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 0,
+            "MessageID": -1148743580,
+            "Text": "Yep",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": -1552737167,
+            "Text": "Good!! I'll see u <b>in the central canal near the car wash</b> between 12:00 PM and 6:00 PM.",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": -216020937,
+            "Text": "U got 5x Granddaddy Purple??? I'll pay <color=#46CB4F>$385</color> for it. DEAL?",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 0,
+            "MessageID": 234236408,
+            "Text": "How about 10x Granddaddy Purple for $515?",
+            "EndOfChain": false
+        },
+        {
+            "Sender": 1,
+            "MessageID": -386662044,
+            "Text": "Arghh fine. What time?",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 0,
+            "MessageID": -1156739346,
+            "Text": "Morning",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": 2087267059,
+            "Text": "Good!! I'll see u <b>in the central canal near the car wash</b> between 6:00 AM and 12:00 PM.",
+            "EndOfChain": true
+        }
+    ],
+    "ActiveResponses": [],
+    "IsHidden": false
+}

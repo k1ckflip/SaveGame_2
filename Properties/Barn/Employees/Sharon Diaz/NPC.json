@@ -1,0 +1,30 @@
+{
+    "DataType": "PackagerData",
+    "DataVersion": 0,
+    "GameVersion": "0.3.4f4",
+    "ID": "sharon_diaz",
+    "AssignedProperty": "barn",
+    "FirstName": "Sharon",
+    "LastName": "Diaz",
+    "IsMale": false,
+    "AppearanceIndex": 4,
+    "Position": {
+        "x": 179.78628540039063,
+        "y": -0.008779296651482582,
+        "z": -6.287089824676514
+    },
+    "Rotation": {
+        "x": 0.0,
+        "y": -0.6206932067871094,
+        "z": 0.0,
+        "w": 0.7840535640716553
+    },
+    "GUID": "1c13f6a4-4811-45a9-b214-74b99322958c",
+    "PaidForToday": true,
+    "MoveItemData": {
+        "TemplateItemJSON": "",
+        "GrabbedItemQuantity": 0,
+        "SourceGUID": "",
+        "DestinationGUID": ""
+    }
+}

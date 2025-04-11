@@ -1,0 +1,40 @@
+{
+    "DataType": "WeedProductData",
+    "DataVersion": 0,
+    "GameVersion": "0.3.4f4",
+    "Name": "Crazy Diamond",
+    "ID": "crazydiamond",
+    "DrugType": 0,
+    "Properties": [
+        "refreshing",
+        "Euphoric",
+        "brighteyed",
+        "giraffying"
+    ],
+    "AppearanceSettings": {
+        "MainColor": {
+            "r": 103,
+            "g": 123,
+            "b": 82,
+            "a": 255
+        },
+        "SecondaryColor": {
+            "r": 139,
+            "g": 145,
+            "b": 91,
+            "a": 255
+        },
+        "LeafColor": {
+            "r": 121,
+            "g": 134,
+            "b": 86,
+            "a": 255
+        },
+        "StemColor": {
+            "r": 82,
+            "g": 98,
+            "b": 65,
+            "a": 255
+        }
+    }
+}

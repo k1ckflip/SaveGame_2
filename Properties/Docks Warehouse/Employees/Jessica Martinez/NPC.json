@@ -1,0 +1,30 @@
+{
+    "DataType": "PackagerData",
+    "DataVersion": 0,
+    "GameVersion": "0.3.4f4",
+    "ID": "jessica_martinez",
+    "AssignedProperty": "dockswarehouse",
+    "FirstName": "Jessica",
+    "LastName": "Martinez",
+    "IsMale": false,
+    "AppearanceIndex": 2,
+    "Position": {
+        "x": -72.92633819580078,
+        "y": -2.429999828338623,
+        "z": -64.9421157836914
+    },
+    "Rotation": {
+        "x": 0.0,
+        "y": -0.23072828352451325,
+        "z": 0.0,
+        "w": 0.973018229007721
+    },
+    "GUID": "6b857c1b-0035-49b6-b3ad-5f26b98898c7",
+    "PaidForToday": true,
+    "MoveItemData": {
+        "TemplateItemJSON": "",
+        "GrabbedItemQuantity": 0,
+        "SourceGUID": "",
+        "DestinationGUID": ""
+    }
+}

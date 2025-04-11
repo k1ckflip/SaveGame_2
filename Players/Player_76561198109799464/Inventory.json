@@ -1,0 +1,13 @@
+{
+    "Items": [
+        "{\"DataType\":\"ItemData\",\"DataVersion\":0,\"GameVersion\":\"0.3.3f15\",\"ID\":\"baseballbat\",\"Quantity\":1}",
+        "{\"DataType\":\"ItemData\",\"DataVersion\":0,\"GameVersion\":\"0.3.3f15\",\"ID\":\"goldenskateboard\",\"Quantity\":1}",
+        "{\"DataType\":\"MethData\",\"DataVersion\":0,\"GameVersion\":\"0.3.3f15\",\"ID\":\"pinkdiamond\",\"Quantity\":3,\"Quality\":\"Standard\",\"PackagingID\":\"jar\"}",
+        "{\"DataType\":\"ItemData\",\"DataVersion\":0,\"GameVersion\":\"0.3.3f15\",\"ID\":\"cuke\",\"Quantity\":20}",
+        "{\"DataType\":\"ItemData\",\"DataVersion\":0,\"GameVersion\":\"0.3.3f15\",\"ID\":\"cuke\",\"Quantity\":20}",
+        "{\"DataType\":\"WeedData\",\"DataVersion\":0,\"GameVersion\":\"0.3.3f15\",\"ID\":\"soft&wet\",\"Quantity\":4,\"Quality\":\"Heavenly\",\"PackagingID\":\"\"}",
+        "{\"DataType\":\"ItemData\",\"DataVersion\":0,\"GameVersion\":\"0.3.3f15\",\"ID\":\"cuke\",\"Quantity\":20}",
+        "{\"DataType\":\"WeedData\",\"DataVersion\":0,\"GameVersion\":\"0.3.3f15\",\"ID\":\"granddaddypurple\",\"Quantity\":15,\"Quality\":\"Heavenly\",\"PackagingID\":\"jar\"}",
+        "{\"DataType\":\"CashData\",\"DataVersion\":0,\"GameVersion\":\"0.3.3f15\",\"ID\":\"cash\",\"Quantity\":1,\"CashBalance\":62566.5859375}"
+    ]
+}

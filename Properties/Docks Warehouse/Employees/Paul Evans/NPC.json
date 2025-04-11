@@ -1,0 +1,30 @@
+{
+    "DataType": "ChemistData",
+    "DataVersion": 0,
+    "GameVersion": "0.3.4f4",
+    "ID": "paul_evans",
+    "AssignedProperty": "dockswarehouse",
+    "FirstName": "Paul",
+    "LastName": "Evans",
+    "IsMale": true,
+    "AppearanceIndex": 2,
+    "Position": {
+        "x": -72.22792053222656,
+        "y": -2.429999828338623,
+        "z": -61.3817253112793
+    },
+    "Rotation": {
+        "x": 0.0,
+        "y": -0.43003299832344057,
+        "z": 0.0,
+        "w": 0.902813196182251
+    },
+    "GUID": "b0bf9d0a-e0d5-41b0-81ec-24daf1e61d87",
+    "PaidForToday": true,
+    "MoveItemData": {
+        "TemplateItemJSON": "",
+        "GrabbedItemQuantity": 0,
+        "SourceGUID": "",
+        "DestinationGUID": ""
+    }
+}

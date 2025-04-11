@@ -1,0 +1,8 @@
+{
+    "DataType": "BrickPressConfigurationData",
+    "DataVersion": 0,
+    "GameVersion": "0.3.4f4",
+    "Destination": {
+        "ObjectGUID": "ab411849-2bd8-4005-a6c7-0ddf2b65a762"
+    }
+}

@@ -1,0 +1,38 @@
+{
+    "DataType": "DryingRackData",
+    "DataVersion": 0,
+    "GameVersion": "0.3.4f4",
+    "GUID": "e753ed43-5e55-4997-85e7-669b88465fa3",
+    "ItemString": "{\n    \"DataType\": \"ItemData\",\n    \"DataVersion\": 0,\n    \"GameVersion\": \"0.3.4f4\",\n    \"ID\": \"dryingrack\",\n    \"Quantity\": 1\n}",
+    "LoadOrder": 0,
+    "GridGUID": "fa2d9b23-eb58-43ae-8f8b-7c37a132a46e",
+    "OriginCoordinate": {
+        "x": 6.0,
+        "y": 23.0
+    },
+    "Rotation": -90,
+    "Input": {
+        "Items": [
+            "{\"DataType\":\"QualityItemData\",\"DataVersion\":0,\"GameVersion\":\"0.3.4f4\",\"ID\":\"cocaleaf\",\"Quantity\":12,\"Quality\":\"Standard\"}"
+        ]
+    },
+    "Output": {
+        "Items": [
+            "{\"DataType\":\"QualityItemData\",\"DataVersion\":0,\"GameVersion\":\"0.3.4f4\",\"ID\":\"cocaleaf\",\"Quantity\":20,\"Quality\":\"Heavenly\"}"
+        ]
+    },
+    "DryingOperations": [
+        {
+            "ItemID": "cocaleaf",
+            "Quantity": 16,
+            "StartQuality": 2,
+            "Time": 344
+        },
+        {
+            "ItemID": "cocaleaf",
+            "Quantity": 4,
+            "StartQuality": 2,
+            "Time": 177
+        }
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "DataType": "WeedProductData",
+    "DataVersion": 0,
+    "GameVersion": "0.3.4f4",
+    "Name": "Sweet Durkle",
+    "ID": "sweetdurkle",
+    "DrugType": 0,
+    "Properties": [
+        "smelly",
+        "toxic",
+        "sneaky",
+        "sedating",
+        "balding",
+        "brighteyed",
+        "jennerising",
+        "tropicthunder"
+    ],
+    "AppearanceSettings": {
+        "MainColor": {
+            "r": 95,
+            "g": 113,
+            "b": 66,
+            "a": 255
+        },
+        "SecondaryColor": {
+            "r": 115,
+            "g": 140,
+            "b": 67,
+            "a": 255
+        },
+        "LeafColor": {
+            "r": 105,
+            "g": 126,
+            "b": 66,
+            "a": 255
+        },
+        "StemColor": {
+            "r": 76,
+            "g": 90,
+            "b": 52,
+            "a": 255
+        }
+    }
+}

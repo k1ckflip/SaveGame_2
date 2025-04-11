@@ -1,0 +1,71 @@
+{
+    "DataType": "MSGConversationData",
+    "DataVersion": 0,
+    "GameVersion": "0.3.4f4",
+    "ConversationIndex": 7,
+    "Read": true,
+    "MessageHistory": [
+        {
+            "Sender": 1,
+            "MessageID": 1014047889,
+            "Text": "You got 3x Cocaine? I'll pay <color=#46CB4F>$620</color> for it",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 0,
+            "MessageID": 1214236729,
+            "Text": "How about 3x Cocaine for $720?",
+            "EndOfChain": false
+        },
+        {
+            "Sender": 1,
+            "MessageID": 1456821300,
+            "Text": "I guess that's fine. When?",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 0,
+            "MessageID": -365226544,
+            "Text": "Late Night",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": -901979618,
+            "Text": "Great, I'll meet you <b>behind the bus stop in the suburbs</b> between 12:00 AM and 6:00 AM.",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": 676833409,
+            "Text": "You got 3x Cocaine? I'll pay <color=#46CB4F>$630</color> for it",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 0,
+            "MessageID": 1438816034,
+            "Text": "How about 3x Cocaine for $730?",
+            "EndOfChain": false
+        },
+        {
+            "Sender": 1,
+            "MessageID": 350285488,
+            "Text": "Ok. What time you wanna meet?",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 0,
+            "MessageID": -1474411293,
+            "Text": "Late Night",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": 1945304245,
+            "Text": "Great, I'll meet you <b>behind the green house in the suburbs</b> between 12:00 AM and 6:00 AM.",
+            "EndOfChain": true
+        }
+    ],
+    "ActiveResponses": [],
+    "IsHidden": false
+}

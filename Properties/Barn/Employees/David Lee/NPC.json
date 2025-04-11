@@ -1,0 +1,30 @@
+{
+    "DataType": "PackagerData",
+    "DataVersion": 0,
+    "GameVersion": "0.3.4f4",
+    "ID": "david_lee",
+    "AssignedProperty": "barn",
+    "FirstName": "David",
+    "LastName": "Lee",
+    "IsMale": true,
+    "AppearanceIndex": 6,
+    "Position": {
+        "x": 180.98321533203126,
+        "y": -0.008779296651482582,
+        "z": -3.1047210693359377
+    },
+    "Rotation": {
+        "x": 0.0,
+        "y": -0.866025447845459,
+        "z": 0.0,
+        "w": 0.5
+    },
+    "GUID": "a7a66859-5fc2-4597-86d7-54e3eec54b87",
+    "PaidForToday": true,
+    "MoveItemData": {
+        "TemplateItemJSON": "",
+        "GrabbedItemQuantity": 0,
+        "SourceGUID": "",
+        "DestinationGUID": ""
+    }
+}

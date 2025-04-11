@@ -1,0 +1,52 @@
+{
+    "DataType": "ContractData",
+    "DataVersion": 0,
+    "GameVersion": "0.3.4f4",
+    "GUID": "809e4cc3-d3ec-416a-8bfa-48932e32750c",
+    "State": 1,
+    "IsTracked": true,
+    "Title": "Deal for Jackie",
+    "Description": "Jackie has requested a delivery of 3x Cocaine Next to the destroyed RV for $790.",
+    "Expires": true,
+    "ExpiryDate": {
+        "DataType": "GameDateTimeData",
+        "DataVersion": 0,
+        "GameVersion": "0.3.4f4",
+        "ElapsedDays": 104,
+        "Time": 600
+    },
+    "Entries": [
+        {
+            "DataType": "QuestEntryData",
+            "DataVersion": 0,
+            "GameVersion": "0.3.4f4",
+            "Name": "3x Cocaine, Destroyed RV",
+            "State": 1
+        }
+    ],
+    "CustomerGUID": "184784cc-08fc-4d3e-a631-d29d9e8d52de",
+    "Payment": 790.0,
+    "ProductList": {
+        "entries": [
+            {
+                "ProductID": "cocaine",
+                "Quality": 3,
+                "Quantity": 3
+            }
+        ]
+    },
+    "DeliveryLocationGUID": "4f13f483-b3be-4652-9975-78c6759992a5",
+    "DeliveryWindow": {
+        "IsEnabled": true,
+        "WindowStartTime": 0,
+        "WindowEndTime": 600
+    },
+    "PickupScheduleIndex": 0,
+    "AcceptTime": {
+        "DataType": "GameDateTimeData",
+        "DataVersion": 0,
+        "GameVersion": "0.3.4f4",
+        "ElapsedDays": 103,
+        "Time": 1534
+    }
+}

@@ -1,0 +1,30 @@
+{
+    "DataType": "BotanistData",
+    "DataVersion": 0,
+    "GameVersion": "0.3.4f4",
+    "ID": "charles_wilson",
+    "AssignedProperty": "barn",
+    "FirstName": "Charles",
+    "LastName": "Wilson",
+    "IsMale": true,
+    "AppearanceIndex": 5,
+    "Position": {
+        "x": 188.69766235351563,
+        "y": 0.09000080823898316,
+        "z": -4.288662910461426
+    },
+    "Rotation": {
+        "x": 0.0,
+        "y": 0.5004576444625855,
+        "z": 0.0,
+        "w": 0.8657610416412354
+    },
+    "GUID": "baff9abe-aadf-40cf-91c1-ec325f46d790",
+    "PaidForToday": true,
+    "MoveItemData": {
+        "TemplateItemJSON": "",
+        "GrabbedItemQuantity": 0,
+        "SourceGUID": "",
+        "DestinationGUID": ""
+    }
+}

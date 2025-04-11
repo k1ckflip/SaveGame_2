@@ -1,0 +1,75 @@
+{
+    "Gender": 1,
+    "Weight": 0.3056451678276062,
+    "SkinColor": {
+        "r": 0.9599999785423279,
+        "g": 0.8700000047683716,
+        "b": 0.7900000214576721,
+        "a": 1.0
+    },
+    "HairStyle": "Avatar/Hair/LongCurly/LongCurly",
+    "HairColor": {
+        "r": 0.5,
+        "g": 0.3700000047683716,
+        "b": 0.1599999964237213,
+        "a": 1.0
+    },
+    "Mouth": "Avatar/Layers/Face/Face_SlightSmile",
+    "FacialHair": "",
+    "FacialDetails": "Avatar/Layers/Face/Freckles",
+    "FacialDetailsIntensity": 0.676612913608551,
+    "EyeballColor": {
+        "r": 1.0,
+        "g": 0.8199999928474426,
+        "b": 0.8199999928474426,
+        "a": 1.0
+    },
+    "UpperEyeLidRestingPosition": 0.24596774578094483,
+    "LowerEyeLidRestingPosition": 0.0,
+    "PupilDilation": 0.64838707447052,
+    "EyebrowScale": 0.9876612424850464,
+    "EyebrowThickness": 1.2999999523162842,
+    "EyebrowRestingHeight": 0.5806452035903931,
+    "EyebrowRestingAngle": -2.7580642700195314,
+    "Top": "Avatar/Layers/Top/V-Neck",
+    "TopColor": {
+        "r": 0.38999998569488528,
+        "g": 0.38999998569488528,
+        "b": 0.38999998569488528,
+        "a": 1.0
+    },
+    "Bottom": "Avatar/Layers/Bottom/CargoPants",
+    "BottomColor": {
+        "r": 0.23000000417232514,
+        "g": 0.23000000417232514,
+        "b": 0.23000000417232514,
+        "a": 1.0
+    },
+    "Shoes": "Avatar/Accessories/Feet/Sneakers/Sneakers",
+    "ShoesColor": {
+        "r": 0.23000000417232514,
+        "g": 0.23000000417232514,
+        "b": 0.23000000417232514,
+        "a": 1.0
+    },
+    "Headwear": "",
+    "HeadwearColor": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 1.0
+    },
+    "Eyewear": "",
+    "EyewearColor": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 0.0
+    },
+    "Tattoos": [
+        "Avatar/Layers/Tattoos/Face/Face_Tribal",
+        "Avatar/Layers/Tattoos/Chest/Chest_DeadFace",
+        "Avatar/Layers/Tattoos/LeftArm/LeftArm_Alien",
+        "Avatar/Layers/Tattoos/RightArm/RightArm_Web"
+    ]
+}

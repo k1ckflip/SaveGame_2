@@ -1,0 +1,43 @@
+{
+    "DataType": "CustomerData",
+    "DataVersion": 0,
+    "GameVersion": "0.3.4f4",
+    "Dependence": 1.0,
+    "PurchaseableProducts": [
+        "cocaine",
+        "slimypuke"
+    ],
+    "ProductAffinities": [
+        0.23743894696235658,
+        -0.47645577788352969,
+        1.0
+    ],
+    "TimeSinceLastDealCompleted": 1545,
+    "TimeSinceLastDealOffered": 1675,
+    "OfferedDeals": 30,
+    "CompletedDeals": 16,
+    "IsContractOffered": false,
+    "OfferedContract": {
+        "Payment": 0.0,
+        "Products": {
+            "entries": []
+        },
+        "DeliveryLocationGUID": "",
+        "DeliveryWindow": {
+            "IsEnabled": false,
+            "WindowStartTime": 1200,
+            "WindowEndTime": 1800
+        },
+        "Expires": false,
+        "ExpiresAfter": 0,
+        "PickupScheduleIndex": 0,
+        "IsCounterOffer": false
+    },
+    "OfferedContractTime": {
+        "elapsedDays": 102,
+        "time": 1915
+    },
+    "TimeSincePlayerApproached": 34174,
+    "TimeSinceInstantDealOffered": 1146853,
+    "HasBeenRecommended": false
+}

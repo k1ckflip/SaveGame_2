@@ -1,0 +1,21 @@
+{
+    "DataType": "PackagerConfigurationData",
+    "DataVersion": 0,
+    "GameVersion": "0.3.4f4",
+    "Bed": {
+        "ObjectGUID": "f03ed040-dc22-43d6-b4d1-9f7d250b318e"
+    },
+    "Stations": {
+        "ObjectGUIDs": []
+    },
+    "Routes": {
+        "Routes": [
+            {
+                "SourceGUID": "0e02d54c-125f-4fb8-bdee-ad2bda27c132",
+                "DestinationGUID": "ba955d69-e646-45ad-a4f0-e2ac706f18a2",
+                "FilterMode": 1,
+                "FilterItemIDs": []
+            }
+        ]
+    }
+}

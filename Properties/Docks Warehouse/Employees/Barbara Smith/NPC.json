@@ -1,0 +1,30 @@
+{
+    "DataType": "BotanistData",
+    "DataVersion": 0,
+    "GameVersion": "0.3.4f4",
+    "ID": "barbara_smith",
+    "AssignedProperty": "dockswarehouse",
+    "FirstName": "Barbara",
+    "LastName": "Smith",
+    "IsMale": false,
+    "AppearanceIndex": 2,
+    "Position": {
+        "x": -82.73584747314453,
+        "y": -2.2300002574920656,
+        "z": -43.36155700683594
+    },
+    "Rotation": {
+        "x": 0.0,
+        "y": 0.8493098616600037,
+        "z": 0.0,
+        "w": 0.5278947353363037
+    },
+    "GUID": "a5366984-8bc0-4839-a449-63cdfe0a220d",
+    "PaidForToday": true,
+    "MoveItemData": {
+        "TemplateItemJSON": "",
+        "GrabbedItemQuantity": 0,
+        "SourceGUID": "",
+        "DestinationGUID": ""
+    }
+}

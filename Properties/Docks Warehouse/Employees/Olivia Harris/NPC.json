@@ -1,0 +1,30 @@
+{
+    "DataType": "ChemistData",
+    "DataVersion": 0,
+    "GameVersion": "0.3.4f4",
+    "ID": "olivia_harris",
+    "AssignedProperty": "dockswarehouse",
+    "FirstName": "Olivia",
+    "LastName": "Harris",
+    "IsMale": false,
+    "AppearanceIndex": 2,
+    "Position": {
+        "x": -72.06010437011719,
+        "y": -2.429999828338623,
+        "z": -63.71987533569336
+    },
+    "Rotation": {
+        "x": 0.0,
+        "y": -0.6863259673118591,
+        "z": 0.0,
+        "w": 0.7272940874099731
+    },
+    "GUID": "cff52274-2f3f-4c8d-ba2d-5cd21c37cd20",
+    "PaidForToday": true,
+    "MoveItemData": {
+        "TemplateItemJSON": "",
+        "GrabbedItemQuantity": 0,
+        "SourceGUID": "",
+        "DestinationGUID": ""
+    }
+}

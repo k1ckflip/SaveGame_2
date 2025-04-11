@@ -1,0 +1,28 @@
+{
+    "DataType": "MethProductData",
+    "DataVersion": 0,
+    "GameVersion": "0.3.4f4",
+    "Name": "Mega Durkle",
+    "ID": "megadurkle",
+    "DrugType": 1,
+    "Properties": [
+        "sneaky",
+        "athletic",
+        "brighteyed",
+        "giraffying"
+    ],
+    "AppearanceSettings": {
+        "MainColor": {
+            "r": 202,
+            "g": 202,
+            "b": 202,
+            "a": 255
+        },
+        "SecondaryColor": {
+            "r": 174,
+            "g": 199,
+            "b": 215,
+            "a": 255
+        }
+    }
+}

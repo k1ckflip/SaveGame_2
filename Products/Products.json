@@ -1,0 +1,1299 @@
+{
+    "DataType": "ProductManagerData",
+    "DataVersion": 0,
+    "GameVersion": "0.3.4f4",
+    "DiscoveredProducts": [
+        "ogkush",
+        "sourdiesel",
+        "greencrack",
+        "granddaddypurple",
+        "afghanass",
+        "afghancake",
+        "afghandick",
+        "afghanmint",
+        "afghanqueef",
+        "afghanshart",
+        "aspenballs",
+        "aspencake",
+        "aspendeath",
+        "aspendurkle",
+        "aspenfuel",
+        "aspensmegma",
+        "aspensplooge",
+        "bananadeath",
+        "bananafruit",
+        "bananaurkle",
+        "bigcheese",
+        "bigexpress",
+        "bigqueef",
+        "bigshart",
+        "biothunderfuck",
+        "californiacheese",
+        "californiasmegma",
+        "crazydiamond",
+        "darksplooge",
+        "deathmint",
+        "dreamcum",
+        "dreampuke",
+        "extacy",
+        "extremeass",
+        "extremeassblaster",
+        "extremeexpress",
+        "extremepunch",
+        "fatballs",
+        "fatqueef",
+        "fatsplooge",
+        "fruityass",
+        "fruitycrystal",
+        "fruitydeath",
+        "fruityfuel",
+        "fruitygrool",
+        "girlscoutmonkey",
+        "girlscoutpunch",
+        "goldexperience",
+        "gorillaballs",
+        "granddaddyfruit",
+        "granddaddyfuel",
+        "granddaddyghost",
+        "granddaddypuke",
+        "granddaddystink",
+        "hairycrystal",
+        "hairydurkle",
+        "hairymint",
+        "hairypiss",
+        "hairypunch",
+        "jürgenohjürgen",
+        "laballs",
+        "labomb",
+        "lapuke",
+        "laqueef",
+        "lasmegma",
+        "lasplooge",
+        "megacrystal",
+        "megadiesel",
+        "megadurkle",
+        "megapiss",
+        "megasmegma",
+        "miracleassblaster",
+        "miraclemonkey",
+        "nightmarediamond",
+        "nightmarerhino",
+        "nightmareurkle",
+        "ogslime",
+        "pinkcookies",
+        "pinkdiamond",
+        "pinkdiesel",
+        "pinkgrool",
+        "pinkmint",
+        "pinkmonkey",
+        "pinkpunch",
+        "purpleballs",
+        "purplemclovin",
+        "purplepunch",
+        "sexyballs",
+        "sexycake",
+        "sexyhaze",
+        "sexymonkey",
+        "sexypiss",
+        "shinycock",
+        "shinyslime",
+        "sigmabomb",
+        "slimycrystal",
+        "slimypuke",
+        "soft&wet",
+        "starplatinum",
+        "stonefree",
+        "strawberrybud",
+        "strawberrycrystal",
+        "strawberrymint",
+        "strawberryshart",
+        "superassblaster",
+        "superballs",
+        "supercrystal",
+        "superfuel",
+        "sweetcum",
+        "sweetdurkle",
+        "sweetqueef",
+        "thickcookies",
+        "thickgold",
+        "thicksplooge",
+        "tokyodeath",
+        "tokyodick",
+        "tokyomclovin",
+        "tokyothunderfuck",
+        "tusk",
+        "ultracum",
+        "ultramonkey",
+        "ultraurkle",
+        "weddingghost",
+        "whitegrool",
+        "whitepuke",
+        "meth",
+        "cocaine"
+    ],
+    "ListedProducts": [
+        "cocaine"
+    ],
+    "ActiveMixOperation": {
+        "ProductID": "",
+        "IngredientID": ""
+    },
+    "IsMixComplete": false,
+    "MixRecipes": [
+        {
+            "Product": "banana",
+            "Mixer": "granddaddypurple",
+            "Output": "aspendeath"
+        },
+        {
+            "Product": "paracetamol",
+            "Mixer": "aspendeath",
+            "Output": "shinycock"
+        },
+        {
+            "Product": "energydrink",
+            "Mixer": "granddaddypurple",
+            "Output": "strawberryshart"
+        },
+        {
+            "Product": "mouthwash",
+            "Mixer": "granddaddypurple",
+            "Output": "darksplooge"
+        },
+        {
+            "Product": "viagra",
+            "Mixer": "granddaddypurple",
+            "Output": "fruityass"
+        },
+        {
+            "Product": "gasoline",
+            "Mixer": "granddaddypurple",
+            "Output": "thickgold"
+        },
+        {
+            "Product": "motoroil",
+            "Mixer": "thickgold",
+            "Output": "labomb"
+        },
+        {
+            "Product": "motoroil",
+            "Mixer": "granddaddypurple",
+            "Output": "lasmegma"
+        },
+        {
+            "Product": "flumedicine",
+            "Mixer": "lasmegma",
+            "Output": "lasmegma"
+        },
+        {
+            "Product": "energydrink",
+            "Mixer": "lasmegma",
+            "Output": "sigmabomb"
+        },
+        {
+            "Product": "megabean",
+            "Mixer": "granddaddypurple",
+            "Output": "slimycrystal"
+        },
+        {
+            "Product": "paracetamol",
+            "Mixer": "slimycrystal",
+            "Output": "bananafruit"
+        },
+        {
+            "Product": "cuke",
+            "Mixer": "bananafruit",
+            "Output": "gorillaballs"
+        },
+        {
+            "Product": "gasoline",
+            "Mixer": "gorillaballs",
+            "Output": "bigqueef"
+        },
+        {
+            "Product": "donut",
+            "Mixer": "bigqueef",
+            "Output": "strawberrycrystal"
+        },
+        {
+            "Product": "flumedicine",
+            "Mixer": "strawberrycrystal",
+            "Output": "afghancake"
+        },
+        {
+            "Product": "viagra",
+            "Mixer": "afghancake",
+            "Output": "sexymonkey"
+        },
+        {
+            "Product": "mouthwash",
+            "Mixer": "sexymonkey",
+            "Output": "sweetqueef"
+        },
+        {
+            "Product": "donut",
+            "Mixer": "aspendeath",
+            "Output": "bigcheese"
+        },
+        {
+            "Product": "banana",
+            "Mixer": "sweetqueef",
+            "Output": "ultraurkle"
+        },
+        {
+            "Product": "flumedicine",
+            "Mixer": "ultraurkle",
+            "Output": "sweetdurkle"
+        },
+        {
+            "Product": "motoroil",
+            "Mixer": "sweetdurkle",
+            "Output": "sweetdurkle"
+        },
+        {
+            "Product": "granddaddypurple",
+            "Mixer": "horsesemen",
+            "Output": "fruitydeath"
+        },
+        {
+            "Product": "chili",
+            "Mixer": "granddaddypurple",
+            "Output": "megadiesel"
+        },
+        {
+            "Product": "battery",
+            "Mixer": "megadiesel",
+            "Output": "californiacheese"
+        },
+        {
+            "Product": "horsesemen",
+            "Mixer": "meth",
+            "Output": "pinkdiamond"
+        },
+        {
+            "Product": "chili",
+            "Mixer": "pinkdiamond",
+            "Output": "extremepunch"
+        },
+        {
+            "Product": "energydrink",
+            "Mixer": "extremepunch",
+            "Output": "purpleballs"
+        },
+        {
+            "Product": "megabean",
+            "Mixer": "californiacheese",
+            "Output": "biothunderfuck"
+        },
+        {
+            "Product": "paracetamol",
+            "Mixer": "biothunderfuck",
+            "Output": "purplemclovin"
+        },
+        {
+            "Product": "horsesemen",
+            "Mixer": "purplemclovin",
+            "Output": "pinkpunch"
+        },
+        {
+            "Product": "energydrink",
+            "Mixer": "pinkpunch",
+            "Output": "jürgenohjürgen"
+        },
+        {
+            "Product": "cuke",
+            "Mixer": "cocaine",
+            "Output": "aspencake"
+        },
+        {
+            "Product": "gasoline",
+            "Mixer": "aspencake",
+            "Output": "sexycake"
+        },
+        {
+            "Product": "battery",
+            "Mixer": "sexycake",
+            "Output": "thicksplooge"
+        },
+        {
+            "Product": "horsesemen",
+            "Mixer": "thicksplooge",
+            "Output": "sweetcum"
+        },
+        {
+            "Product": "paracetamol",
+            "Mixer": "sweetcum",
+            "Output": "granddaddyfruit"
+        },
+        {
+            "Product": "motoroil",
+            "Mixer": "granddaddyfruit",
+            "Output": "superballs"
+        },
+        {
+            "Product": "megabean",
+            "Mixer": "superballs",
+            "Output": "deathmint"
+        },
+        {
+            "Product": "cuke",
+            "Mixer": "deathmint",
+            "Output": "hairycrystal"
+        },
+        {
+            "Product": "cocaine",
+            "Mixer": "energydrink",
+            "Output": "ultramonkey"
+        },
+        {
+            "Product": "cocaine",
+            "Mixer": "viagra",
+            "Output": "sexypiss"
+        },
+        {
+            "Product": "cocaine",
+            "Mixer": "paracetamol",
+            "Output": "hairymint"
+        },
+        {
+            "Product": "cocaine",
+            "Mixer": "megabean",
+            "Output": "aspenballs"
+        },
+        {
+            "Product": "granddaddypurple",
+            "Mixer": "cuke",
+            "Output": "aspensmegma"
+        },
+        {
+            "Product": "pinkdiamond",
+            "Mixer": "battery",
+            "Output": "lasplooge"
+        },
+        {
+            "Product": "cocaine",
+            "Mixer": "addy",
+            "Output": "fruitygrool"
+        },
+        {
+            "Product": "lasplooge",
+            "Mixer": "energydrink",
+            "Output": "tokyomclovin"
+        },
+        {
+            "Product": "tokyomclovin",
+            "Mixer": "paracetamol",
+            "Output": "megadurkle"
+        },
+        {
+            "Product": "granddaddypurple",
+            "Mixer": "iodine",
+            "Output": "pinkcookies"
+        },
+        {
+            "Product": "granddaddypurple",
+            "Mixer": "donut",
+            "Output": "extremeexpress"
+        },
+        {
+            "Product": "cocaine",
+            "Mixer": "flumedicine",
+            "Output": "fatqueef"
+        },
+        {
+            "Product": "cocaine",
+            "Mixer": "horsesemen",
+            "Output": "bananadeath"
+        },
+        {
+            "Product": "extremeexpress",
+            "Mixer": "chili",
+            "Output": "aspendurkle"
+        },
+        {
+            "Product": "cocaine",
+            "Mixer": "iodine",
+            "Output": "pinkmint"
+        },
+        {
+            "Product": "megadiesel",
+            "Mixer": "donut",
+            "Output": "aspendurkle"
+        },
+        {
+            "Product": "granddaddypurple",
+            "Mixer": "paracetamol",
+            "Output": "superassblaster"
+        },
+        {
+            "Product": "strawberryshart",
+            "Mixer": "paracetamol",
+            "Output": "granddaddyfuel"
+        },
+        {
+            "Product": "extremepunch",
+            "Mixer": "megabean",
+            "Output": "bigexpress"
+        },
+        {
+            "Product": "cocaine",
+            "Mixer": "motoroil",
+            "Output": "laballs"
+        },
+        {
+            "Product": "lasplooge",
+            "Mixer": "viagra",
+            "Output": "thickcookies"
+        },
+        {
+            "Product": "pinkdiamond",
+            "Mixer": "viagra",
+            "Output": "extremeass"
+        },
+        {
+            "Product": "meth",
+            "Mixer": "viagra",
+            "Output": "laqueef"
+        },
+        {
+            "Product": "laqueef",
+            "Mixer": "chili",
+            "Output": "extremeassblaster"
+        },
+        {
+            "Product": "granddaddyfuel",
+            "Mixer": "battery",
+            "Output": "megapiss"
+        },
+        {
+            "Product": "granddaddyfuel",
+            "Mixer": "horsesemen",
+            "Output": "nightmareurkle"
+        },
+        {
+            "Product": "granddaddyfuel",
+            "Mixer": "chili",
+            "Output": "hairypunch"
+        },
+        {
+            "Product": "granddaddyfuel",
+            "Mixer": "iodine",
+            "Output": "strawberrybud"
+        },
+        {
+            "Product": "extremeassblaster",
+            "Mixer": "megabean",
+            "Output": "ultracum"
+        },
+        {
+            "Product": "cocaine",
+            "Mixer": "battery",
+            "Output": "aspenfuel"
+        },
+        {
+            "Product": "granddaddypurple",
+            "Mixer": "battery",
+            "Output": "granddaddyghost"
+        },
+        {
+            "Product": "cocaine",
+            "Mixer": "chili",
+            "Output": "megasmegma"
+        },
+        {
+            "Product": "superassblaster",
+            "Mixer": "energydrink",
+            "Output": "whitepuke"
+        },
+        {
+            "Product": "chili",
+            "Mixer": "aspenballs",
+            "Output": "fatsplooge"
+        },
+        {
+            "Product": "fatsplooge",
+            "Mixer": "paracetamol",
+            "Output": "weddingghost"
+        },
+        {
+            "Product": "fatsplooge",
+            "Mixer": "energydrink",
+            "Output": "miraclemonkey"
+        },
+        {
+            "Product": "meth",
+            "Mixer": "chili",
+            "Output": "supercrystal"
+        },
+        {
+            "Product": "meth",
+            "Mixer": "megabean",
+            "Output": "miracleassblaster"
+        },
+        {
+            "Product": "hairymint",
+            "Mixer": "chili",
+            "Output": "californiasmegma"
+        },
+        {
+            "Product": "californiasmegma",
+            "Mixer": "energydrink",
+            "Output": "purplepunch"
+        },
+        {
+            "Product": "bananadeath",
+            "Mixer": "chili",
+            "Output": "sexyballs"
+        },
+        {
+            "Product": "sexyballs",
+            "Mixer": "energydrink",
+            "Output": "hairydurkle"
+        },
+        {
+            "Product": "granddaddyfuel",
+            "Mixer": "megabean",
+            "Output": "tokyodick"
+        },
+        {
+            "Product": "granddaddyghost",
+            "Mixer": "paracetamol",
+            "Output": "extacy"
+        },
+        {
+            "Product": "extacy",
+            "Mixer": "energydrink",
+            "Output": "granddaddypuke"
+        },
+        {
+            "Product": "granddaddypuke",
+            "Mixer": "flumedicine",
+            "Output": "nightmarediamond"
+        },
+        {
+            "Product": "granddaddypurple",
+            "Mixer": "addy",
+            "Output": "starplatinum"
+        },
+        {
+            "Product": "starplatinum",
+            "Mixer": "horsesemen",
+            "Output": "whitegrool"
+        },
+        {
+            "Product": "whitegrool",
+            "Mixer": "battery",
+            "Output": "crazydiamond"
+        },
+        {
+            "Product": "granddaddyghost",
+            "Mixer": "iodine",
+            "Output": "goldexperience"
+        },
+        {
+            "Product": "goldexperience",
+            "Mixer": "paracetamol",
+            "Output": "stonefree"
+        },
+        {
+            "Product": "granddaddyghost",
+            "Mixer": "mouthwash",
+            "Output": "tusk"
+        },
+        {
+            "Product": "tusk",
+            "Mixer": "motoroil",
+            "Output": "soft&wet"
+        },
+        {
+            "Product": "darksplooge",
+            "Mixer": "battery",
+            "Output": "tusk"
+        },
+        {
+            "Product": "energydrink",
+            "Mixer": "miraclemonkey",
+            "Output": "pinkdiesel"
+        },
+        {
+            "Product": "chili",
+            "Mixer": "pinkdiesel",
+            "Output": "girlscoutmonkey"
+        },
+        {
+            "Product": "megabean",
+            "Mixer": "girlscoutmonkey",
+            "Output": "strawberrymint"
+        },
+        {
+            "Product": "paracetamol",
+            "Mixer": "strawberrymint",
+            "Output": "fruityfuel"
+        },
+        {
+            "Product": "cuke",
+            "Mixer": "fruityfuel",
+            "Output": "hairypiss"
+        },
+        {
+            "Product": "horsesemen",
+            "Mixer": "hairypiss",
+            "Output": "hairypiss"
+        },
+        {
+            "Product": "addy",
+            "Mixer": "hairypiss",
+            "Output": "girlscoutpunch"
+        },
+        {
+            "Product": "flumedicine",
+            "Mixer": "girlscoutpunch",
+            "Output": "bananaurkle"
+        },
+        {
+            "Product": "battery",
+            "Mixer": "bananaurkle",
+            "Output": "lapuke"
+        },
+        {
+            "Product": "viagra",
+            "Mixer": "ultramonkey",
+            "Output": "pinkgrool"
+        },
+        {
+            "Product": "cocaine",
+            "Mixer": "banana",
+            "Output": "dreampuke"
+        },
+        {
+            "Product": "fatsplooge",
+            "Mixer": "banana",
+            "Output": "fruitycrystal"
+        },
+        {
+            "Product": "dreampuke",
+            "Mixer": "cuke",
+            "Output": "tokyodeath"
+        },
+        {
+            "Product": "tokyodeath",
+            "Mixer": "paracetamol",
+            "Output": "bigshart"
+        },
+        {
+            "Product": "bigshart",
+            "Mixer": "gasoline",
+            "Output": "tokyothunderfuck"
+        },
+        {
+            "Product": "fruitycrystal",
+            "Mixer": "cuke",
+            "Output": "dreamcum"
+        },
+        {
+            "Product": "tokyothunderfuck",
+            "Mixer": "cuke",
+            "Output": "megacrystal"
+        },
+        {
+            "Product": "dreamcum",
+            "Mixer": "paracetamol",
+            "Output": "superfuel"
+        },
+        {
+            "Product": "megacrystal",
+            "Mixer": "battery",
+            "Output": "aspensplooge"
+        },
+        {
+            "Product": "superfuel",
+            "Mixer": "gasoline",
+            "Output": "afghanshart"
+        },
+        {
+            "Product": "aspensplooge",
+            "Mixer": "horsesemen",
+            "Output": "slimypuke"
+        },
+        {
+            "Product": "afghanshart",
+            "Mixer": "cuke",
+            "Output": "afghanass"
+        },
+        {
+            "Product": "afghanass",
+            "Mixer": "battery",
+            "Output": "afghandick"
+        },
+        {
+            "Product": "afghandick",
+            "Mixer": "horsesemen",
+            "Output": "sexyhaze"
+        },
+        {
+            "Product": "ultramonkey",
+            "Mixer": "banana",
+            "Output": "granddaddystink"
+        },
+        {
+            "Product": "cuke",
+            "Mixer": "granddaddystink",
+            "Output": "nightmarerhino"
+        },
+        {
+            "Product": "meth",
+            "Mixer": "energydrink",
+            "Output": "pinkmonkey"
+        },
+        {
+            "Product": "mouthwash",
+            "Mixer": "cocaine",
+            "Output": "fatballs"
+        },
+        {
+            "Product": "dreampuke",
+            "Mixer": "paracetamol",
+            "Output": "ogslime"
+        },
+        {
+            "Product": "ogslime",
+            "Mixer": "paracetamol",
+            "Output": "ogslime"
+        },
+        {
+            "Product": "ogslime",
+            "Mixer": "gasoline",
+            "Output": "afghanmint"
+        },
+        {
+            "Product": "afghanmint",
+            "Mixer": "cuke",
+            "Output": "afghanqueef"
+        },
+        {
+            "Product": "tokyodeath",
+            "Mixer": "cuke",
+            "Output": "tokyodeath"
+        },
+        {
+            "Product": "battery",
+            "Mixer": "afghanqueef",
+            "Output": "shinyslime"
+        }
+    ],
+    "ProductPrices": [
+        {
+            "String": "ogkush",
+            "Int": 38
+        },
+        {
+            "String": "sourdiesel",
+            "Int": 40
+        },
+        {
+            "String": "greencrack",
+            "Int": 50
+        },
+        {
+            "String": "granddaddypurple",
+            "Int": 65
+        },
+        {
+            "String": "meth",
+            "Int": 70
+        },
+        {
+            "String": "cocaine",
+            "Int": 190
+        },
+        {
+            "String": "afghanass",
+            "Int": 504
+        },
+        {
+            "String": "afghancake",
+            "Int": 74
+        },
+        {
+            "String": "afghandick",
+            "Int": 552
+        },
+        {
+            "String": "afghanmint",
+            "Int": 219
+        },
+        {
+            "String": "afghanqueef",
+            "Int": 279
+        },
+        {
+            "String": "afghanshart",
+            "Int": 444
+        },
+        {
+            "String": "aspenballs",
+            "Int": 204
+        },
+        {
+            "String": "aspencake",
+            "Int": 183
+        },
+        {
+            "String": "aspendeath",
+            "Int": 51
+        },
+        {
+            "String": "aspendurkle",
+            "Int": 67
+        },
+        {
+            "String": "aspenfuel",
+            "Int": 210
+        },
+        {
+            "String": "aspensmegma",
+            "Int": 52
+        },
+        {
+            "String": "aspensplooge",
+            "Int": 480
+        },
+        {
+            "String": "bananadeath",
+            "Int": 228
+        },
+        {
+            "String": "bananafruit",
+            "Int": 56
+        },
+        {
+            "String": "bananaurkle",
+            "Int": 390
+        },
+        {
+            "String": "bigcheese",
+            "Int": 61
+        },
+        {
+            "String": "bigexpress",
+            "Int": 175
+        },
+        {
+            "String": "bigqueef",
+            "Int": 54
+        },
+        {
+            "String": "bigshart",
+            "Int": 252
+        },
+        {
+            "String": "biothunderfuck",
+            "Int": 84
+        },
+        {
+            "String": "californiacheese",
+            "Int": 71
+        },
+        {
+            "String": "californiasmegma",
+            "Int": 300
+        },
+        {
+            "String": "crazydiamond",
+            "Int": 78
+        },
+        {
+            "String": "darksplooge",
+            "Int": 55
+        },
+        {
+            "String": "deathmint",
+            "Int": 513
+        },
+        {
+            "String": "dreamcum",
+            "Int": 390
+        },
+        {
+            "String": "dreampuke",
+            "Int": 250
+        },
+        {
+            "String": "extacy",
+            "Int": 66
+        },
+        {
+            "String": "extremeass",
+            "Int": 160
+        },
+        {
+            "String": "extremeassblaster",
+            "Int": 129
+        },
+        {
+            "String": "extremeexpress",
+            "Int": 54
+        },
+        {
+            "String": "extremepunch",
+            "Int": 133
+        },
+        {
+            "String": "fatballs",
+            "Int": 200
+        },
+        {
+            "String": "fatqueef",
+            "Int": 189
+        },
+        {
+            "String": "fatsplooge",
+            "Int": 300
+        },
+        {
+            "String": "fruityass",
+            "Int": 60
+        },
+        {
+            "String": "fruitycrystal",
+            "Int": 291
+        },
+        {
+            "String": "fruitydeath",
+            "Int": 62
+        },
+        {
+            "String": "fruityfuel",
+            "Int": 450
+        },
+        {
+            "String": "fruitygrool",
+            "Int": 216
+        },
+        {
+            "String": "girlscoutmonkey",
+            "Int": 345
+        },
+        {
+            "String": "girlscoutpunch",
+            "Int": 483
+        },
+        {
+            "String": "goldexperience",
+            "Int": 73
+        },
+        {
+            "String": "gorillaballs",
+            "Int": 55
+        },
+        {
+            "String": "granddaddyfruit",
+            "Int": 480
+        },
+        {
+            "String": "granddaddyfuel",
+            "Int": 74
+        },
+        {
+            "String": "granddaddyghost",
+            "Int": 58
+        },
+        {
+            "String": "granddaddypuke",
+            "Int": 73
+        },
+        {
+            "String": "granddaddystink",
+            "Int": 228
+        },
+        {
+            "String": "hairycrystal",
+            "Int": 603
+        },
+        {
+            "String": "hairydurkle",
+            "Int": 400
+        },
+        {
+            "String": "hairymint",
+            "Int": 186
+        },
+        {
+            "String": "hairypiss",
+            "Int": 420
+        },
+        {
+            "String": "hairypunch",
+            "Int": 85
+        },
+        {
+            "String": "jürgenohjürgen",
+            "Int": 101
+        },
+        {
+            "String": "laballs",
+            "Int": 201
+        },
+        {
+            "String": "labomb",
+            "Int": 56
+        },
+        {
+            "String": "lapuke",
+            "Int": 450
+        },
+        {
+            "String": "laqueef",
+            "Int": 102
+        },
+        {
+            "String": "lasmegma",
+            "Int": 56
+        },
+        {
+            "String": "lasplooge",
+            "Int": 134
+        },
+        {
+            "String": "megacrystal",
+            "Int": 400
+        },
+        {
+            "String": "megadiesel",
+            "Int": 57
+        },
+        {
+            "String": "megadurkle",
+            "Int": 200
+        },
+        {
+            "String": "megapiss",
+            "Int": 88
+        },
+        {
+            "String": "megasmegma",
+            "Int": 207
+        },
+        {
+            "String": "miracleassblaster",
+            "Int": 95
+        },
+        {
+            "String": "miraclemonkey",
+            "Int": 225
+        },
+        {
+            "String": "nightmarediamond",
+            "Int": 83
+        },
+        {
+            "String": "nightmarerhino",
+            "Int": 350
+        },
+        {
+            "String": "nightmareurkle",
+            "Int": 76
+        },
+        {
+            "String": "ogslime",
+            "Int": 216
+        },
+        {
+            "String": "pinkcookies",
+            "Int": 59
+        },
+        {
+            "String": "pinkdiamond",
+            "Int": 150
+        },
+        {
+            "String": "pinkdiesel",
+            "Int": 231
+        },
+        {
+            "String": "pinkgrool",
+            "Int": 255
+        },
+        {
+            "String": "pinkmint",
+            "Int": 213
+        },
+        {
+            "String": "pinkmonkey",
+            "Int": 92
+        },
+        {
+            "String": "pinkpunch",
+            "Int": 102
+        },
+        {
+            "String": "purpleballs",
+            "Int": 141
+        },
+        {
+            "String": "purplemclovin",
+            "Int": 83
+        },
+        {
+            "String": "purplepunch",
+            "Int": 285
+        },
+        {
+            "String": "sexyballs",
+            "Int": 285
+        },
+        {
+            "String": "sexycake",
+            "Int": 177
+        },
+        {
+            "String": "sexyhaze",
+            "Int": 750
+        },
+        {
+            "String": "sexymonkey",
+            "Int": 90
+        },
+        {
+            "String": "sexypiss",
+            "Int": 219
+        },
+        {
+            "String": "shinycock",
+            "Int": 60
+        },
+        {
+            "String": "shinyslime",
+            "Int": 399
+        },
+        {
+            "String": "sigmabomb",
+            "Int": 62
+        },
+        {
+            "String": "slimycrystal",
+            "Int": 57
+        },
+        {
+            "String": "slimypuke",
+            "Int": 650
+        },
+        {
+            "String": "soft&wet",
+            "Int": 80
+        },
+        {
+            "String": "starplatinum",
+            "Int": 57
+        },
+        {
+            "String": "stonefree",
+            "Int": 81
+        },
+        {
+            "String": "strawberrybud",
+            "Int": 88
+        },
+        {
+            "String": "strawberrycrystal",
+            "Int": 64
+        },
+        {
+            "String": "strawberrymint",
+            "Int": 450
+        },
+        {
+            "String": "strawberryshart",
+            "Int": 50
+        },
+        {
+            "String": "superassblaster",
+            "Int": 52
+        },
+        {
+            "String": "superballs",
+            "Int": 531
+        },
+        {
+            "String": "supercrystal",
+            "Int": 97
+        },
+        {
+            "String": "superfuel",
+            "Int": 396
+        },
+        {
+            "String": "sweetcum",
+            "Int": 375
+        },
+        {
+            "String": "sweetdurkle",
+            "Int": 108
+        },
+        {
+            "String": "sweetqueef",
+            "Int": 99
+        },
+        {
+            "String": "thickcookies",
+            "Int": 200
+        },
+        {
+            "String": "thickgold",
+            "Int": 44
+        },
+        {
+            "String": "thicksplooge",
+            "Int": 297
+        },
+        {
+            "String": "tokyodeath",
+            "Int": 350
+        },
+        {
+            "String": "tokyodick",
+            "Int": 70
+        },
+        {
+            "String": "tokyomclovin",
+            "Int": 175
+        },
+        {
+            "String": "tokyothunderfuck",
+            "Int": 450
+        },
+        {
+            "String": "tusk",
+            "Int": 69
+        },
+        {
+            "String": "ultracum",
+            "Int": 154
+        },
+        {
+            "String": "ultramonkey",
+            "Int": 198
+        },
+        {
+            "String": "ultraurkle",
+            "Int": 114
+        },
+        {
+            "String": "weddingghost",
+            "Int": 261
+        },
+        {
+            "String": "whitegrool",
+            "Int": 76
+        },
+        {
+            "String": "whitepuke",
+            "Int": 59
+        }
+    ],
+    "FavouritedProducts": [
+        "miraclemonkey",
+        "slimypuke",
+        "megacrystal"
+    ]
+}

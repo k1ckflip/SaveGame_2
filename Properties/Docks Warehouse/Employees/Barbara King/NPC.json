@@ -1,0 +1,30 @@
+{
+    "DataType": "PackagerData",
+    "DataVersion": 0,
+    "GameVersion": "0.3.4f4",
+    "ID": "barbara_king",
+    "AssignedProperty": "dockswarehouse",
+    "FirstName": "Barbara",
+    "LastName": "King",
+    "IsMale": false,
+    "AppearanceIndex": 4,
+    "Position": {
+        "x": -74.41327667236328,
+        "y": -2.429999828338623,
+        "z": -63.86644744873047
+    },
+    "Rotation": {
+        "x": 0.0,
+        "y": -0.23072774708271027,
+        "z": 0.0,
+        "w": 0.9730183482170105
+    },
+    "GUID": "afebd29b-e8b6-407c-9aa2-39b366bbdafd",
+    "PaidForToday": true,
+    "MoveItemData": {
+        "TemplateItemJSON": "",
+        "GrabbedItemQuantity": 0,
+        "SourceGUID": "",
+        "DestinationGUID": ""
+    }
+}

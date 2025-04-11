@@ -1,0 +1,29 @@
+{
+    "DataType": "CocaineProductData",
+    "DataVersion": 0,
+    "GameVersion": "0.3.4f4",
+    "Name": "Strawberry Mint",
+    "ID": "strawberrymint",
+    "DrugType": 2,
+    "Properties": [
+        "Euphoric",
+        "foggy",
+        "spicy",
+        "giraffying",
+        "cyclopean"
+    ],
+    "AppearanceSettings": {
+        "MainColor": {
+            "r": 255,
+            "g": 252,
+            "b": 237,
+            "a": 255
+        },
+        "SecondaryColor": {
+            "r": 255,
+            "g": 204,
+            "b": 159,
+            "a": 255
+        }
+    }
+}

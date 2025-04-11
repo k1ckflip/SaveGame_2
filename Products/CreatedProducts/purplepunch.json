@@ -1,0 +1,27 @@
+{
+    "DataType": "CocaineProductData",
+    "DataVersion": 0,
+    "GameVersion": "0.3.4f4",
+    "Name": "Purple Punch",
+    "ID": "purplepunch",
+    "DrugType": 2,
+    "Properties": [
+        "Euphoric",
+        "athletic",
+        "brighteyed"
+    ],
+    "AppearanceSettings": {
+        "MainColor": {
+            "r": 255,
+            "g": 252,
+            "b": 237,
+            "a": 255
+        },
+        "SecondaryColor": {
+            "r": 213,
+            "g": 232,
+            "b": 213,
+            "a": 255
+        }
+    }
+}

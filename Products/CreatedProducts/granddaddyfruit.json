@@ -1,0 +1,29 @@
+{
+    "DataType": "CocaineProductData",
+    "DataVersion": 0,
+    "GameVersion": "0.3.4f4",
+    "Name": "Granddaddy Fruit",
+    "ID": "granddaddyfruit",
+    "DrugType": 2,
+    "Properties": [
+        "sneaky",
+        "brighteyed",
+        "tropicthunder",
+        "giraffying",
+        "zombifying"
+    ],
+    "AppearanceSettings": {
+        "MainColor": {
+            "r": 220,
+            "g": 220,
+            "b": 220,
+            "a": 255
+        },
+        "SecondaryColor": {
+            "r": 202,
+            "g": 163,
+            "b": 128,
+            "a": 255
+        }
+    }
+}

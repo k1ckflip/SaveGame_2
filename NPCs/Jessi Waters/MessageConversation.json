@@ -1,0 +1,71 @@
+{
+    "DataType": "MSGConversationData",
+    "DataVersion": 0,
+    "GameVersion": "0.3.4f4",
+    "ConversationIndex": 6,
+    "Read": true,
+    "MessageHistory": [
+        {
+            "Sender": 1,
+            "MessageID": -627431058,
+            "Text": "Need me 3x Cocaine! I'll pay <color=#46CB4F>$675</color> yeah??",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 0,
+            "MessageID": 613725272,
+            "Text": "How about 3x Cocaine for $775?",
+            "EndOfChain": false
+        },
+        {
+            "Sender": 1,
+            "MessageID": 2047627336,
+            "Text": "Ok whatever. What time?",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 0,
+            "MessageID": 1140787620,
+            "Text": "Late Night",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": 92753748,
+            "Text": "Good!! I'll see u <b>behind the shipping containers near Sauerkraut Supreme</b> between 12:00 AM and 6:00 AM.",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": -662538107,
+            "Text": "You got 3x Cocaine? I'll pay <color=#46CB4F>$685</color> for it",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 0,
+            "MessageID": -993641972,
+            "Text": "How about 3x Cocaine for $685?",
+            "EndOfChain": false
+        },
+        {
+            "Sender": 1,
+            "MessageID": -1485650981,
+            "Text": "hmmmmm FINE. When?",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 0,
+            "MessageID": -1547913512,
+            "Text": "Late Night",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": 1549759166,
+            "Text": "Good!! I'll see u <b>behind Thompson construction and demolition</b> between 12:00 AM and 6:00 AM.",
+            "EndOfChain": true
+        }
+    ],
+    "ActiveResponses": [],
+    "IsHidden": false
+}

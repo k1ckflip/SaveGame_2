@@ -1,0 +1,40 @@
+{
+    "DataType": "WeedProductData",
+    "DataVersion": 0,
+    "GameVersion": "0.3.4f4",
+    "Name": "Hairy Punch",
+    "ID": "hairypunch",
+    "DrugType": 0,
+    "Properties": [
+        "Euphoric",
+        "spicy",
+        "brighteyed",
+        "tropicthunder"
+    ],
+    "AppearanceSettings": {
+        "MainColor": {
+            "r": 114,
+            "g": 120,
+            "b": 77,
+            "a": 255
+        },
+        "SecondaryColor": {
+            "r": 201,
+            "g": 150,
+            "b": 89,
+            "a": 255
+        },
+        "LeafColor": {
+            "r": 157,
+            "g": 135,
+            "b": 83,
+            "a": 255
+        },
+        "StemColor": {
+            "r": 91,
+            "g": 96,
+            "b": 61,
+            "a": 255
+        }
+    }
+}

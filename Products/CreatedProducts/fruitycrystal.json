@@ -1,0 +1,27 @@
+{
+    "DataType": "CocaineProductData",
+    "DataVersion": 0,
+    "GameVersion": "0.3.4f4",
+    "Name": "Fruity Crystal",
+    "ID": "fruitycrystal",
+    "DrugType": 2,
+    "Properties": [
+        "gingeritis",
+        "foggy",
+        "spicy"
+    ],
+    "AppearanceSettings": {
+        "MainColor": {
+            "r": 255,
+            "g": 224,
+            "b": 199,
+            "a": 255
+        },
+        "SecondaryColor": {
+            "r": 255,
+            "g": 174,
+            "b": 137,
+            "a": 255
+        }
+    }
+}

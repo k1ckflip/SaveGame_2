@@ -1,0 +1,52 @@
+{
+    "DataType": "ContractData",
+    "DataVersion": 0,
+    "GameVersion": "0.3.4f4",
+    "GUID": "28c67b95-b1e3-4e38-a1bd-ee61322be2a1",
+    "State": 1,
+    "IsTracked": true,
+    "Title": "Deal for Geraldine",
+    "Description": "Geraldine has requested a delivery of 3x Cocaine at the skatepark for $790.",
+    "Expires": true,
+    "ExpiryDate": {
+        "DataType": "GameDateTimeData",
+        "DataVersion": 0,
+        "GameVersion": "0.3.4f4",
+        "ElapsedDays": 104,
+        "Time": 600
+    },
+    "Entries": [
+        {
+            "DataType": "QuestEntryData",
+            "DataVersion": 0,
+            "GameVersion": "0.3.4f4",
+            "Name": "3x Cocaine, Skatepark",
+            "State": 1
+        }
+    ],
+    "CustomerGUID": "18acf346-c4da-410c-9ed9-12c1101fb26d",
+    "Payment": 790.0,
+    "ProductList": {
+        "entries": [
+            {
+                "ProductID": "cocaine",
+                "Quality": 0,
+                "Quantity": 3
+            }
+        ]
+    },
+    "DeliveryLocationGUID": "dfef5a22-ac4d-4081-954f-5c6b79a41d58",
+    "DeliveryWindow": {
+        "IsEnabled": true,
+        "WindowStartTime": 0,
+        "WindowEndTime": 600
+    },
+    "PickupScheduleIndex": 0,
+    "AcceptTime": {
+        "DataType": "GameDateTimeData",
+        "DataVersion": 0,
+        "GameVersion": "0.3.4f4",
+        "ElapsedDays": 103,
+        "Time": 1553
+    }
+}

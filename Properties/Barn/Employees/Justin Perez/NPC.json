@@ -1,0 +1,30 @@
+{
+    "DataType": "ChemistData",
+    "DataVersion": 0,
+    "GameVersion": "0.3.4f4",
+    "ID": "justin_perez",
+    "AssignedProperty": "barn",
+    "FirstName": "Justin",
+    "LastName": "Perez",
+    "IsMale": true,
+    "AppearanceIndex": 0,
+    "Position": {
+        "x": 179.39248657226563,
+        "y": -0.008779296651482582,
+        "z": -2.082498550415039
+    },
+    "Rotation": {
+        "x": 0.0,
+        "y": 1.0,
+        "z": 0.0,
+        "w": 3.874301341966202e-7
+    },
+    "GUID": "ddf7e1bf-85e2-4ead-b02a-17a789285bf9",
+    "PaidForToday": true,
+    "MoveItemData": {
+        "TemplateItemJSON": "",
+        "GrabbedItemQuantity": 0,
+        "SourceGUID": "",
+        "DestinationGUID": ""
+    }
+}

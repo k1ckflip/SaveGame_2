@@ -1,0 +1,27 @@
+{
+    "DataType": "CocaineProductData",
+    "DataVersion": 0,
+    "GameVersion": "0.3.4f4",
+    "Name": "Wedding Ghost",
+    "ID": "weddingghost",
+    "DrugType": 2,
+    "Properties": [
+        "calming",
+        "sneaky",
+        "brighteyed"
+    ],
+    "AppearanceSettings": {
+        "MainColor": {
+            "r": 255,
+            "g": 249,
+            "b": 242,
+            "a": 255
+        },
+        "SecondaryColor": {
+            "r": 228,
+            "g": 219,
+            "b": 208,
+            "a": 255
+        }
+    }
+}

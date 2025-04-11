@@ -1,0 +1,30 @@
+{
+    "DataType": "PackagerData",
+    "DataVersion": 0,
+    "GameVersion": "0.3.4f4",
+    "ID": "sharon_turner",
+    "AssignedProperty": "barn",
+    "FirstName": "Sharon",
+    "LastName": "Turner",
+    "IsMale": false,
+    "AppearanceIndex": 1,
+    "Position": {
+        "x": 190.52276611328126,
+        "y": 0.0899992510676384,
+        "z": -17.336837768554689
+    },
+    "Rotation": {
+        "x": 0.0,
+        "y": 1.0,
+        "z": 0.0,
+        "w": 3.7252897300277257e-7
+    },
+    "GUID": "8bb8628a-2429-4e83-b690-bc821d011928",
+    "PaidForToday": true,
+    "MoveItemData": {
+        "TemplateItemJSON": "",
+        "GrabbedItemQuantity": 0,
+        "SourceGUID": "",
+        "DestinationGUID": ""
+    }
+}

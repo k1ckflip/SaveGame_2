@@ -1,0 +1,71 @@
+{
+    "DataType": "MSGConversationData",
+    "DataVersion": 0,
+    "GameVersion": "0.3.3f15",
+    "ConversationIndex": 18,
+    "Read": true,
+    "MessageHistory": [
+        {
+            "Sender": 1,
+            "MessageID": 582317856,
+            "Text": "Hello, I'm after 4x Pink Diamond. I can pay <color=#46CB4F>$525</color> for it.",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 0,
+            "MessageID": -358426532,
+            "Text": "How about 5x Pink Diamond for $555?",
+            "EndOfChain": false
+        },
+        {
+            "Sender": 1,
+            "MessageID": -1004053878,
+            "Text": "Ok. What time you wanna meet?",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 0,
+            "MessageID": -1164360267,
+            "Text": "Afternoon",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": -1217055108,
+            "Text": "Great, I'll meet you <b>Behind Randy's bait & tackle</b> between 12:00 PM and 6:00 PM.",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": -1374997592,
+            "Text": "Hey, if you got 8x Granddaddy Purple I'll pay <color=#46CB4F>$575</color> for it. Deal?",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 0,
+            "MessageID": -553442745,
+            "Text": "How about 10x Granddaddy Purple for $715?",
+            "EndOfChain": false
+        },
+        {
+            "Sender": 1,
+            "MessageID": 204345947,
+            "Text": "Ok. What time you wanna meet?",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 0,
+            "MessageID": -956924248,
+            "Text": "Morning",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": 8418463,
+            "Text": "Great, I'll meet you <b>outside the brick warehouse at the docks</b> between 6:00 AM and 12:00 PM.",
+            "EndOfChain": true
+        }
+    ],
+    "ActiveResponses": [],
+    "IsHidden": false
+}

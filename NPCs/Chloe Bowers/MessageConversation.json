@@ -1,0 +1,71 @@
+{
+    "DataType": "MSGConversationData",
+    "DataVersion": 0,
+    "GameVersion": "0.3.3f15",
+    "ConversationIndex": 19,
+    "Read": true,
+    "MessageHistory": [
+        {
+            "Sender": 1,
+            "MessageID": 1978564715,
+            "Text": "Hello, I'm after 2x Sour Diesel. I can pay <color=#46CB4F>$90</color> for it.",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 0,
+            "MessageID": -1479918155,
+            "Text": "How about 5x Sour Diesel for $210?",
+            "EndOfChain": false
+        },
+        {
+            "Sender": 1,
+            "MessageID": 262373828,
+            "Text": "No way",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": -1081136016,
+            "Text": "Hey, I need 2x Green Crack. I'll pay <color=#46CB4F>$100</color>. Deal?",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 0,
+            "MessageID": -676069582,
+            "Text": "How about 5x Green Crack for $215?",
+            "EndOfChain": false
+        },
+        {
+            "Sender": 1,
+            "MessageID": -1798785090,
+            "Text": "Not gonna happen. I'll get it somewhere else",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": 556373342,
+            "Text": "Hello, I'm after 2x Granddaddy Purple. I can pay <color=#46CB4F>$100</color> for it.",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 0,
+            "MessageID": 2136195150,
+            "Text": "How about 5x Granddaddy Purple for $280?",
+            "EndOfChain": false
+        },
+        {
+            "Sender": 1,
+            "MessageID": -642094476,
+            "Text": "No way",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": 569780526,
+            "Text": "Nevermind",
+            "EndOfChain": true
+        }
+    ],
+    "ActiveResponses": [],
+    "IsHidden": false
+}

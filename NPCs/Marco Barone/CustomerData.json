@@ -1,0 +1,44 @@
+{
+    "DataType": "CustomerData",
+    "DataVersion": 0,
+    "GameVersion": "0.3.4f4",
+    "Dependence": 1.0,
+    "PurchaseableProducts": [
+        "cocaine",
+        "dreampuke",
+        "slimypuke"
+    ],
+    "ProductAffinities": [
+        0.84987872838974,
+        1.0,
+        1.0
+    ],
+    "TimeSinceLastDealCompleted": 1611,
+    "TimeSinceLastDealOffered": 110,
+    "OfferedDeals": 56,
+    "CompletedDeals": 54,
+    "IsContractOffered": false,
+    "OfferedContract": {
+        "Payment": 0.0,
+        "Products": {
+            "entries": []
+        },
+        "DeliveryLocationGUID": "",
+        "DeliveryWindow": {
+            "IsEnabled": false,
+            "WindowStartTime": 1200,
+            "WindowEndTime": 1800
+        },
+        "Expires": false,
+        "ExpiresAfter": 0,
+        "PickupScheduleIndex": 0,
+        "IsCounterOffer": false
+    },
+    "OfferedContractTime": {
+        "elapsedDays": 103,
+        "time": 1715
+    },
+    "TimeSincePlayerApproached": 1146853,
+    "TimeSinceInstantDealOffered": 1146853,
+    "HasBeenRecommended": false
+}
