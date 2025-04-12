@@ -1,0 +1,28 @@
+{
+    "DataType": "DeaddropQuestData",
+    "DataVersion": 0,
+    "GameVersion": "0.3.4f4",
+    "GUID": "b9c6cae0-2cd5-45c4-8ca4-5e0e0c6e7df1",
+    "State": 2,
+    "IsTracked": true,
+    "Title": "Collect Dead Drop",
+    "Description": "Collect the dead drop on the east-exterior wall of Taco Ticklers",
+    "Expires": false,
+    "ExpiryDate": {
+        "DataType": "GameDateTimeData",
+        "DataVersion": 0,
+        "GameVersion": "0.3.4f4",
+        "ElapsedDays": 0,
+        "Time": 0
+    },
+    "Entries": [
+        {
+            "DataType": "QuestEntryData",
+            "DataVersion": 0,
+            "GameVersion": "0.3.4f4",
+            "Name": "Taco Ticklers exterior wall",
+            "State": 2
+        }
+    ],
+    "DeaddropGUID": "79200bb6-7d39-44d9-ab22-c63f136d8cdf"
+}

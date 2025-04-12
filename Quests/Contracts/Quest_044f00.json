@@ -1,0 +1,52 @@
+{
+    "DataType": "ContractData",
+    "DataVersion": 0,
+    "GameVersion": "0.3.4f4",
+    "GUID": "044f00f9-61f5-43ff-a71e-3e4431df1e5e",
+    "State": 1,
+    "IsTracked": false,
+    "Title": "Deal for Trent",
+    "Description": "Trent has requested a delivery of 1x Cocaine in the west construction site for $230.",
+    "Expires": true,
+    "ExpiryDate": {
+        "DataType": "GameDateTimeData",
+        "DataVersion": 0,
+        "GameVersion": "0.3.4f4",
+        "ElapsedDays": 107,
+        "Time": 2400
+    },
+    "Entries": [
+        {
+            "DataType": "QuestEntryData",
+            "DataVersion": 0,
+            "GameVersion": "0.3.4f4",
+            "Name": "1x Cocaine, Construction site",
+            "State": 1
+        }
+    ],
+    "CustomerGUID": "3d75cfaf-216e-4258-8d48-214837bbe1a5",
+    "Payment": 230.0,
+    "ProductList": {
+        "entries": [
+            {
+                "ProductID": "cocaine",
+                "Quality": 1,
+                "Quantity": 1
+            }
+        ]
+    },
+    "DeliveryLocationGUID": "38d1c80c-0173-49b6-9701-65bd08219ee6",
+    "DeliveryWindow": {
+        "IsEnabled": true,
+        "WindowStartTime": 1800,
+        "WindowEndTime": 2400
+    },
+    "PickupScheduleIndex": 0,
+    "AcceptTime": {
+        "DataType": "GameDateTimeData",
+        "DataVersion": 0,
+        "GameVersion": "0.3.4f4",
+        "ElapsedDays": 107,
+        "Time": 2015
+    }
+}

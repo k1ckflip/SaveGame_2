@@ -1,0 +1,52 @@
+{
+    "DataType": "ContractData",
+    "DataVersion": 0,
+    "GameVersion": "0.3.4f4",
+    "GUID": "a7045b9d-ce7a-444b-89e4-0daa4cb511ff",
+    "State": 1,
+    "IsTracked": false,
+    "Title": "Deal for Melissa",
+    "Description": "Melissa has requested a delivery of 3x Cocaine outside the brick warehouse at the docks for $690.",
+    "Expires": true,
+    "ExpiryDate": {
+        "DataType": "GameDateTimeData",
+        "DataVersion": 0,
+        "GameVersion": "0.3.4f4",
+        "ElapsedDays": 107,
+        "Time": 2400
+    },
+    "Entries": [
+        {
+            "DataType": "QuestEntryData",
+            "DataVersion": 0,
+            "GameVersion": "0.3.4f4",
+            "Name": "3x Cocaine, Brick warehouse at the docks",
+            "State": 1
+        }
+    ],
+    "CustomerGUID": "f49c1ab2-fc1b-4d80-a3f8-64182b6b6c96",
+    "Payment": 690.0,
+    "ProductList": {
+        "entries": [
+            {
+                "ProductID": "cocaine",
+                "Quality": 2,
+                "Quantity": 3
+            }
+        ]
+    },
+    "DeliveryLocationGUID": "f4b9a4ef-2f22-437c-be9c-afb1a0fc583b",
+    "DeliveryWindow": {
+        "IsEnabled": true,
+        "WindowStartTime": 1800,
+        "WindowEndTime": 2400
+    },
+    "PickupScheduleIndex": 0,
+    "AcceptTime": {
+        "DataType": "GameDateTimeData",
+        "DataVersion": 0,
+        "GameVersion": "0.3.4f4",
+        "ElapsedDays": 107,
+        "Time": 1845
+    }
+}

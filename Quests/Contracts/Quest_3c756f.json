@@ -1,0 +1,52 @@
+{
+    "DataType": "ContractData",
+    "DataVersion": 0,
+    "GameVersion": "0.3.4f4",
+    "GUID": "3c756fcb-0208-4247-9c6a-214207a5cac0",
+    "State": 1,
+    "IsTracked": false,
+    "Title": "Deal for Mrs. Ming",
+    "Description": "Mrs. Ming has requested a delivery of 1x Cocaine at the skatepark for $230.",
+    "Expires": true,
+    "ExpiryDate": {
+        "DataType": "GameDateTimeData",
+        "DataVersion": 0,
+        "GameVersion": "0.3.4f4",
+        "ElapsedDays": 107,
+        "Time": 2400
+    },
+    "Entries": [
+        {
+            "DataType": "QuestEntryData",
+            "DataVersion": 0,
+            "GameVersion": "0.3.4f4",
+            "Name": "1x Cocaine, Skatepark",
+            "State": 1
+        }
+    ],
+    "CustomerGUID": "145d7e11-b35e-4863-8734-0b08e7cfb5b6",
+    "Payment": 230.0,
+    "ProductList": {
+        "entries": [
+            {
+                "ProductID": "cocaine",
+                "Quality": 1,
+                "Quantity": 1
+            }
+        ]
+    },
+    "DeliveryLocationGUID": "dfef5a22-ac4d-4081-954f-5c6b79a41d58",
+    "DeliveryWindow": {
+        "IsEnabled": true,
+        "WindowStartTime": 1800,
+        "WindowEndTime": 2400
+    },
+    "PickupScheduleIndex": 0,
+    "AcceptTime": {
+        "DataType": "GameDateTimeData",
+        "DataVersion": 0,
+        "GameVersion": "0.3.4f4",
+        "ElapsedDays": 107,
+        "Time": 1930
+    }
+}

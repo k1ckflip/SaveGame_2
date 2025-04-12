@@ -1,0 +1,52 @@
+{
+    "DataType": "ContractData",
+    "DataVersion": 0,
+    "GameVersion": "0.3.4f4",
+    "GUID": "5e093586-0cbb-4ce3-9069-d4ac8748630c",
+    "State": 1,
+    "IsTracked": false,
+    "Title": "Deal for Donna",
+    "Description": "Donna has requested a delivery of 1x Cocaine behind Sauerkraut Supreme pizzeria for $230.",
+    "Expires": true,
+    "ExpiryDate": {
+        "DataType": "GameDateTimeData",
+        "DataVersion": 0,
+        "GameVersion": "0.3.4f4",
+        "ElapsedDays": 107,
+        "Time": 2400
+    },
+    "Entries": [
+        {
+            "DataType": "QuestEntryData",
+            "DataVersion": 0,
+            "GameVersion": "0.3.4f4",
+            "Name": "1x Cocaine, Behind Sauerkraut Supreme Pizzeria",
+            "State": 1
+        }
+    ],
+    "CustomerGUID": "971246ff-7483-45ea-8d43-7fc6dbb5c23c",
+    "Payment": 230.0,
+    "ProductList": {
+        "entries": [
+            {
+                "ProductID": "cocaine",
+                "Quality": 1,
+                "Quantity": 1
+            }
+        ]
+    },
+    "DeliveryLocationGUID": "785abdf1-0a0c-4d48-99d7-b8adfa3e8e10",
+    "DeliveryWindow": {
+        "IsEnabled": true,
+        "WindowStartTime": 1800,
+        "WindowEndTime": 2400
+    },
+    "PickupScheduleIndex": 0,
+    "AcceptTime": {
+        "DataType": "GameDateTimeData",
+        "DataVersion": 0,
+        "GameVersion": "0.3.4f4",
+        "ElapsedDays": 107,
+        "Time": 2000
+    }
+}

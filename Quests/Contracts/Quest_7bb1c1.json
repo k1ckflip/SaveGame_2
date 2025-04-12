@@ -1,0 +1,52 @@
+{
+    "DataType": "ContractData",
+    "DataVersion": 0,
+    "GameVersion": "0.3.4f4",
+    "GUID": "7bb1c11a-42cd-4260-9a77-53aa01e95ae0",
+    "State": 1,
+    "IsTracked": false,
+    "Title": "Deal for Beth",
+    "Description": "Beth has requested a delivery of 1x Cocaine behind Hyland gun range for $230.",
+    "Expires": true,
+    "ExpiryDate": {
+        "DataType": "GameDateTimeData",
+        "DataVersion": 0,
+        "GameVersion": "0.3.4f4",
+        "ElapsedDays": 107,
+        "Time": 2400
+    },
+    "Entries": [
+        {
+            "DataType": "QuestEntryData",
+            "DataVersion": 0,
+            "GameVersion": "0.3.4f4",
+            "Name": "1x Cocaine, Behind Hyland Range",
+            "State": 1
+        }
+    ],
+    "CustomerGUID": "eac0d826-3a72-43a5-83bb-f54fa4c4b5dc",
+    "Payment": 230.0,
+    "ProductList": {
+        "entries": [
+            {
+                "ProductID": "cocaine",
+                "Quality": 1,
+                "Quantity": 1
+            }
+        ]
+    },
+    "DeliveryLocationGUID": "fb907ba0-f9d9-4491-9e44-8a8237b58fc3",
+    "DeliveryWindow": {
+        "IsEnabled": true,
+        "WindowStartTime": 1800,
+        "WindowEndTime": 2400
+    },
+    "PickupScheduleIndex": 0,
+    "AcceptTime": {
+        "DataType": "GameDateTimeData",
+        "DataVersion": 0,
+        "GameVersion": "0.3.4f4",
+        "ElapsedDays": 107,
+        "Time": 1945
+    }
+}
