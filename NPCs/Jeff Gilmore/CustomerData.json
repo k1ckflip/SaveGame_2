@@ -4,18 +4,17 @@
     "GameVersion": "0.3.4f4",
     "Dependence": 1.0,
     "PurchaseableProducts": [
-        "cocaine",
-        "tokyodeath"
+        "cocaine"
     ],
     "ProductAffinities": [
         0.7750000357627869,
         1.0,
         1.0
     ],
-    "TimeSinceLastDealCompleted": 127,
-    "TimeSinceLastDealOffered": 226,
-    "OfferedDeals": 76,
-    "CompletedDeals": 71,
+    "TimeSinceLastDealCompleted": 2156,
+    "TimeSinceLastDealOffered": 775,
+    "OfferedDeals": 78,
+    "CompletedDeals": 72,
     "IsContractOffered": false,
     "OfferedContract": {
         "Payment": 0.0,
@@ -34,10 +33,10 @@
         "IsCounterOffer": false
     },
     "OfferedContractTime": {
-        "elapsedDays": 105,
-        "time": 730
+        "elapsedDays": 0,
+        "time": 0
     },
-    "TimeSincePlayerApproached": 113251,
-    "TimeSinceInstantDealOffered": 1149554,
+    "TimeSincePlayerApproached": 116873,
+    "TimeSinceInstantDealOffered": 1153176,
     "HasBeenRecommended": false
 }

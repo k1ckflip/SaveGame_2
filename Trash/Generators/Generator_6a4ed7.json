@@ -4,12 +4,10 @@
     "GameVersion": "0.3.4f4",
     "GUID": "6a4ed762-7b23-485c-9b23-d8bdbc1acc2e",
     "GeneratedItems": [
-        "54afe1a4-aa67-4bc9-a1c5-3938e88a432a",
         "a21cdd23-2267-400d-9876-048e2da2d3a9",
         "482f0f6d-d010-4ec6-81d7-e649d85c6b77",
         "fe5ca8e8-4f1d-46bd-8e45-e3f9b4fb1bf6",
         "0d65bc53-8e9d-4ced-946c-ee11dc232d32",
-        "00f4c3b3-0af1-463d-9e4b-677ae4743a30",
         "4a58e084-e02a-44fd-a57c-3e198bf3e1b7",
         "56a1ba34-f635-4d00-aaf7-4ee6895f5672",
         "ced1e99c-25bb-4db4-948f-d333196dfe26",
@@ -52,6 +50,9 @@
         "c153d9a3-3479-4040-9bed-1d086c9ff05c",
         "bf2345f3-f4d6-4c11-a650-db8b6d6e1a15",
         "a6e430eb-bbd6-4b08-ba74-1bc7149e45ff",
-        "a08450b0-071d-467f-8d06-65e6714c7c8a"
+        "a08450b0-071d-467f-8d06-65e6714c7c8a",
+        "13ad2caa-7fc8-48fe-8edd-09d328b95c03",
+        "e06eb963-bf07-46be-b852-110955c2d6dc",
+        "8ec7d624-6742-4639-bd91-1e41e5e43d79"
     ]
 }

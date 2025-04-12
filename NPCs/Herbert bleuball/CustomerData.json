@@ -11,8 +11,8 @@
         0.3889605700969696,
         0.2694868743419647
     ],
-    "TimeSinceLastDealCompleted": 1149552,
-    "TimeSinceLastDealOffered": 1149552,
+    "TimeSinceLastDealCompleted": 1153173,
+    "TimeSinceLastDealOffered": 1153173,
     "OfferedDeals": 0,
     "CompletedDeals": 0,
     "IsContractOffered": false,
@@ -36,7 +36,7 @@
         "elapsedDays": 0,
         "time": 0
     },
-    "TimeSincePlayerApproached": 1149552,
-    "TimeSinceInstantDealOffered": 1149552,
+    "TimeSincePlayerApproached": 1153173,
+    "TimeSinceInstantDealOffered": 1153173,
     "HasBeenRecommended": false
 }

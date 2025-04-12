@@ -779,6 +779,11 @@
             "Product": "battery",
             "Mixer": "afghanqueef",
             "Output": "shinyslime"
+        },
+        {
+            "Product": "slimypuke",
+            "Mixer": "horsesemen",
+            "Output": "slimypuke"
         }
     ],
     "ProductPrices": [
@@ -856,7 +861,7 @@
         },
         {
             "String": "aspensplooge",
-            "Int": 480
+            "Int": 550
         },
         {
             "String": "bananadeath",

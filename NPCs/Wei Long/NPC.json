@@ -13,12 +13,14 @@
         "marco_baron",
         "melissa_wood"
     ],
-    "ActiveContractGUIDs": [],
-    "Cash": 4282.39990234375,
+    "ActiveContractGUIDs": [
+        "a7045b9d-ce7a-444b-89e4-0daa4cb511ff"
+    ],
+    "Cash": 2093.60009765625,
     "OverflowItems": {
         "Items": [
-            "{\"DataType\":\"CocaineData\",\"DataVersion\":0,\"GameVersion\":\"0.3.4f4\",\"ID\":\"dreampuke\",\"Quantity\":3,\"Quality\":\"Heavenly\",\"PackagingID\":\"baggie\"}",
-            "{\"DataType\":\"CocaineData\",\"DataVersion\":0,\"GameVersion\":\"0.3.4f4\",\"ID\":\"slimypuke\",\"Quantity\":3,\"Quality\":\"Heavenly\",\"PackagingID\":\"baggie\"}",
+            "{\"DataType\":\"ItemData\",\"DataVersion\":0,\"GameVersion\":\"0.3.4f4\",\"ID\":\"\",\"Quantity\":0}",
+            "{\"DataType\":\"ItemData\",\"DataVersion\":0,\"GameVersion\":\"0.3.4f4\",\"ID\":\"\",\"Quantity\":0}",
             "{\"DataType\":\"ItemData\",\"DataVersion\":0,\"GameVersion\":\"0.3.4f4\",\"ID\":\"\",\"Quantity\":0}",
             "{\"DataType\":\"ItemData\",\"DataVersion\":0,\"GameVersion\":\"0.3.4f4\",\"ID\":\"\",\"Quantity\":0}",
             "{\"DataType\":\"ItemData\",\"DataVersion\":0,\"GameVersion\":\"0.3.4f4\",\"ID\":\"\",\"Quantity\":0}",

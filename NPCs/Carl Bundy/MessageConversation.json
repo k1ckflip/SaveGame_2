@@ -2,27 +2,9 @@
     "DataType": "MSGConversationData",
     "DataVersion": 0,
     "GameVersion": "0.3.4f4",
-    "ConversationIndex": 3,
-    "Read": true,
+    "ConversationIndex": 1,
+    "Read": false,
     "MessageHistory": [
-        {
-            "Sender": 1,
-            "MessageID": -1137577220,
-            "Text": "Hello, I'm after 4x Cocaine. I can pay <color=#46CB4F>$755</color> for it.",
-            "EndOfChain": true
-        },
-        {
-            "Sender": 0,
-            "MessageID": 1926751317,
-            "Text": "How about 4x Cocaine for $955?",
-            "EndOfChain": false
-        },
-        {
-            "Sender": 1,
-            "MessageID": -648000949,
-            "Text": "Ok. What time you wanna meet?",
-            "EndOfChain": true
-        },
         {
             "Sender": 0,
             "MessageID": -1277951948,
@@ -64,8 +46,39 @@
             "MessageID": -1772174250,
             "Text": "Great, I'll meet you <b>at the residential park</b> between 12:00 AM and 6:00 AM.",
             "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": 1123941392,
+            "Text": "Hey, if you got 5x Cocaine I'll pay <color=#46CB4F>$960</color> for it. Deal?",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": 1856904779,
+            "Text": "Nevermind",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": 643853323,
+            "Text": "Hey, can I get 5x Cocaine? I'll pay <color=#46CB4F>$960</color>",
+            "EndOfChain": true
         }
     ],
-    "ActiveResponses": [],
+    "ActiveResponses": [
+        {
+            "Text": "Yep",
+            "Label": "ACCEPT_CONTRACT"
+        },
+        {
+            "Text": "[Counter-offer]",
+            "Label": "COUNTEROFFER"
+        },
+        {
+            "Text": "Not right now",
+            "Label": "REJECT_CONTRACT"
+        }
+    ],
     "IsHidden": false
 }

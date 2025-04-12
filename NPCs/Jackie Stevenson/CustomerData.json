@@ -2,7 +2,7 @@
     "DataType": "CustomerData",
     "DataVersion": 0,
     "GameVersion": "0.3.4f4",
-    "Dependence": 1.0,
+    "Dependence": 0.875,
     "PurchaseableProducts": [
         "cocaine"
     ],
@@ -11,32 +11,38 @@
         -0.5910000205039978,
         1.0
     ],
-    "TimeSinceLastDealCompleted": 779,
-    "TimeSinceLastDealOffered": 1353,
-    "OfferedDeals": 22,
+    "TimeSinceLastDealCompleted": 4401,
+    "TimeSinceLastDealOffered": 415,
+    "OfferedDeals": 25,
     "CompletedDeals": 18,
-    "IsContractOffered": false,
+    "IsContractOffered": true,
     "OfferedContract": {
-        "Payment": 0.0,
+        "Payment": 920.0,
         "Products": {
-            "entries": []
+            "entries": [
+                {
+                    "ProductID": "cocaine",
+                    "Quality": 3,
+                    "Quantity": 4
+                }
+            ]
         },
-        "DeliveryLocationGUID": "",
+        "DeliveryLocationGUID": "bd2e7438-88d2-491a-95b8-2976a803eb9e",
         "DeliveryWindow": {
-            "IsEnabled": false,
-            "WindowStartTime": 1200,
-            "WindowEndTime": 1800
+            "IsEnabled": true,
+            "WindowStartTime": 0,
+            "WindowEndTime": 0
         },
-        "Expires": false,
-        "ExpiresAfter": 0,
+        "Expires": true,
+        "ExpiresAfter": 1,
         "PickupScheduleIndex": 0,
         "IsCounterOffer": false
     },
     "OfferedContractTime": {
-        "elapsedDays": 0,
-        "time": 0
+        "elapsedDays": 107,
+        "time": 1330
     },
-    "TimeSincePlayerApproached": 5203,
-    "TimeSinceInstantDealOffered": 1091511,
+    "TimeSincePlayerApproached": 8825,
+    "TimeSinceInstantDealOffered": 1095133,
     "HasBeenRecommended": false
 }

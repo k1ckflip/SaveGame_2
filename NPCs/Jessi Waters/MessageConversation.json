@@ -2,21 +2,9 @@
     "DataType": "MSGConversationData",
     "DataVersion": 0,
     "GameVersion": "0.3.4f4",
-    "ConversationIndex": 3,
-    "Read": true,
+    "ConversationIndex": 1,
+    "Read": false,
     "MessageHistory": [
-        {
-            "Sender": 1,
-            "MessageID": -1485650981,
-            "Text": "hmmmmm FINE. When?",
-            "EndOfChain": true
-        },
-        {
-            "Sender": 0,
-            "MessageID": -1547913512,
-            "Text": "Late Night",
-            "EndOfChain": true
-        },
         {
             "Sender": 1,
             "MessageID": 1549759166,
@@ -63,6 +51,18 @@
             "Sender": 1,
             "MessageID": -801392775,
             "Text": "Shit",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": 1129455277,
+            "Text": "I NEED 4x Cocaine. I GOT <color=#46CB4F>$920</color>. DEAL?",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": 1957536146,
+            "Text": "Nevermind!",
             "EndOfChain": true
         }
     ],

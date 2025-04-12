@@ -5,17 +5,17 @@
     "Dependence": 1.0,
     "PurchaseableProducts": [
         "cocaine",
-        "slimypuke"
+        "aspensplooge"
     ],
     "ProductAffinities": [
         1.0,
         1.0,
         1.0
     ],
-    "TimeSinceLastDealCompleted": 1086,
-    "TimeSinceLastDealOffered": 1180,
-    "OfferedDeals": 70,
-    "CompletedDeals": 64,
+    "TimeSinceLastDealCompleted": 154,
+    "TimeSinceLastDealOffered": 240,
+    "OfferedDeals": 73,
+    "CompletedDeals": 67,
     "IsContractOffered": false,
     "OfferedContract": {
         "Payment": 0.0,
@@ -34,10 +34,10 @@
         "IsCounterOffer": false
     },
     "OfferedContractTime": {
-        "elapsedDays": 0,
-        "time": 0
+        "elapsedDays": 107,
+        "time": 1625
     },
-    "TimeSincePlayerApproached": 1149568,
-    "TimeSinceInstantDealOffered": 1149568,
+    "TimeSincePlayerApproached": 1153190,
+    "TimeSinceInstantDealOffered": 1153190,
     "HasBeenRecommended": false
 }

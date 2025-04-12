@@ -15,10 +15,9 @@
         "jeff_gilmore"
     ],
     "ActiveContractGUIDs": [
-        "d61dc712-334b-4a5c-8cf4-30095e28baa4",
-        "229f5a43-489b-44ff-ae11-60d4ea88aaa7"
+        "3c756fcb-0208-4247-9c6a-214207a5cac0"
     ],
-    "Cash": 3208.800048828125,
+    "Cash": 8597.19921875,
     "OverflowItems": {
         "Items": [
             "{\"DataType\":\"ItemData\",\"DataVersion\":0,\"GameVersion\":\"0.3.4f4\",\"ID\":\"\",\"Quantity\":0}",

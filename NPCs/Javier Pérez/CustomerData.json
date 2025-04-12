@@ -5,7 +5,6 @@
     "Dependence": 1.0,
     "PurchaseableProducts": [
         "cocaine",
-        "dreampuke",
         "slimypuke"
     ],
     "ProductAffinities": [
@@ -13,10 +12,10 @@
         1.0,
         1.0
     ],
-    "TimeSinceLastDealCompleted": 1099,
-    "TimeSinceLastDealOffered": 1174,
-    "OfferedDeals": 59,
-    "CompletedDeals": 60,
+    "TimeSinceLastDealCompleted": 148,
+    "TimeSinceLastDealOffered": 235,
+    "OfferedDeals": 62,
+    "CompletedDeals": 63,
     "IsContractOffered": false,
     "OfferedContract": {
         "Payment": 0.0,
@@ -35,10 +34,10 @@
         "IsCounterOffer": false
     },
     "OfferedContractTime": {
-        "elapsedDays": 0,
-        "time": 0
+        "elapsedDays": 107,
+        "time": 1630
     },
-    "TimeSincePlayerApproached": 1149556,
-    "TimeSinceInstantDealOffered": 25781,
+    "TimeSincePlayerApproached": 1153178,
+    "TimeSinceInstantDealOffered": 29403,
     "HasBeenRecommended": false
 }

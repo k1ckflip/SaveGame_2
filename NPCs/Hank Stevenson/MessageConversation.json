@@ -2,39 +2,9 @@
     "DataType": "MSGConversationData",
     "DataVersion": 0,
     "GameVersion": "0.3.4f4",
-    "ConversationIndex": 3,
-    "Read": true,
+    "ConversationIndex": 6,
+    "Read": false,
     "MessageHistory": [
-        {
-            "Sender": 1,
-            "MessageID": -1878701669,
-            "Text": "Hey, I need 3x Cocaine. I'll pay <color=#46CB4F>$690</color>. Deal?",
-            "EndOfChain": true
-        },
-        {
-            "Sender": 0,
-            "MessageID": -1540447956,
-            "Text": "How about 3x Cocaine for $790?",
-            "EndOfChain": false
-        },
-        {
-            "Sender": 1,
-            "MessageID": 517121995,
-            "Text": "Alright then. What time?",
-            "EndOfChain": true
-        },
-        {
-            "Sender": 0,
-            "MessageID": 1654141742,
-            "Text": "Late Night",
-            "EndOfChain": true
-        },
-        {
-            "Sender": 1,
-            "MessageID": 2135134460,
-            "Text": "Great, I'll meet you <b>Next to the destroyed RV</b> between 12:00 AM and 6:00 AM.",
-            "EndOfChain": true
-        },
         {
             "Sender": 1,
             "MessageID": 354474182,
@@ -64,8 +34,51 @@
             "MessageID": 632495452,
             "Text": "Great, I'll meet you <b>behind the dealership</b> between 12:00 AM and 6:00 AM.",
             "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": 1690333131,
+            "Text": "Hello, I'm after 4x Cocaine. I can pay <color=#46CB4F>$920</color> for it.",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": -29560305,
+            "Text": "Actually, nevermind",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": -339405517,
+            "Text": "Hey, I need 4x Cocaine. I'll pay <color=#46CB4F>$920</color>. Deal?",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": -1137876556,
+            "Text": "nvm",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": -1375321196,
+            "Text": "You got 4x Cocaine? I'll pay <color=#46CB4F>$920</color> for it",
+            "EndOfChain": true
         }
     ],
-    "ActiveResponses": [],
+    "ActiveResponses": [
+        {
+            "Text": "Yep",
+            "Label": "ACCEPT_CONTRACT"
+        },
+        {
+            "Text": "[Counter-offer]",
+            "Label": "COUNTEROFFER"
+        },
+        {
+            "Text": "Not right now",
+            "Label": "REJECT_CONTRACT"
+        }
+    ],
     "IsHidden": false
 }

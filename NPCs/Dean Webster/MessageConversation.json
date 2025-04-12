@@ -2,21 +2,9 @@
     "DataType": "MSGConversationData",
     "DataVersion": 0,
     "GameVersion": "0.3.4f4",
-    "ConversationIndex": 2,
+    "ConversationIndex": 13,
     "Read": false,
     "MessageHistory": [
-        {
-            "Sender": 1,
-            "MessageID": -1482495532,
-            "Text": "Great, I'll meet you <b>behind the pawn shop</b> between 12:00 AM and 6:00 AM.",
-            "EndOfChain": true
-        },
-        {
-            "Sender": 1,
-            "MessageID": -1995213420,
-            "Text": "Hello, I'm after 3x Cocaine. I can pay <color=#46CB4F>$690</color> for it.",
-            "EndOfChain": true
-        },
         {
             "Sender": 0,
             "MessageID": 1881029220,
@@ -62,6 +50,18 @@
         {
             "Sender": 1,
             "MessageID": 1483414767,
+            "Text": "Nvm",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": 1865777972,
+            "Text": "Hey, I need 4x Cocaine. I'll pay <color=#46CB4F>$920</color>. Deal?",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": 1110637599,
             "Text": "Nvm",
             "EndOfChain": true
         }

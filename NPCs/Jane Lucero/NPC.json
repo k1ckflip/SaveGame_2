@@ -15,9 +15,9 @@
         "billy_kramer"
     ],
     "ActiveContractGUIDs": [
-        "95d563c0-0949-4510-b04d-82c2b3104abd"
+        "0f74d806-448f-4110-8ef3-f6649d0c03b1"
     ],
-    "Cash": 5689.2001953125,
+    "Cash": 2032.800048828125,
     "OverflowItems": {
         "Items": [
             "{\"DataType\":\"ItemData\",\"DataVersion\":0,\"GameVersion\":\"0.3.4f4\",\"ID\":\"\",\"Quantity\":0}",
