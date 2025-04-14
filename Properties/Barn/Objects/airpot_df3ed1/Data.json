@@ -20,10 +20,10 @@
         "DataType": "PlantData",
         "DataVersion": 0,
         "GameVersion": "0.3.4f4",
-        "SeedID": "",
+        "SeedID": "cocaseed",
         "GrowthProgress": 0.0,
-        "YieldLevel": 0.0,
-        "QualityLevel": 0.0,
+        "YieldLevel": 0.6000000238418579,
+        "QualityLevel": 0.5,
         "ActiveBuds": []
     }
 }

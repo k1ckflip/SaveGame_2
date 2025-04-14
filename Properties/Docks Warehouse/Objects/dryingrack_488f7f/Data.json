@@ -13,20 +13,38 @@
     "Rotation": 180,
     "Input": {
         "Items": [
-            "{\"DataType\":\"QualityItemData\",\"DataVersion\":0,\"GameVersion\":\"0.3.4f4\",\"ID\":\"cocaleaf\",\"Quantity\":16,\"Quality\":\"Standard\"}"
+            "{\"DataType\":\"QualityItemData\",\"DataVersion\":0,\"GameVersion\":\"0.3.4f4\",\"ID\":\"cocaleaf\",\"Quantity\":8,\"Quality\":\"Standard\"}"
         ]
     },
     "Output": {
         "Items": [
-            "{\"DataType\":\"QualityItemData\",\"DataVersion\":0,\"GameVersion\":\"0.3.4f4\",\"ID\":\"cocaleaf\",\"Quantity\":20,\"Quality\":\"Heavenly\"}"
+            "{\"DataType\":\"ItemData\",\"DataVersion\":0,\"GameVersion\":\"0.3.4f4\",\"ID\":\"\",\"Quantity\":0}"
         ]
     },
     "DryingOperations": [
         {
             "ItemID": "cocaleaf",
-            "Quantity": 20,
+            "Quantity": 4,
             "StartQuality": 3,
-            "Time": 981
+            "Time": 85
+        },
+        {
+            "ItemID": "cocaleaf",
+            "Quantity": 8,
+            "StartQuality": 2,
+            "Time": 631
+        },
+        {
+            "ItemID": "cocaleaf",
+            "Quantity": 4,
+            "StartQuality": 2,
+            "Time": 399
+        },
+        {
+            "ItemID": "cocaleaf",
+            "Quantity": 4,
+            "StartQuality": 2,
+            "Time": 90
         }
     ]
 }

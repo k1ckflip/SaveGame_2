@@ -1,0 +1,52 @@
+{
+    "DataType": "ContractData",
+    "DataVersion": 0,
+    "GameVersion": "0.3.4f4",
+    "GUID": "f3bd366c-a8ab-4d9e-9aa9-8017993fc902",
+    "State": 1,
+    "IsTracked": true,
+    "Title": "Deal for Geraldine",
+    "Description": "Geraldine has requested a delivery of 4x Cocaine behind Thompson construction and demolition for $920.",
+    "Expires": true,
+    "ExpiryDate": {
+        "DataType": "GameDateTimeData",
+        "DataVersion": 0,
+        "GameVersion": "0.3.4f4",
+        "ElapsedDays": 116,
+        "Time": 600
+    },
+    "Entries": [
+        {
+            "DataType": "QuestEntryData",
+            "DataVersion": 0,
+            "GameVersion": "0.3.4f4",
+            "Name": "4x Cocaine, Behind Thompson construction and demolition",
+            "State": 1
+        }
+    ],
+    "CustomerGUID": "18acf346-c4da-410c-9ed9-12c1101fb26d",
+    "Payment": 920.0,
+    "ProductList": {
+        "entries": [
+            {
+                "ProductID": "cocaine",
+                "Quality": 0,
+                "Quantity": 4
+            }
+        ]
+    },
+    "DeliveryLocationGUID": "5fdc79c3-1636-43b1-947a-5ba8f80f825b",
+    "DeliveryWindow": {
+        "IsEnabled": true,
+        "WindowStartTime": 0,
+        "WindowEndTime": 600
+    },
+    "PickupScheduleIndex": 0,
+    "AcceptTime": {
+        "DataType": "GameDateTimeData",
+        "DataVersion": 0,
+        "GameVersion": "0.3.4f4",
+        "ElapsedDays": 115,
+        "Time": 1423
+    }
+}

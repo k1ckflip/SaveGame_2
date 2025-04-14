@@ -1,0 +1,52 @@
+{
+    "DataType": "ContractData",
+    "DataVersion": 0,
+    "GameVersion": "0.3.4f4",
+    "GUID": "102ed436-dfc0-497b-9635-7cc5d380c7d2",
+    "State": 1,
+    "IsTracked": false,
+    "Title": "Deal for Melissa",
+    "Description": "Melissa has requested a delivery of 3x Cocaine in the central canal near the car wash for $690.",
+    "Expires": true,
+    "ExpiryDate": {
+        "DataType": "GameDateTimeData",
+        "DataVersion": 0,
+        "GameVersion": "0.3.4f4",
+        "ElapsedDays": 115,
+        "Time": 2400
+    },
+    "Entries": [
+        {
+            "DataType": "QuestEntryData",
+            "DataVersion": 0,
+            "GameVersion": "0.3.4f4",
+            "Name": "3x Cocaine, Central canal",
+            "State": 1
+        }
+    ],
+    "CustomerGUID": "f49c1ab2-fc1b-4d80-a3f8-64182b6b6c96",
+    "Payment": 690.0,
+    "ProductList": {
+        "entries": [
+            {
+                "ProductID": "cocaine",
+                "Quality": 2,
+                "Quantity": 3
+            }
+        ]
+    },
+    "DeliveryLocationGUID": "23b689f9-628c-455e-bf81-111680a94150",
+    "DeliveryWindow": {
+        "IsEnabled": true,
+        "WindowStartTime": 1800,
+        "WindowEndTime": 2400
+    },
+    "PickupScheduleIndex": 0,
+    "AcceptTime": {
+        "DataType": "GameDateTimeData",
+        "DataVersion": 0,
+        "GameVersion": "0.3.4f4",
+        "ElapsedDays": 115,
+        "Time": 1845
+    }
+}

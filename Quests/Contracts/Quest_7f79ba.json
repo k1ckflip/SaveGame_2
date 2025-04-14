@@ -1,0 +1,52 @@
+{
+    "DataType": "ContractData",
+    "DataVersion": 0,
+    "GameVersion": "0.3.4f4",
+    "GUID": "7f79ba9d-216e-4cba-af4d-630a0af258ea",
+    "State": 1,
+    "IsTracked": true,
+    "Title": "Deal for Pearl",
+    "Description": "Pearl has requested a delivery of 8x Cocaine in the graveyard for $1,785.",
+    "Expires": true,
+    "ExpiryDate": {
+        "DataType": "GameDateTimeData",
+        "DataVersion": 0,
+        "GameVersion": "0.3.4f4",
+        "ElapsedDays": 116,
+        "Time": 600
+    },
+    "Entries": [
+        {
+            "DataType": "QuestEntryData",
+            "DataVersion": 0,
+            "GameVersion": "0.3.4f4",
+            "Name": "8x Cocaine, Graveyard",
+            "State": 1
+        }
+    ],
+    "CustomerGUID": "4cb08f1c-5ebf-4b4d-b34a-602b285c0cc3",
+    "Payment": 1785.0,
+    "ProductList": {
+        "entries": [
+            {
+                "ProductID": "cocaine",
+                "Quality": 3,
+                "Quantity": 8
+            }
+        ]
+    },
+    "DeliveryLocationGUID": "389fab39-9e13-4030-8408-e246b0d7a9b7",
+    "DeliveryWindow": {
+        "IsEnabled": true,
+        "WindowStartTime": 0,
+        "WindowEndTime": 600
+    },
+    "PickupScheduleIndex": 0,
+    "AcceptTime": {
+        "DataType": "GameDateTimeData",
+        "DataVersion": 0,
+        "GameVersion": "0.3.4f4",
+        "ElapsedDays": 115,
+        "Time": 1643
+    }
+}

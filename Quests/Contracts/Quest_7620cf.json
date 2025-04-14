@@ -1,0 +1,52 @@
+{
+    "DataType": "ContractData",
+    "DataVersion": 0,
+    "GameVersion": "0.3.4f4",
+    "GUID": "7620cf92-d96a-455d-86a2-da40aa9ae962",
+    "State": 1,
+    "IsTracked": true,
+    "Title": "Deal for George",
+    "Description": "George has requested a delivery of 4x Cocaine next to the statue in the west park for $920.",
+    "Expires": true,
+    "ExpiryDate": {
+        "DataType": "GameDateTimeData",
+        "DataVersion": 0,
+        "GameVersion": "0.3.4f4",
+        "ElapsedDays": 116,
+        "Time": 600
+    },
+    "Entries": [
+        {
+            "DataType": "QuestEntryData",
+            "DataVersion": 0,
+            "GameVersion": "0.3.4f4",
+            "Name": "4x Cocaine, Next to the statue in the west park",
+            "State": 1
+        }
+    ],
+    "CustomerGUID": "613cc96e-6617-4014-92ce-735ab165cf99",
+    "Payment": 920.0,
+    "ProductList": {
+        "entries": [
+            {
+                "ProductID": "cocaine",
+                "Quality": 1,
+                "Quantity": 4
+            }
+        ]
+    },
+    "DeliveryLocationGUID": "2f9a4d8a-67b9-4c7e-bd57-0e428879bc06",
+    "DeliveryWindow": {
+        "IsEnabled": true,
+        "WindowStartTime": 0,
+        "WindowEndTime": 600
+    },
+    "PickupScheduleIndex": 0,
+    "AcceptTime": {
+        "DataType": "GameDateTimeData",
+        "DataVersion": 0,
+        "GameVersion": "0.3.4f4",
+        "ElapsedDays": 115,
+        "Time": 1418
+    }
+}

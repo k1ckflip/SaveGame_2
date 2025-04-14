@@ -21,5 +21,12 @@
             "{\"DataType\":\"ItemData\",\"DataVersion\":0,\"GameVersion\":\"0.3.4f4\",\"ID\":\"\",\"Quantity\":0}"
         ]
     },
-    "DryingOperations": []
+    "DryingOperations": [
+        {
+            "ItemID": "cocaleaf",
+            "Quantity": 16,
+            "StartQuality": 2,
+            "Time": 129
+        }
+    ]
 }

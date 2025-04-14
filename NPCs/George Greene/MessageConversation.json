@@ -2,27 +2,9 @@
     "DataType": "MSGConversationData",
     "DataVersion": 0,
     "GameVersion": "0.3.4f4",
-    "ConversationIndex": 2,
+    "ConversationIndex": 6,
     "Read": true,
     "MessageHistory": [
-        {
-            "Sender": 1,
-            "MessageID": 380718629,
-            "Text": "Great, I'll meet you <b>in the west construction site</b> between 12:00 AM and 6:00 AM.",
-            "EndOfChain": true
-        },
-        {
-            "Sender": 1,
-            "MessageID": 217373121,
-            "Text": "You got 4x Cocaine? I'll pay <color=#46CB4F>$920</color> for it",
-            "EndOfChain": true
-        },
-        {
-            "Sender": 0,
-            "MessageID": -828031577,
-            "Text": "Sure thing",
-            "EndOfChain": true
-        },
         {
             "Sender": 1,
             "MessageID": -1501377623,
@@ -63,6 +45,24 @@
             "Sender": 1,
             "MessageID": -432605090,
             "Text": "Great, I'll meet you <b>behind the pawn shop</b> between 12:00 AM and 6:00 AM.",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": -13053892,
+            "Text": "Hey, if you got 4x Cocaine I'll pay <color=#46CB4F>$920</color> for it. Deal?",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 0,
+            "MessageID": 242536389,
+            "Text": "Deal",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": -1043525610,
+            "Text": "Great, I'll meet you <b>next to the statue in the west park</b> between 12:00 AM and 6:00 AM.",
             "EndOfChain": true
         }
     ],

@@ -1,0 +1,52 @@
+{
+    "DataType": "ContractData",
+    "DataVersion": 0,
+    "GameVersion": "0.3.4f4",
+    "GUID": "a649490e-d05a-4b01-8914-0b66ecb52094",
+    "State": 1,
+    "IsTracked": true,
+    "Title": "Deal for Fiona",
+    "Description": "Fiona has requested a delivery of 7x Cocaine in the alleyway next to HAM legal services for $1,320.",
+    "Expires": true,
+    "ExpiryDate": {
+        "DataType": "GameDateTimeData",
+        "DataVersion": 0,
+        "GameVersion": "0.3.4f4",
+        "ElapsedDays": 116,
+        "Time": 600
+    },
+    "Entries": [
+        {
+            "DataType": "QuestEntryData",
+            "DataVersion": 0,
+            "GameVersion": "0.3.4f4",
+            "Name": "7x Cocaine, Alleyway next to HAM legal services",
+            "State": 1
+        }
+    ],
+    "CustomerGUID": "2d3e2463-a8e8-4250-b30d-4f1952667e36",
+    "Payment": 1320.0,
+    "ProductList": {
+        "entries": [
+            {
+                "ProductID": "cocaine",
+                "Quality": 3,
+                "Quantity": 7
+            }
+        ]
+    },
+    "DeliveryLocationGUID": "76f05a16-d5f7-4ac4-87bf-e2113b7a03a4",
+    "DeliveryWindow": {
+        "IsEnabled": true,
+        "WindowStartTime": 0,
+        "WindowEndTime": 600
+    },
+    "PickupScheduleIndex": 0,
+    "AcceptTime": {
+        "DataType": "GameDateTimeData",
+        "DataVersion": 0,
+        "GameVersion": "0.3.4f4",
+        "ElapsedDays": 115,
+        "Time": 1417
+    }
+}

@@ -2,27 +2,9 @@
     "DataType": "MSGConversationData",
     "DataVersion": 0,
     "GameVersion": "0.3.4f4",
-    "ConversationIndex": 7,
+    "ConversationIndex": 11,
     "Read": true,
     "MessageHistory": [
-        {
-            "Sender": 1,
-            "MessageID": -303501119,
-            "Text": "Great, I'll meet you <b>behind the post office</b> between 12:00 AM and 6:00 AM.",
-            "EndOfChain": true
-        },
-        {
-            "Sender": 1,
-            "MessageID": 534370247,
-            "Text": "Hey, I need 4x Cocaine. I'll pay <color=#46CB4F>$920</color>. Deal?",
-            "EndOfChain": true
-        },
-        {
-            "Sender": 0,
-            "MessageID": -319217209,
-            "Text": "Deal",
-            "EndOfChain": true
-        },
         {
             "Sender": 1,
             "MessageID": -1238110486,
@@ -63,6 +45,24 @@
             "Sender": 1,
             "MessageID": -470735743,
             "Text": "Great, I'll meet you <b>behind the green house in the suburbs</b> between 12:00 AM and 6:00 AM.",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": 1869021851,
+            "Text": "Hey, can I get 4x Cocaine? I'll pay <color=#46CB4F>$920</color>",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 0,
+            "MessageID": -2079890,
+            "Text": "Yep",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": -700657837,
+            "Text": "Great, I'll meet you <b>rehind Ray's Realty</b> between 12:00 AM and 6:00 AM.",
             "EndOfChain": true
         }
     ],

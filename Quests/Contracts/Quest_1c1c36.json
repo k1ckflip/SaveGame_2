@@ -1,0 +1,52 @@
+{
+    "DataType": "ContractData",
+    "DataVersion": 0,
+    "GameVersion": "0.3.4f4",
+    "GUID": "1c1c3687-cef9-4fb2-a031-0e476f59cf22",
+    "State": 1,
+    "IsTracked": true,
+    "Title": "Deal for Jack",
+    "Description": "Jack has requested a delivery of 4x Cocaine behind the dealership for $920.",
+    "Expires": true,
+    "ExpiryDate": {
+        "DataType": "GameDateTimeData",
+        "DataVersion": 0,
+        "GameVersion": "0.3.4f4",
+        "ElapsedDays": 116,
+        "Time": 600
+    },
+    "Entries": [
+        {
+            "DataType": "QuestEntryData",
+            "DataVersion": 0,
+            "GameVersion": "0.3.4f4",
+            "Name": "4x Cocaine, Behind the dealership",
+            "State": 1
+        }
+    ],
+    "CustomerGUID": "f5950f4a-4be9-4291-b224-247937fb1c0c",
+    "Payment": 920.0,
+    "ProductList": {
+        "entries": [
+            {
+                "ProductID": "cocaine",
+                "Quality": 3,
+                "Quantity": 4
+            }
+        ]
+    },
+    "DeliveryLocationGUID": "9cf32715-1ec5-4dd2-94a9-0bf418f00161",
+    "DeliveryWindow": {
+        "IsEnabled": true,
+        "WindowStartTime": 0,
+        "WindowEndTime": 600
+    },
+    "PickupScheduleIndex": 0,
+    "AcceptTime": {
+        "DataType": "GameDateTimeData",
+        "DataVersion": 0,
+        "GameVersion": "0.3.4f4",
+        "ElapsedDays": 115,
+        "Time": 1645
+    }
+}

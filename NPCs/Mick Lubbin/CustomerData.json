@@ -11,32 +11,38 @@
         1.0,
         1.0
     ],
-    "TimeSinceLastDealCompleted": 993,
-    "TimeSinceLastDealOffered": 1014,
-    "OfferedDeals": 94,
-    "CompletedDeals": 87,
-    "IsContractOffered": false,
+    "TimeSinceLastDealCompleted": 1876,
+    "TimeSinceLastDealOffered": 3,
+    "OfferedDeals": 96,
+    "CompletedDeals": 88,
+    "IsContractOffered": true,
     "OfferedContract": {
-        "Payment": 0.0,
+        "Payment": 460.0,
         "Products": {
-            "entries": []
+            "entries": [
+                {
+                    "ProductID": "cocaine",
+                    "Quality": 1,
+                    "Quantity": 2
+                }
+            ]
         },
-        "DeliveryLocationGUID": "",
+        "DeliveryLocationGUID": "42b11b9f-8460-45fc-a677-a6ff29dd8561",
         "DeliveryWindow": {
-            "IsEnabled": false,
-            "WindowStartTime": 1200,
-            "WindowEndTime": 1800
+            "IsEnabled": true,
+            "WindowStartTime": 0,
+            "WindowEndTime": 0
         },
-        "Expires": false,
-        "ExpiresAfter": 0,
+        "Expires": true,
+        "ExpiresAfter": 1,
         "PickupScheduleIndex": 0,
         "IsCounterOffer": false
     },
     "OfferedContractTime": {
-        "elapsedDays": 0,
-        "time": 0
+        "elapsedDays": 115,
+        "time": 1930
     },
-    "TimeSincePlayerApproached": 164649,
-    "TimeSinceInstantDealOffered": 164649,
+    "TimeSincePlayerApproached": 166588,
+    "TimeSinceInstantDealOffered": 166588,
     "HasBeenRecommended": false
 }

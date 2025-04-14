@@ -7,24 +7,6 @@
     "MessageHistory": [
         {
             "Sender": 1,
-            "MessageID": 1705725489,
-            "Text": "Good!! I'll see u <b>next to the barbershop</b> between 12:00 AM and 6:00 AM.",
-            "EndOfChain": true
-        },
-        {
-            "Sender": 1,
-            "MessageID": -654373156,
-            "Text": "Need me 4x Cocaine! I'll pay <color=#46CB4F>$920</color> yeah??",
-            "EndOfChain": true
-        },
-        {
-            "Sender": 0,
-            "MessageID": 2113056771,
-            "Text": "Yes",
-            "EndOfChain": true
-        },
-        {
-            "Sender": 1,
             "MessageID": 629520236,
             "Text": "Good!! I'll see u <b>behind Sauerkraut Supreme pizzeria</b> between 12:00 AM and 6:00 AM.",
             "EndOfChain": true
@@ -63,6 +45,24 @@
             "Sender": 1,
             "MessageID": 1150939548,
             "Text": "Good!! I'll see u <b>behind Sauerkraut Supreme pizzeria</b> between 12:00 AM and 6:00 AM.",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": -1415977757,
+            "Text": "Need me 4x Cocaine! I'll pay <color=#46CB4F>$920</color> yeah??",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 0,
+            "MessageID": -491434652,
+            "Text": "Deal",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": -479668710,
+            "Text": "Good!! I'll see u <b>behind Thompson construction and demolition</b> between 12:00 AM and 6:00 AM.",
             "EndOfChain": true
         }
     ],

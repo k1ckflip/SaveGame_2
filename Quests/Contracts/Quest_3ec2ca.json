@@ -1,0 +1,52 @@
+{
+    "DataType": "ContractData",
+    "DataVersion": 0,
+    "GameVersion": "0.3.4f4",
+    "GUID": "3ec2ca5e-5bb5-47fe-a539-7e1c731eef47",
+    "State": 1,
+    "IsTracked": false,
+    "Title": "Deal for Marco",
+    "Description": "Marco has requested a delivery of 3x Cocaine behind the shipping containers at the docks for $690.",
+    "Expires": true,
+    "ExpiryDate": {
+        "DataType": "GameDateTimeData",
+        "DataVersion": 0,
+        "GameVersion": "0.3.4f4",
+        "ElapsedDays": 115,
+        "Time": 2400
+    },
+    "Entries": [
+        {
+            "DataType": "QuestEntryData",
+            "DataVersion": 0,
+            "GameVersion": "0.3.4f4",
+            "Name": "3x Cocaine, Behind the shipping containers at the docks",
+            "State": 1
+        }
+    ],
+    "CustomerGUID": "1cf9aa00-f921-4652-8420-a95838a43e2a",
+    "Payment": 690.0,
+    "ProductList": {
+        "entries": [
+            {
+                "ProductID": "cocaine",
+                "Quality": 2,
+                "Quantity": 3
+            }
+        ]
+    },
+    "DeliveryLocationGUID": "e785a83a-e26b-45b9-9701-0e3f48a6cff5",
+    "DeliveryWindow": {
+        "IsEnabled": true,
+        "WindowStartTime": 1800,
+        "WindowEndTime": 2400
+    },
+    "PickupScheduleIndex": 0,
+    "AcceptTime": {
+        "DataType": "GameDateTimeData",
+        "DataVersion": 0,
+        "GameVersion": "0.3.4f4",
+        "ElapsedDays": 115,
+        "Time": 1715
+    }
+}

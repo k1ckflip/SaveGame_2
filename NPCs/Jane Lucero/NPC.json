@@ -15,13 +15,13 @@
         "billy_kramer"
     ],
     "ActiveContractGUIDs": [
-        "0f54fed5-86e0-4812-80dc-1ae8c98d61ba",
-        "e6b48c35-6add-465b-b419-ea35d789251f"
+        "757c3aee-ed57-412e-bf76-a7605f03f601",
+        "91b8d7d0-4dff-46e6-afb9-6f87c14da80a"
     ],
-    "Cash": 6913.60009765625,
+    "Cash": 1321.199951171875,
     "OverflowItems": {
         "Items": [
-            "{\"DataType\":\"CocaineData\",\"DataVersion\":0,\"GameVersion\":\"0.3.4f4\",\"ID\":\"aspensplooge\",\"Quantity\":4,\"Quality\":\"Heavenly\",\"PackagingID\":\"baggie\"}",
+            "{\"DataType\":\"ItemData\",\"DataVersion\":0,\"GameVersion\":\"0.3.4f4\",\"ID\":\"\",\"Quantity\":0}",
             "{\"DataType\":\"ItemData\",\"DataVersion\":0,\"GameVersion\":\"0.3.4f4\",\"ID\":\"\",\"Quantity\":0}",
             "{\"DataType\":\"ItemData\",\"DataVersion\":0,\"GameVersion\":\"0.3.4f4\",\"ID\":\"\",\"Quantity\":0}",
             "{\"DataType\":\"ItemData\",\"DataVersion\":0,\"GameVersion\":\"0.3.4f4\",\"ID\":\"\",\"Quantity\":0}",

@@ -13,7 +13,7 @@
     "Rotation": -90,
     "Input": {
         "Items": [
-            "{\"DataType\":\"WeedData\",\"DataVersion\":0,\"GameVersion\":\"0.3.4f4\",\"ID\":\"ogkush\",\"Quantity\":16,\"Quality\":\"Standard\",\"PackagingID\":\"\"}"
+            "{\"DataType\":\"ItemData\",\"DataVersion\":0,\"GameVersion\":\"0.3.4f4\",\"ID\":\"\",\"Quantity\":0}"
         ]
     },
     "Output": {
@@ -21,12 +21,5 @@
             "{\"DataType\":\"ItemData\",\"DataVersion\":0,\"GameVersion\":\"0.3.4f4\",\"ID\":\"\",\"Quantity\":0}"
         ]
     },
-    "DryingOperations": [
-        {
-            "ItemID": "ogkush",
-            "Quantity": 20,
-            "StartQuality": 3,
-            "Time": 677
-        }
-    ]
+    "DryingOperations": []
 }

@@ -1,0 +1,52 @@
+{
+    "DataType": "ContractData",
+    "DataVersion": 0,
+    "GameVersion": "0.3.4f4",
+    "GUID": "757c3aee-ed57-412e-bf76-a7605f03f601",
+    "State": 1,
+    "IsTracked": false,
+    "Title": "Deal for Anna",
+    "Description": "Anna has requested a delivery of 3x Cocaine Behind Randy's bait & tackle for $690.",
+    "Expires": true,
+    "ExpiryDate": {
+        "DataType": "GameDateTimeData",
+        "DataVersion": 0,
+        "GameVersion": "0.3.4f4",
+        "ElapsedDays": 115,
+        "Time": 2400
+    },
+    "Entries": [
+        {
+            "DataType": "QuestEntryData",
+            "DataVersion": 0,
+            "GameVersion": "0.3.4f4",
+            "Name": "3x Cocaine, Behind Randy's bait & tackle",
+            "State": 1
+        }
+    ],
+    "CustomerGUID": "6e9805d5-8aaf-4888-8355-d3e362abdcda",
+    "Payment": 690.0,
+    "ProductList": {
+        "entries": [
+            {
+                "ProductID": "cocaine",
+                "Quality": 2,
+                "Quantity": 3
+            }
+        ]
+    },
+    "DeliveryLocationGUID": "3f7cebba-abdd-4449-80ae-1d9a230df90c",
+    "DeliveryWindow": {
+        "IsEnabled": true,
+        "WindowStartTime": 1800,
+        "WindowEndTime": 2400
+    },
+    "PickupScheduleIndex": 0,
+    "AcceptTime": {
+        "DataType": "GameDateTimeData",
+        "DataVersion": 0,
+        "GameVersion": "0.3.4f4",
+        "ElapsedDays": 115,
+        "Time": 1850
+    }
+}

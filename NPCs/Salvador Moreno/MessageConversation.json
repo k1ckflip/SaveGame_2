@@ -2,15 +2,9 @@
     "DataType": "MSGConversationData",
     "DataVersion": 0,
     "GameVersion": "0.3.4f4",
-    "ConversationIndex": 21,
+    "ConversationIndex": 8,
     "Read": true,
     "MessageHistory": [
-        {
-            "Sender": 1,
-            "MessageID": -2085616149,
-            "Text": "Okay. I'll be next to the mayor's house for the next 6 hours.",
-            "EndOfChain": true
-        },
         {
             "Sender": 1,
             "MessageID": -1124362536,
@@ -63,6 +57,12 @@
             "Sender": 1,
             "MessageID": 1088752715,
             "Text": "Okay. I'll be next to the mayor's house for the next 6 hours.",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": -454704903,
+            "Text": "Okay. I'll be in the west construction site for the next 6 hours.",
             "EndOfChain": true
         }
     ],

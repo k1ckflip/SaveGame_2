@@ -11,11 +11,10 @@
         "donna_martin",
         "kathy_henderson",
         "kyle_cooley",
-        "ludwig_meyer",
-        "mick_lubbin"
+        "ludwig_meyer"
     ],
     "ActiveContractGUIDs": [],
-    "Cash": 5336.0,
+    "Cash": 8629.6005859375,
     "OverflowItems": {
         "Items": [
             "{\"DataType\":\"ItemData\",\"DataVersion\":0,\"GameVersion\":\"0.3.4f4\",\"ID\":\"\",\"Quantity\":0}",
