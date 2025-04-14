@@ -1,0 +1,52 @@
+{
+    "DataType": "ContractData",
+    "DataVersion": 0,
+    "GameVersion": "0.3.4f4",
+    "GUID": "33446a65-138f-4ecc-9e66-4c93b6bf45bf",
+    "State": 1,
+    "IsTracked": false,
+    "Title": "Deal for Keith",
+    "Description": "Keith has requested a delivery of 1x Cocaine next to the statue in the west park for $230.",
+    "Expires": true,
+    "ExpiryDate": {
+        "DataType": "GameDateTimeData",
+        "DataVersion": 0,
+        "GameVersion": "0.3.4f4",
+        "ElapsedDays": 104,
+        "Time": 600
+    },
+    "Entries": [
+        {
+            "DataType": "QuestEntryData",
+            "DataVersion": 0,
+            "GameVersion": "0.3.4f4",
+            "Name": "1x Cocaine, Next to the statue in the west park",
+            "State": 1
+        }
+    ],
+    "CustomerGUID": "ad0ec19f-ac46-4bf6-8425-7bde5b36767f",
+    "Payment": 230.0,
+    "ProductList": {
+        "entries": [
+            {
+                "ProductID": "cocaine",
+                "Quality": 0,
+                "Quantity": 1
+            }
+        ]
+    },
+    "DeliveryLocationGUID": "2f9a4d8a-67b9-4c7e-bd57-0e428879bc06",
+    "DeliveryWindow": {
+        "IsEnabled": true,
+        "WindowStartTime": 0,
+        "WindowEndTime": 600
+    },
+    "PickupScheduleIndex": 0,
+    "AcceptTime": {
+        "DataType": "GameDateTimeData",
+        "DataVersion": 0,
+        "GameVersion": "0.3.4f4",
+        "ElapsedDays": 104,
+        "Time": 30
+    }
+}

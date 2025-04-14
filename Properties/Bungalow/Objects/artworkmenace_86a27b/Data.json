@@ -1,0 +1,20 @@
+{
+    "DataType": "SurfaceItemData",
+    "DataVersion": 0,
+    "GameVersion": "0.3.4f4",
+    "GUID": "86a27baf-dea9-4257-8b6c-b6a106a8f54d",
+    "ItemString": "{\n    \"DataType\": \"ItemData\",\n    \"DataVersion\": 0,\n    \"GameVersion\": \"0.3.4f4\",\n    \"ID\": \"artworkmenace\",\n    \"Quantity\": 1\n}",
+    "LoadOrder": 25,
+    "ParentSurfaceGUID": "c612b23b-84ff-467b-a6d8-6da79e118297",
+    "RelativePosition": {
+        "x": 1.1475001573562623,
+        "y": -6.109994888305664,
+        "z": 1.7780179977416993
+    },
+    "RelativeRotation": {
+        "x": 0.0,
+        "y": 0.7071065306663513,
+        "z": 0.7071070075035095,
+        "w": 0.0
+    }
+}

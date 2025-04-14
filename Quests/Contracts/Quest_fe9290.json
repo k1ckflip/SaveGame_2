@@ -1,0 +1,52 @@
+{
+    "DataType": "ContractData",
+    "DataVersion": 0,
+    "GameVersion": "0.3.4f4",
+    "GUID": "fe929028-39d5-42b0-a425-d6a9321eadb9",
+    "State": 1,
+    "IsTracked": false,
+    "Title": "Deal for Mick",
+    "Description": "Mick has requested a delivery of 2x Cocaine at the north waterfront for $460.",
+    "Expires": true,
+    "ExpiryDate": {
+        "DataType": "GameDateTimeData",
+        "DataVersion": 0,
+        "GameVersion": "0.3.4f4",
+        "ElapsedDays": 104,
+        "Time": 600
+    },
+    "Entries": [
+        {
+            "DataType": "QuestEntryData",
+            "DataVersion": 0,
+            "GameVersion": "0.3.4f4",
+            "Name": "2x Cocaine, North waterfront",
+            "State": 1
+        }
+    ],
+    "CustomerGUID": "d7a1ac26-77c2-42f3-aa82-bee1f6a99cb9",
+    "Payment": 460.0,
+    "ProductList": {
+        "entries": [
+            {
+                "ProductID": "cocaine",
+                "Quality": 1,
+                "Quantity": 2
+            }
+        ]
+    },
+    "DeliveryLocationGUID": "7b391235-04fc-49e1-945b-e6a27b0b6596",
+    "DeliveryWindow": {
+        "IsEnabled": true,
+        "WindowStartTime": 0,
+        "WindowEndTime": 600
+    },
+    "PickupScheduleIndex": 0,
+    "AcceptTime": {
+        "DataType": "GameDateTimeData",
+        "DataVersion": 0,
+        "GameVersion": "0.3.4f4",
+        "ElapsedDays": 104,
+        "Time": 1
+    }
+}

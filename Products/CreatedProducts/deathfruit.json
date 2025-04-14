@@ -1,0 +1,39 @@
+{
+    "DataType": "WeedProductData",
+    "DataVersion": 0,
+    "GameVersion": "0.3.4f4",
+    "Name": "Death Fruit",
+    "ID": "deathfruit",
+    "DrugType": 0,
+    "Properties": [
+        "balding",
+        "athletic",
+        "antigravity"
+    ],
+    "AppearanceSettings": {
+        "MainColor": {
+            "r": 102,
+            "g": 145,
+            "b": 153,
+            "a": 255
+        },
+        "SecondaryColor": {
+            "r": 142,
+            "g": 151,
+            "b": 123,
+            "a": 255
+        },
+        "LeafColor": {
+            "r": 122,
+            "g": 148,
+            "b": 138,
+            "a": 255
+        },
+        "StemColor": {
+            "r": 81,
+            "g": 116,
+            "b": 122,
+            "a": 255
+        }
+    }
+}

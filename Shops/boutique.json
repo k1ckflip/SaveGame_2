@@ -5,6 +5,22 @@
     "ShopCode": "boutique",
     "ItemStockQuantities": [
         {
+            "String": "artworklines",
+            "Int": 0
+        },
+        {
+            "String": "artworkmenace",
+            "Int": 0
+        },
+        {
+            "String": "artworkoffer",
+            "Int": 0
+        },
+        {
+            "String": "artworkrapscallion",
+            "Int": 0
+        },
+        {
             "String": "goldentoilet",
             "Int": 0
         }

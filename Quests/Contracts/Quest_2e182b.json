@@ -1,0 +1,52 @@
+{
+    "DataType": "ContractData",
+    "DataVersion": 0,
+    "GameVersion": "0.3.4f4",
+    "GUID": "2e182b83-9951-498d-b025-9c8242f58d62",
+    "State": 1,
+    "IsTracked": true,
+    "Title": "Deal for Harold",
+    "Description": "Harold has requested a delivery of 3x Cocaine behind the bus stop in the suburbs for $655.",
+    "Expires": true,
+    "ExpiryDate": {
+        "DataType": "GameDateTimeData",
+        "DataVersion": 0,
+        "GameVersion": "0.3.4f4",
+        "ElapsedDays": 115,
+        "Time": 600
+    },
+    "Entries": [
+        {
+            "DataType": "QuestEntryData",
+            "DataVersion": 0,
+            "GameVersion": "0.3.4f4",
+            "Name": "3x Cocaine, Behind the suburbs bus stop",
+            "State": 1
+        }
+    ],
+    "CustomerGUID": "b025d515-6b26-4752-8c5d-b36887d59b58",
+    "Payment": 655.0,
+    "ProductList": {
+        "entries": [
+            {
+                "ProductID": "cocaine",
+                "Quality": 3,
+                "Quantity": 3
+            }
+        ]
+    },
+    "DeliveryLocationGUID": "bd2e7438-88d2-491a-95b8-2976a803eb9e",
+    "DeliveryWindow": {
+        "IsEnabled": true,
+        "WindowStartTime": 0,
+        "WindowEndTime": 600
+    },
+    "PickupScheduleIndex": 0,
+    "AcceptTime": {
+        "DataType": "GameDateTimeData",
+        "DataVersion": 0,
+        "GameVersion": "0.3.4f4",
+        "ElapsedDays": 114,
+        "Time": 1226
+    }
+}

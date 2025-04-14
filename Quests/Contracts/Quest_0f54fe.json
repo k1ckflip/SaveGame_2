@@ -1,0 +1,52 @@
+{
+    "DataType": "ContractData",
+    "DataVersion": 0,
+    "GameVersion": "0.3.4f4",
+    "GUID": "0f54fed5-86e0-4812-80dc-1ae8c98d61ba",
+    "State": 1,
+    "IsTracked": false,
+    "Title": "Deal for Anna",
+    "Description": "Anna has requested a delivery of 1x Aspen Splooge Behind Randy's bait & tackle for $705.",
+    "Expires": true,
+    "ExpiryDate": {
+        "DataType": "GameDateTimeData",
+        "DataVersion": 0,
+        "GameVersion": "0.3.4f4",
+        "ElapsedDays": 114,
+        "Time": 2400
+    },
+    "Entries": [
+        {
+            "DataType": "QuestEntryData",
+            "DataVersion": 0,
+            "GameVersion": "0.3.4f4",
+            "Name": "1x Aspen Splooge, Behind Randy's bait & tackle",
+            "State": 1
+        }
+    ],
+    "CustomerGUID": "6e9805d5-8aaf-4888-8355-d3e362abdcda",
+    "Payment": 705.0,
+    "ProductList": {
+        "entries": [
+            {
+                "ProductID": "aspensplooge",
+                "Quality": 2,
+                "Quantity": 1
+            }
+        ]
+    },
+    "DeliveryLocationGUID": "3f7cebba-abdd-4449-80ae-1d9a230df90c",
+    "DeliveryWindow": {
+        "IsEnabled": true,
+        "WindowStartTime": 1800,
+        "WindowEndTime": 2400
+    },
+    "PickupScheduleIndex": 0,
+    "AcceptTime": {
+        "DataType": "GameDateTimeData",
+        "DataVersion": 0,
+        "GameVersion": "0.3.4f4",
+        "ElapsedDays": 114,
+        "Time": 1850
+    }
+}

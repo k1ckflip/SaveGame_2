@@ -1,0 +1,52 @@
+{
+    "DataType": "ContractData",
+    "DataVersion": 0,
+    "GameVersion": "0.3.4f4",
+    "GUID": "3e13451b-0646-4794-b6c3-947cb3a3298c",
+    "State": 1,
+    "IsTracked": true,
+    "Title": "Deal for Carl",
+    "Description": "Carl has requested a delivery of 5x Cocaine behind the post office for $975.",
+    "Expires": true,
+    "ExpiryDate": {
+        "DataType": "GameDateTimeData",
+        "DataVersion": 0,
+        "GameVersion": "0.3.4f4",
+        "ElapsedDays": 115,
+        "Time": 600
+    },
+    "Entries": [
+        {
+            "DataType": "QuestEntryData",
+            "DataVersion": 0,
+            "GameVersion": "0.3.4f4",
+            "Name": "5x Cocaine, Behind the Post Office",
+            "State": 1
+        }
+    ],
+    "CustomerGUID": "fd8e0d99-aba6-4831-9315-5f5ff9a54857",
+    "Payment": 975.0,
+    "ProductList": {
+        "entries": [
+            {
+                "ProductID": "cocaine",
+                "Quality": 3,
+                "Quantity": 5
+            }
+        ]
+    },
+    "DeliveryLocationGUID": "67324b45-c8d8-4e70-8d60-0de7ba0749f7",
+    "DeliveryWindow": {
+        "IsEnabled": true,
+        "WindowStartTime": 0,
+        "WindowEndTime": 600
+    },
+    "PickupScheduleIndex": 0,
+    "AcceptTime": {
+        "DataType": "GameDateTimeData",
+        "DataVersion": 0,
+        "GameVersion": "0.3.4f4",
+        "ElapsedDays": 114,
+        "Time": 1908
+    }
+}

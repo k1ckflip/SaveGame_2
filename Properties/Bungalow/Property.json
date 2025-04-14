@@ -6,7 +6,7 @@
     "IsOwned": true,
     "SwitchStates": [
         true,
-        false
+        true
     ],
     "ToggleableStates": []
 }

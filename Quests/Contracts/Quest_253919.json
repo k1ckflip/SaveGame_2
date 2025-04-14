@@ -1,0 +1,52 @@
+{
+    "DataType": "ContractData",
+    "DataVersion": 0,
+    "GameVersion": "0.3.4f4",
+    "GUID": "253919c4-d707-4e89-afe2-03e33b7d99ae",
+    "State": 1,
+    "IsTracked": true,
+    "Title": "Deal for Alison",
+    "Description": "Alison has requested a delivery of 4x Cocaine behind the green house in the suburbs for $920.",
+    "Expires": true,
+    "ExpiryDate": {
+        "DataType": "GameDateTimeData",
+        "DataVersion": 0,
+        "GameVersion": "0.3.4f4",
+        "ElapsedDays": 115,
+        "Time": 600
+    },
+    "Entries": [
+        {
+            "DataType": "QuestEntryData",
+            "DataVersion": 0,
+            "GameVersion": "0.3.4f4",
+            "Name": "4x Cocaine, Behind green house",
+            "State": 1
+        }
+    ],
+    "CustomerGUID": "4b32779a-7258-4623-9b09-9251fa3f68af",
+    "Payment": 920.0,
+    "ProductList": {
+        "entries": [
+            {
+                "ProductID": "cocaine",
+                "Quality": 3,
+                "Quantity": 4
+            }
+        ]
+    },
+    "DeliveryLocationGUID": "c9fad1e6-d724-4fc3-aa5e-56449f83e2ee",
+    "DeliveryWindow": {
+        "IsEnabled": true,
+        "WindowStartTime": 0,
+        "WindowEndTime": 600
+    },
+    "PickupScheduleIndex": 0,
+    "AcceptTime": {
+        "DataType": "GameDateTimeData",
+        "DataVersion": 0,
+        "GameVersion": "0.3.4f4",
+        "ElapsedDays": 114,
+        "Time": 1054
+    }
+}

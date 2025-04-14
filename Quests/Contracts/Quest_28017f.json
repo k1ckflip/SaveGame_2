@@ -1,0 +1,52 @@
+{
+    "DataType": "ContractData",
+    "DataVersion": 0,
+    "GameVersion": "0.3.4f4",
+    "GUID": "28017f0f-7b7b-4376-87c5-4119893c0279",
+    "State": 1,
+    "IsTracked": true,
+    "Title": "Deal for Jeremy",
+    "Description": "Jeremy has requested a delivery of 3x Cocaine behind the post office for $790.",
+    "Expires": true,
+    "ExpiryDate": {
+        "DataType": "GameDateTimeData",
+        "DataVersion": 0,
+        "GameVersion": "0.3.4f4",
+        "ElapsedDays": 104,
+        "Time": 600
+    },
+    "Entries": [
+        {
+            "DataType": "QuestEntryData",
+            "DataVersion": 0,
+            "GameVersion": "0.3.4f4",
+            "Name": "3x Cocaine, Behind the Post Office",
+            "State": 1
+        }
+    ],
+    "CustomerGUID": "fce04052-6571-4ff2-9b4e-ee6835006c6c",
+    "Payment": 790.0,
+    "ProductList": {
+        "entries": [
+            {
+                "ProductID": "cocaine",
+                "Quality": 3,
+                "Quantity": 3
+            }
+        ]
+    },
+    "DeliveryLocationGUID": "67324b45-c8d8-4e70-8d60-0de7ba0749f7",
+    "DeliveryWindow": {
+        "IsEnabled": true,
+        "WindowStartTime": 0,
+        "WindowEndTime": 600
+    },
+    "PickupScheduleIndex": 0,
+    "AcceptTime": {
+        "DataType": "GameDateTimeData",
+        "DataVersion": 0,
+        "GameVersion": "0.3.4f4",
+        "ElapsedDays": 103,
+        "Time": 2238
+    }
+}

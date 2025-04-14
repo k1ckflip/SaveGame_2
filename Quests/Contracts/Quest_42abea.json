@@ -1,0 +1,52 @@
+{
+    "DataType": "ContractData",
+    "DataVersion": 0,
+    "GameVersion": "0.3.4f4",
+    "GUID": "42abea0a-3ca4-4f19-bcbb-5a878319ec3e",
+    "State": 1,
+    "IsTracked": true,
+    "Title": "Deal for Michael",
+    "Description": "Michael has requested a delivery of 7x Cocaine behind the bank for $1,550.",
+    "Expires": true,
+    "ExpiryDate": {
+        "DataType": "GameDateTimeData",
+        "DataVersion": 0,
+        "GameVersion": "0.3.4f4",
+        "ElapsedDays": 115,
+        "Time": 600
+    },
+    "Entries": [
+        {
+            "DataType": "QuestEntryData",
+            "DataVersion": 0,
+            "GameVersion": "0.3.4f4",
+            "Name": "7x Cocaine, Behind Bank",
+            "State": 1
+        }
+    ],
+    "CustomerGUID": "51286284-5049-42d9-88ca-b0afd4d519cd",
+    "Payment": 1550.0,
+    "ProductList": {
+        "entries": [
+            {
+                "ProductID": "cocaine",
+                "Quality": 3,
+                "Quantity": 7
+            }
+        ]
+    },
+    "DeliveryLocationGUID": "8aec5bb5-3e5c-4b10-888d-a83fd9ccfc57",
+    "DeliveryWindow": {
+        "IsEnabled": true,
+        "WindowStartTime": 0,
+        "WindowEndTime": 600
+    },
+    "PickupScheduleIndex": 0,
+    "AcceptTime": {
+        "DataType": "GameDateTimeData",
+        "DataVersion": 0,
+        "GameVersion": "0.3.4f4",
+        "ElapsedDays": 114,
+        "Time": 1549
+    }
+}

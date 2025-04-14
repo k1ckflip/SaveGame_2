@@ -1,0 +1,52 @@
+{
+    "DataType": "ContractData",
+    "DataVersion": 0,
+    "GameVersion": "0.3.4f4",
+    "GUID": "218d7c26-c71e-4768-b933-f53043e1782d",
+    "State": 1,
+    "IsTracked": false,
+    "Title": "Deal for Mrs. Ming",
+    "Description": "Mrs. Ming has requested a delivery of 1x Tokyo Death at the north waterfront for $425.",
+    "Expires": true,
+    "ExpiryDate": {
+        "DataType": "GameDateTimeData",
+        "DataVersion": 0,
+        "GameVersion": "0.3.4f4",
+        "ElapsedDays": 104,
+        "Time": 600
+    },
+    "Entries": [
+        {
+            "DataType": "QuestEntryData",
+            "DataVersion": 0,
+            "GameVersion": "0.3.4f4",
+            "Name": "1x Tokyo Death, North waterfront",
+            "State": 1
+        }
+    ],
+    "CustomerGUID": "145d7e11-b35e-4863-8734-0b08e7cfb5b6",
+    "Payment": 425.0,
+    "ProductList": {
+        "entries": [
+            {
+                "ProductID": "tokyodeath",
+                "Quality": 1,
+                "Quantity": 1
+            }
+        ]
+    },
+    "DeliveryLocationGUID": "7b391235-04fc-49e1-945b-e6a27b0b6596",
+    "DeliveryWindow": {
+        "IsEnabled": true,
+        "WindowStartTime": 0,
+        "WindowEndTime": 600
+    },
+    "PickupScheduleIndex": 0,
+    "AcceptTime": {
+        "DataType": "GameDateTimeData",
+        "DataVersion": 0,
+        "GameVersion": "0.3.4f4",
+        "ElapsedDays": 104,
+        "Time": 1
+    }
+}

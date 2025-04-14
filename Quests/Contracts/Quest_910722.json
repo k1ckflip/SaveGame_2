@@ -1,0 +1,52 @@
+{
+    "DataType": "ContractData",
+    "DataVersion": 0,
+    "GameVersion": "0.3.4f4",
+    "GUID": "910722fe-034e-4ae2-9bc8-c4f96d5259d8",
+    "State": 1,
+    "IsTracked": true,
+    "Title": "Deal for Jessi",
+    "Description": "Jessi has requested a delivery of 3x Cocaine behind Thompson construction and demolition for $790.",
+    "Expires": true,
+    "ExpiryDate": {
+        "DataType": "GameDateTimeData",
+        "DataVersion": 0,
+        "GameVersion": "0.3.4f4",
+        "ElapsedDays": 104,
+        "Time": 600
+    },
+    "Entries": [
+        {
+            "DataType": "QuestEntryData",
+            "DataVersion": 0,
+            "GameVersion": "0.3.4f4",
+            "Name": "3x Cocaine, Behind Thompson construction and demolition",
+            "State": 1
+        }
+    ],
+    "CustomerGUID": "96e9d249-e181-4124-87c0-e1a1a4a3c626",
+    "Payment": 790.0,
+    "ProductList": {
+        "entries": [
+            {
+                "ProductID": "cocaine",
+                "Quality": 0,
+                "Quantity": 3
+            }
+        ]
+    },
+    "DeliveryLocationGUID": "5fdc79c3-1636-43b1-947a-5ba8f80f825b",
+    "DeliveryWindow": {
+        "IsEnabled": true,
+        "WindowStartTime": 0,
+        "WindowEndTime": 600
+    },
+    "PickupScheduleIndex": 0,
+    "AcceptTime": {
+        "DataType": "GameDateTimeData",
+        "DataVersion": 0,
+        "GameVersion": "0.3.4f4",
+        "ElapsedDays": 103,
+        "Time": 2243
+    }
+}

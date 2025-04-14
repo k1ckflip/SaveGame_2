@@ -13,7 +13,7 @@
     "Rotation": 0,
     "ProductContents": {
         "Items": [
-            "{\"DataType\":\"CocaineData\",\"DataVersion\":0,\"GameVersion\":\"0.3.4f4\",\"ID\":\"megacrystal\",\"Quantity\":20,\"Quality\":\"Heavenly\",\"PackagingID\":\"\"}"
+            "{\"DataType\":\"CocaineData\",\"DataVersion\":0,\"GameVersion\":\"0.3.4f4\",\"ID\":\"megacrystal\",\"Quantity\":10,\"Quality\":\"Heavenly\",\"PackagingID\":\"\"}"
         ]
     },
     "MixerContents": {

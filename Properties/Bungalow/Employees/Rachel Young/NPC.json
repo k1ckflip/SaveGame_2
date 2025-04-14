@@ -1,0 +1,30 @@
+{
+    "DataType": "BotanistData",
+    "DataVersion": 0,
+    "GameVersion": "0.3.4f4",
+    "ID": "rachel_young",
+    "AssignedProperty": "bungalow",
+    "FirstName": "Rachel",
+    "LastName": "Young",
+    "IsMale": false,
+    "AppearanceIndex": 0,
+    "Position": {
+        "x": -168.78794860839845,
+        "y": -4.0364251136779789,
+        "z": 109.43761444091797
+    },
+    "Rotation": {
+        "x": 0.0,
+        "y": 0.6997066140174866,
+        "z": 0.0,
+        "w": 0.7144303321838379
+    },
+    "GUID": "41c35b37-9e01-4c6e-b296-e5470cee7a5a",
+    "PaidForToday": true,
+    "MoveItemData": {
+        "TemplateItemJSON": "",
+        "GrabbedItemQuantity": 0,
+        "SourceGUID": "",
+        "DestinationGUID": ""
+    }
+}

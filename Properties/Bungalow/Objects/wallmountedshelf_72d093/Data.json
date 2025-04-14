@@ -1,0 +1,28 @@
+{
+    "DataType": "StorageSurfaceItemData",
+    "DataVersion": 0,
+    "GameVersion": "0.3.4f4",
+    "GUID": "72d0936e-56b8-4f8c-877d-26d67209f7a2",
+    "ItemString": "{\n    \"DataType\": \"ItemData\",\n    \"DataVersion\": 0,\n    \"GameVersion\": \"0.3.4f4\",\n    \"ID\": \"wallmountedshelf\",\n    \"Quantity\": 1\n}",
+    "LoadOrder": 0,
+    "ParentSurfaceGUID": "748ac1ee-7c2b-44fe-8630-5beb28d9812d",
+    "RelativePosition": {
+        "x": 0.07499698549509049,
+        "y": -0.0140533447265625,
+        "z": 0.3291037082672119
+    },
+    "RelativeRotation": {
+        "x": 0.5013744235038757,
+        "y": 0.4995410144329071,
+        "z": 0.4995410144329071,
+        "w": 0.4995410144329071
+    },
+    "Contents": {
+        "Items": [
+            "{\"DataType\":\"ItemData\",\"DataVersion\":0,\"GameVersion\":\"0.3.4f4\",\"ID\":\"chateaulapeepee\",\"Quantity\":1}",
+            "{\"DataType\":\"ItemData\",\"DataVersion\":0,\"GameVersion\":\"0.3.4f4\",\"ID\":\"brutdugloop\",\"Quantity\":1}",
+            "{\"DataType\":\"ItemData\",\"DataVersion\":0,\"GameVersion\":\"0.3.4f4\",\"ID\":\"oldmanjimmys\",\"Quantity\":3}",
+            "{\"DataType\":\"ItemData\",\"DataVersion\":0,\"GameVersion\":\"0.3.4f4\",\"ID\":\"goldbar\",\"Quantity\":10}"
+        ]
+    }
+}

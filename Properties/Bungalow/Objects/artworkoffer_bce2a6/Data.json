@@ -1,0 +1,20 @@
+{
+    "DataType": "SurfaceItemData",
+    "DataVersion": 0,
+    "GameVersion": "0.3.4f4",
+    "GUID": "bce2a6b7-5efd-46dc-bb6f-a03d16398237",
+    "ItemString": "{\n    \"DataType\": \"ItemData\",\n    \"DataVersion\": 0,\n    \"GameVersion\": \"0.3.4f4\",\n    \"ID\": \"artworkoffer\",\n    \"Quantity\": 1\n}",
+    "LoadOrder": 25,
+    "ParentSurfaceGUID": "88cd6311-cc3d-47df-b994-df0293d52545",
+    "RelativePosition": {
+        "x": 5.959975242614746,
+        "y": -1.6653358936309815,
+        "z": 1.8653157949447632
+    },
+    "RelativeRotation": {
+        "x": -0.4940059781074524,
+        "y": 0.4995410144329071,
+        "z": 0.5122254490852356,
+        "w": -0.4940059781074524
+    }
+}

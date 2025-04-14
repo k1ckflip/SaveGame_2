@@ -1,0 +1,52 @@
+{
+    "DataType": "ContractData",
+    "DataVersion": 0,
+    "GameVersion": "0.3.4f4",
+    "GUID": "345b34e7-ba21-471d-b98e-616d07bf5fd3",
+    "State": 1,
+    "IsTracked": true,
+    "Title": "Deal for Geraldine",
+    "Description": "Geraldine has requested a delivery of 4x Cocaine behind Sauerkraut Supreme pizzeria for $920.",
+    "Expires": true,
+    "ExpiryDate": {
+        "DataType": "GameDateTimeData",
+        "DataVersion": 0,
+        "GameVersion": "0.3.4f4",
+        "ElapsedDays": 115,
+        "Time": 600
+    },
+    "Entries": [
+        {
+            "DataType": "QuestEntryData",
+            "DataVersion": 0,
+            "GameVersion": "0.3.4f4",
+            "Name": "4x Cocaine, Behind Sauerkraut Supreme Pizzeria",
+            "State": 1
+        }
+    ],
+    "CustomerGUID": "18acf346-c4da-410c-9ed9-12c1101fb26d",
+    "Payment": 920.0,
+    "ProductList": {
+        "entries": [
+            {
+                "ProductID": "cocaine",
+                "Quality": 0,
+                "Quantity": 4
+            }
+        ]
+    },
+    "DeliveryLocationGUID": "785abdf1-0a0c-4d48-99d7-b8adfa3e8e10",
+    "DeliveryWindow": {
+        "IsEnabled": true,
+        "WindowStartTime": 0,
+        "WindowEndTime": 600
+    },
+    "PickupScheduleIndex": 0,
+    "AcceptTime": {
+        "DataType": "GameDateTimeData",
+        "DataVersion": 0,
+        "GameVersion": "0.3.4f4",
+        "ElapsedDays": 114,
+        "Time": 1555
+    }
+}

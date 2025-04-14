@@ -32,6 +32,7 @@
         "californiasmegma",
         "crazydiamond",
         "darksplooge",
+        "deathfruit",
         "deathmint",
         "dreamcum",
         "dreampuke",
@@ -39,6 +40,7 @@
         "extremeass",
         "extremeassblaster",
         "extremeexpress",
+        "extremegrool",
         "extremepunch",
         "fatballs",
         "fatqueef",
@@ -65,6 +67,7 @@
         "jürgenohjürgen",
         "laballs",
         "labomb",
+        "lamclovin",
         "lapuke",
         "laqueef",
         "lasmegma",
@@ -72,6 +75,7 @@
         "megacrystal",
         "megadiesel",
         "megadurkle",
+        "megagold",
         "megapiss",
         "megasmegma",
         "miracleassblaster",
@@ -87,6 +91,7 @@
         "pinkmint",
         "pinkmonkey",
         "pinkpunch",
+        "purpleassblaster",
         "purpleballs",
         "purplemclovin",
         "purplepunch",
@@ -117,6 +122,7 @@
         "thickcookies",
         "thickgold",
         "thicksplooge",
+        "tokyocrystal",
         "tokyodeath",
         "tokyodick",
         "tokyomclovin",
@@ -129,7 +135,9 @@
         "whitegrool",
         "whitepuke",
         "meth",
-        "cocaine"
+        "cocaine",
+        "fatsmegma",
+        "weddingpunch"
     ],
     "ListedProducts": [
         "cocaine"
@@ -784,6 +792,46 @@
             "Product": "slimypuke",
             "Mixer": "horsesemen",
             "Output": "slimypuke"
+        },
+        {
+            "Product": "ogkush",
+            "Mixer": "energydrink",
+            "Output": "purpleassblaster"
+        },
+        {
+            "Product": "purpleassblaster",
+            "Mixer": "mouthwash",
+            "Output": "deathfruit"
+        },
+        {
+            "Product": "deathfruit",
+            "Mixer": "paracetamol",
+            "Output": "tokyocrystal"
+        },
+        {
+            "Product": "tokyocrystal",
+            "Mixer": "flumedicine",
+            "Output": "megagold"
+        },
+        {
+            "Product": "megagold",
+            "Mixer": "motoroil",
+            "Output": "lamclovin"
+        },
+        {
+            "Product": "lamclovin",
+            "Mixer": "megabean",
+            "Output": "extremegrool"
+        },
+        {
+            "Product": "donut",
+            "Mixer": "ogkush",
+            "Output": "fatsmegma"
+        },
+        {
+            "Product": "donut",
+            "Mixer": "fatsmegma",
+            "Output": "weddingpunch"
         }
     ],
     "ProductPrices": [
@@ -912,6 +960,10 @@
             "Int": 55
         },
         {
+            "String": "deathfruit",
+            "Int": 76
+        },
+        {
             "String": "deathmint",
             "Int": 513
         },
@@ -938,6 +990,10 @@
         {
             "String": "extremeexpress",
             "Int": 54
+        },
+        {
+            "String": "extremegrool",
+            "Int": 90
         },
         {
             "String": "extremepunch",
@@ -1044,6 +1100,10 @@
             "Int": 56
         },
         {
+            "String": "lamclovin",
+            "Int": 94
+        },
+        {
             "String": "lapuke",
             "Int": 450
         },
@@ -1070,6 +1130,10 @@
         {
             "String": "megadurkle",
             "Int": 200
+        },
+        {
+            "String": "megagold",
+            "Int": 86
         },
         {
             "String": "megapiss",
@@ -1130,6 +1194,10 @@
         {
             "String": "pinkpunch",
             "Int": 102
+        },
+        {
+            "String": "purpleassblaster",
+            "Int": 50
         },
         {
             "String": "purpleballs",
@@ -1252,6 +1320,10 @@
             "Int": 297
         },
         {
+            "String": "tokyocrystal",
+            "Int": 84
+        },
+        {
             "String": "tokyodeath",
             "Int": 350
         },
@@ -1294,6 +1366,14 @@
         {
             "String": "whitepuke",
             "Int": 59
+        },
+        {
+            "String": "fatsmegma",
+            "Int": 48
+        },
+        {
+            "String": "weddingpunch",
+            "Int": 48
         }
     ],
     "FavouritedProducts": [

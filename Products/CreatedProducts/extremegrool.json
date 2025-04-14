@@ -1,0 +1,43 @@
+{
+    "DataType": "WeedProductData",
+    "DataVersion": 0,
+    "GameVersion": "0.3.4f4",
+    "Name": "Extreme Grool",
+    "ID": "extremegrool",
+    "DrugType": 0,
+    "Properties": [
+        "calming",
+        "toxic",
+        "sedating",
+        "balding",
+        "foggy",
+        "schizophrenic",
+        "antigravity"
+    ],
+    "AppearanceSettings": {
+        "MainColor": {
+            "r": 114,
+            "g": 116,
+            "b": 82,
+            "a": 255
+        },
+        "SecondaryColor": {
+            "r": 136,
+            "g": 125,
+            "b": 109,
+            "a": 255
+        },
+        "LeafColor": {
+            "r": 125,
+            "g": 120,
+            "b": 95,
+            "a": 255
+        },
+        "StemColor": {
+            "r": 91,
+            "g": 92,
+            "b": 65,
+            "a": 255
+        }
+    }
+}

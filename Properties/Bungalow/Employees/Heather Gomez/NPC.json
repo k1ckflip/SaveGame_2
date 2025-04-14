@@ -1,0 +1,30 @@
+{
+    "DataType": "PackagerData",
+    "DataVersion": 0,
+    "GameVersion": "0.3.4f4",
+    "ID": "heather_gomez",
+    "AssignedProperty": "bungalow",
+    "FirstName": "Heather",
+    "LastName": "Gomez",
+    "IsMale": false,
+    "AppearanceIndex": 3,
+    "Position": {
+        "x": -168.8585662841797,
+        "y": -4.006704807281494,
+        "z": 111.55236053466797
+    },
+    "Rotation": {
+        "x": 0.0,
+        "y": 0.667593240737915,
+        "z": 0.0,
+        "w": 0.744526207447052
+    },
+    "GUID": "91d34af4-5962-46e6-a7c9-9aab9d310be1",
+    "PaidForToday": false,
+    "MoveItemData": {
+        "TemplateItemJSON": "",
+        "GrabbedItemQuantity": 0,
+        "SourceGUID": "",
+        "DestinationGUID": ""
+    }
+}

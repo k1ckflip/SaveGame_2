@@ -14,11 +14,8 @@
         "ludwig_meyer",
         "mick_lubbin"
     ],
-    "ActiveContractGUIDs": [
-        "7bb1c11a-42cd-4260-9a77-53aa01e95ae0",
-        "5e093586-0cbb-4ce3-9069-d4ac8748630c"
-    ],
-    "Cash": 9144.798828125,
+    "ActiveContractGUIDs": [],
+    "Cash": 5336.0,
     "OverflowItems": {
         "Items": [
             "{\"DataType\":\"ItemData\",\"DataVersion\":0,\"GameVersion\":\"0.3.4f4\",\"ID\":\"\",\"Quantity\":0}",

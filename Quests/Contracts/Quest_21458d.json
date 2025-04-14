@@ -1,0 +1,52 @@
+{
+    "DataType": "ContractData",
+    "DataVersion": 0,
+    "GameVersion": "0.3.4f4",
+    "GUID": "21458dcf-a4c6-46d1-b73c-43f57234832f",
+    "State": 1,
+    "IsTracked": true,
+    "Title": "Deal for Tobas",
+    "Description": "Tobas has requested a delivery of 7x Cocaine next to the medical center for $1,435.",
+    "Expires": true,
+    "ExpiryDate": {
+        "DataType": "GameDateTimeData",
+        "DataVersion": 0,
+        "GameVersion": "0.3.4f4",
+        "ElapsedDays": 115,
+        "Time": 600
+    },
+    "Entries": [
+        {
+            "DataType": "QuestEntryData",
+            "DataVersion": 0,
+            "GameVersion": "0.3.4f4",
+            "Name": "7x Cocaine, Next to Medical Center",
+            "State": 1
+        }
+    ],
+    "CustomerGUID": "793de68e-63bc-429e-bb23-96e51fc0d34c",
+    "Payment": 1435.0,
+    "ProductList": {
+        "entries": [
+            {
+                "ProductID": "cocaine",
+                "Quality": 3,
+                "Quantity": 7
+            }
+        ]
+    },
+    "DeliveryLocationGUID": "234ef146-e022-4439-a49c-27ea2d3eeea4",
+    "DeliveryWindow": {
+        "IsEnabled": true,
+        "WindowStartTime": 0,
+        "WindowEndTime": 600
+    },
+    "PickupScheduleIndex": 0,
+    "AcceptTime": {
+        "DataType": "GameDateTimeData",
+        "DataVersion": 0,
+        "GameVersion": "0.3.4f4",
+        "ElapsedDays": 114,
+        "Time": 1547
+    }
+}

@@ -18,27 +18,8 @@
     },
     "Output": {
         "Items": [
-            "{\"DataType\":\"QualityItemData\",\"DataVersion\":0,\"GameVersion\":\"0.3.4f4\",\"ID\":\"cocaleaf\",\"Quantity\":8,\"Quality\":\"Heavenly\"}"
+            "{\"DataType\":\"ItemData\",\"DataVersion\":0,\"GameVersion\":\"0.3.4f4\",\"ID\":\"\",\"Quantity\":0}"
         ]
     },
-    "DryingOperations": [
-        {
-            "ItemID": "cocaleaf",
-            "Quantity": 8,
-            "StartQuality": 3,
-            "Time": 676
-        },
-        {
-            "ItemID": "cocaleaf",
-            "Quantity": 4,
-            "StartQuality": 3,
-            "Time": 516
-        },
-        {
-            "ItemID": "cocaleaf",
-            "Quantity": 4,
-            "StartQuality": 2,
-            "Time": 41
-        }
-    ]
+    "DryingOperations": []
 }

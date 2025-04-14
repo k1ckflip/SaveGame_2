@@ -1,0 +1,40 @@
+{
+    "DataType": "WeedProductData",
+    "DataVersion": 0,
+    "GameVersion": "0.3.4f4",
+    "Name": "Tokyo Crystal",
+    "ID": "tokyocrystal",
+    "DrugType": 0,
+    "Properties": [
+        "sneaky",
+        "balding",
+        "athletic",
+        "antigravity"
+    ],
+    "AppearanceSettings": {
+        "MainColor": {
+            "r": 99,
+            "g": 106,
+            "b": 85,
+            "a": 255
+        },
+        "SecondaryColor": {
+            "r": 144,
+            "g": 128,
+            "b": 83,
+            "a": 255
+        },
+        "LeafColor": {
+            "r": 121,
+            "g": 117,
+            "b": 84,
+            "a": 255
+        },
+        "StemColor": {
+            "r": 79,
+            "g": 84,
+            "b": 68,
+            "a": 255
+        }
+    }
+}

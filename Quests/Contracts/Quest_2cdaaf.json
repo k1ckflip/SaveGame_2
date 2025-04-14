@@ -1,0 +1,52 @@
+{
+    "DataType": "ContractData",
+    "DataVersion": 0,
+    "GameVersion": "0.3.4f4",
+    "GUID": "2cdaaff0-daf3-44ee-b9df-ba5d9f220b42",
+    "State": 1,
+    "IsTracked": true,
+    "Title": "Deal for Jackie",
+    "Description": "Jackie has requested a delivery of 4x Cocaine at the residential park for $920.",
+    "Expires": true,
+    "ExpiryDate": {
+        "DataType": "GameDateTimeData",
+        "DataVersion": 0,
+        "GameVersion": "0.3.4f4",
+        "ElapsedDays": 115,
+        "Time": 600
+    },
+    "Entries": [
+        {
+            "DataType": "QuestEntryData",
+            "DataVersion": 0,
+            "GameVersion": "0.3.4f4",
+            "Name": "4x Cocaine, Residential park",
+            "State": 1
+        }
+    ],
+    "CustomerGUID": "184784cc-08fc-4d3e-a631-d29d9e8d52de",
+    "Payment": 920.0,
+    "ProductList": {
+        "entries": [
+            {
+                "ProductID": "cocaine",
+                "Quality": 3,
+                "Quantity": 4
+            }
+        ]
+    },
+    "DeliveryLocationGUID": "00198638-3ee0-439f-9b6d-d88835923889",
+    "DeliveryWindow": {
+        "IsEnabled": true,
+        "WindowStartTime": 0,
+        "WindowEndTime": 600
+    },
+    "PickupScheduleIndex": 0,
+    "AcceptTime": {
+        "DataType": "GameDateTimeData",
+        "DataVersion": 0,
+        "GameVersion": "0.3.4f4",
+        "ElapsedDays": 114,
+        "Time": 1556
+    }
+}

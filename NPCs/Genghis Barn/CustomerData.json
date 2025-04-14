@@ -4,18 +4,17 @@
     "GameVersion": "0.3.4f4",
     "Dependence": 1.0,
     "PurchaseableProducts": [
-        "cocaine",
-        "slimypuke"
+        "cocaine"
     ],
     "ProductAffinities": [
         1.0,
         0.4118889272212982,
         1.0
     ],
-    "TimeSinceLastDealCompleted": 388,
-    "TimeSinceLastDealOffered": 400,
-    "OfferedDeals": 51,
-    "CompletedDeals": 49,
+    "TimeSinceLastDealCompleted": 320,
+    "TimeSinceLastDealOffered": 335,
+    "OfferedDeals": 57,
+    "CompletedDeals": 56,
     "IsContractOffered": false,
     "OfferedContract": {
         "Payment": 0.0,
@@ -34,10 +33,10 @@
         "IsCounterOffer": false
     },
     "OfferedContractTime": {
-        "elapsedDays": 107,
+        "elapsedDays": 114,
         "time": 1345
     },
-    "TimeSincePlayerApproached": 1153175,
-    "TimeSinceInstantDealOffered": 4380,
+    "TimeSincePlayerApproached": 1164587,
+    "TimeSinceInstantDealOffered": 10145,
     "HasBeenRecommended": false
 }

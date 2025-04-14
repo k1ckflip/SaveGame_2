@@ -2,66 +2,66 @@
     "DataType": "MSGConversationData",
     "DataVersion": 0,
     "GameVersion": "0.3.4f4",
-    "ConversationIndex": 1,
-    "Read": false,
+    "ConversationIndex": 14,
+    "Read": true,
     "MessageHistory": [
         {
+            "Sender": 0,
+            "MessageID": 131914579,
+            "Text": "Deal",
+            "EndOfChain": true
+        },
+        {
             "Sender": 1,
-            "MessageID": 1549759166,
+            "MessageID": -712284138,
+            "Text": "Good!! I'll see u <b>at the north waterfront</b> between 12:00 AM and 6:00 AM.",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": -720816367,
+            "Text": "I NEED 4x Cocaine. I GOT <color=#46CB4F>$920</color>. DEAL?",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 0,
+            "MessageID": -337420898,
+            "Text": "Deal",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": 913814023,
+            "Text": "Good!! I'll see u <b>behind Sauerkraut Supreme pizzeria</b> between 12:00 AM and 6:00 AM.",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": 2141500766,
+            "Text": "I NEED 4x Cocaine. I GOT <color=#46CB4F>$920</color>. DEAL?",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 0,
+            "MessageID": -1245560063,
+            "Text": "Deal",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": 889412210,
             "Text": "Good!! I'll see u <b>behind Thompson construction and demolition</b> between 12:00 AM and 6:00 AM.",
             "EndOfChain": true
         },
         {
             "Sender": 1,
-            "MessageID": -646218746,
-            "Text": "You got 3x Cocaine? I'll pay <color=#46CB4F>$690</color> for it",
-            "EndOfChain": true
-        },
-        {
-            "Sender": 0,
-            "MessageID": 1010742289,
-            "Text": "How about 3x Cocaine for $790?",
-            "EndOfChain": false
-        },
-        {
-            "Sender": 1,
-            "MessageID": -1013470264,
-            "Text": "OK FINE! What time????",
-            "EndOfChain": true
-        },
-        {
-            "Sender": 0,
-            "MessageID": 443057641,
-            "Text": "Late Night",
+            "MessageID": 219415539,
+            "Text": "I'm after 4x Cocaine. I can pay <color=#46CB4F>$920</color> for it Deal??",
             "EndOfChain": true
         },
         {
             "Sender": 1,
-            "MessageID": 519535256,
-            "Text": "Good!! I'll see u <b>behind taco ticklers</b> between 12:00 AM and 6:00 AM.",
-            "EndOfChain": true
-        },
-        {
-            "Sender": 1,
-            "MessageID": -1725053750,
-            "Text": "I NEED 4x Cocaine. I GOT <color=#46CB4F>$920</color>. DEAL?",
-            "EndOfChain": true
-        },
-        {
-            "Sender": 1,
-            "MessageID": -801392775,
-            "Text": "Shit",
-            "EndOfChain": true
-        },
-        {
-            "Sender": 1,
-            "MessageID": 1129455277,
-            "Text": "I NEED 4x Cocaine. I GOT <color=#46CB4F>$920</color>. DEAL?",
-            "EndOfChain": true
-        },
-        {
-            "Sender": 1,
-            "MessageID": 1957536146,
+            "MessageID": 1028906233,
             "Text": "Nevermind!",
             "EndOfChain": true
         }

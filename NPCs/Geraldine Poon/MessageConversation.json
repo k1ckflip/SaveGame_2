@@ -2,83 +2,70 @@
     "DataType": "MSGConversationData",
     "DataVersion": 0,
     "GameVersion": "0.3.4f4",
-    "ConversationIndex": 5,
-    "Read": false,
+    "ConversationIndex": 4,
+    "Read": true,
     "MessageHistory": [
         {
             "Sender": 1,
-            "MessageID": -1838741919,
-            "Text": "I'm after 4x Cocaine. I can pay <color=#46CB4F>$920</color> for it Deal??",
+            "MessageID": 1705725489,
+            "Text": "Good!! I'll see u <b>next to the barbershop</b> between 12:00 AM and 6:00 AM.",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": -654373156,
+            "Text": "Need me 4x Cocaine! I'll pay <color=#46CB4F>$920</color> yeah??",
             "EndOfChain": true
         },
         {
             "Sender": 0,
-            "MessageID": 585362968,
-            "Text": "How about 4x Cocaine for $1,020?",
-            "EndOfChain": false
-        },
-        {
-            "Sender": 1,
-            "MessageID": -1466409,
-            "Text": "Ok whatever. What time?",
-            "EndOfChain": true
-        },
-        {
-            "Sender": 0,
-            "MessageID": 1042090843,
-            "Text": "Late Night",
-            "EndOfChain": true
-        },
-        {
-            "Sender": 1,
-            "MessageID": -990103684,
-            "Text": "Good!! I'll see u <b>behind the shipping containers near Sauerkraut Supreme</b> between 12:00 AM and 6:00 AM.",
-            "EndOfChain": true
-        },
-        {
-            "Sender": 1,
-            "MessageID": 45975148,
-            "Text": "I'm after 4x Cocaine. I can pay <color=#46CB4F>$920</color> for it Deal??",
-            "EndOfChain": true
-        },
-        {
-            "Sender": 1,
-            "MessageID": 2050630755,
-            "Text": "TOO LONG!! Nevermind",
-            "EndOfChain": true
-        },
-        {
-            "Sender": 1,
-            "MessageID": 742964135,
-            "Text": "U got 4x Cocaine??? I'll pay <color=#46CB4F>$920</color> for it. DEAL?",
-            "EndOfChain": true
-        },
-        {
-            "Sender": 1,
-            "MessageID": 1342923519,
-            "Text": "nvm",
-            "EndOfChain": true
-        },
-        {
-            "Sender": 1,
-            "MessageID": -552995350,
-            "Text": "You got 4x Cocaine? I'll pay <color=#46CB4F>$920</color> for it",
-            "EndOfChain": true
-        }
-    ],
-    "ActiveResponses": [
-        {
+            "MessageID": 2113056771,
             "Text": "Yes",
-            "Label": "ACCEPT_CONTRACT"
+            "EndOfChain": true
         },
         {
-            "Text": "[Counter-offer]",
-            "Label": "COUNTEROFFER"
+            "Sender": 1,
+            "MessageID": 629520236,
+            "Text": "Good!! I'll see u <b>behind Sauerkraut Supreme pizzeria</b> between 12:00 AM and 6:00 AM.",
+            "EndOfChain": true
         },
         {
-            "Text": "Not right now",
-            "Label": "REJECT_CONTRACT"
+            "Sender": 1,
+            "MessageID": 819257187,
+            "Text": "I'm after 4x Cocaine. I can pay <color=#46CB4F>$920</color> for it Deal??",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 0,
+            "MessageID": -1601217339,
+            "Text": "Yes",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": 635806992,
+            "Text": "Good!! I'll see u <b>at the north waterfront</b> between 12:00 AM and 6:00 AM.",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": 889222322,
+            "Text": "I'm after 4x Cocaine. I can pay <color=#46CB4F>$920</color> for it Deal??",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 0,
+            "MessageID": -788362721,
+            "Text": "Sure thing",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": 1150939548,
+            "Text": "Good!! I'll see u <b>behind Sauerkraut Supreme pizzeria</b> between 12:00 AM and 6:00 AM.",
+            "EndOfChain": true
         }
     ],
+    "ActiveResponses": [],
     "IsHidden": false
 }

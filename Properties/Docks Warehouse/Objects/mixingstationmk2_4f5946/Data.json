@@ -13,12 +13,12 @@
     "Rotation": 0,
     "ProductContents": {
         "Items": [
-            "{\"DataType\":\"CocaineData\",\"DataVersion\":0,\"GameVersion\":\"0.3.4f4\",\"ID\":\"aspensplooge\",\"Quantity\":10,\"Quality\":\"Heavenly\",\"PackagingID\":\"\"}"
+            "{\"DataType\":\"CocaineData\",\"DataVersion\":0,\"GameVersion\":\"0.3.4f4\",\"ID\":\"aspensplooge\",\"Quantity\":20,\"Quality\":\"Heavenly\",\"PackagingID\":\"\"}"
         ]
     },
     "MixerContents": {
         "Items": [
-            "{\"DataType\":\"ItemData\",\"DataVersion\":0,\"GameVersion\":\"0.3.4f4\",\"ID\":\"horsesemen\",\"Quantity\":20}"
+            "{\"DataType\":\"ItemData\",\"DataVersion\":0,\"GameVersion\":\"0.3.4f4\",\"ID\":\"horsesemen\",\"Quantity\":10}"
         ]
     },
     "OutputContents": {

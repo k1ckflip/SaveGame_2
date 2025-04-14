@@ -1,0 +1,30 @@
+{
+    "DataType": "ChemistData",
+    "DataVersion": 0,
+    "GameVersion": "0.3.4f4",
+    "ID": "nicole_goodman",
+    "AssignedProperty": "bungalow",
+    "FirstName": "Nicole",
+    "LastName": "Goodman",
+    "IsMale": false,
+    "AppearanceIndex": 0,
+    "Position": {
+        "x": -168.5829315185547,
+        "y": -4.075522422790527,
+        "z": 110.27971649169922
+    },
+    "Rotation": {
+        "x": 0.0,
+        "y": 0.6941209435462952,
+        "z": 0.0,
+        "w": 0.7198584079742432
+    },
+    "GUID": "cb6cd395-4bb8-4296-ae68-6dbd7d2211e0",
+    "PaidForToday": false,
+    "MoveItemData": {
+        "TemplateItemJSON": "",
+        "GrabbedItemQuantity": 0,
+        "SourceGUID": "",
+        "DestinationGUID": ""
+    }
+}

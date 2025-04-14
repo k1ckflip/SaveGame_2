@@ -9,22 +9,22 @@
     "IsMale": false,
     "AppearanceIndex": 4,
     "Position": {
-        "x": 179.7886505126953,
-        "y": -0.008779296651482582,
-        "z": -6.290266990661621
+        "x": 195.65017700195313,
+        "y": 0.09000033140182495,
+        "z": -8.324997901916504
     },
     "Rotation": {
         "x": 0.0,
-        "y": -0.6206932067871094,
+        "y": 0.70710688829422,
         "z": 0.0,
-        "w": 0.7840535640716553
+        "w": 0.7071067690849304
     },
     "GUID": "1c13f6a4-4811-45a9-b214-74b99322958c",
     "PaidForToday": true,
     "MoveItemData": {
-        "TemplateItemJSON": "",
-        "GrabbedItemQuantity": 0,
-        "SourceGUID": "",
-        "DestinationGUID": ""
+        "TemplateItemJSON": "{\"DataType\":\"ItemData\",\"DataVersion\":0,\"GameVersion\":\"0.3.4f4\",\"ID\":\"cocaseed\",\"Quantity\":2}",
+        "GrabbedItemQuantity": 2,
+        "SourceGUID": "3c978b24-b646-4c05-981b-a7c656aca0aa",
+        "DestinationGUID": "85d9fbb0-b198-4ca0-839a-ad744b439433"
     }
 }

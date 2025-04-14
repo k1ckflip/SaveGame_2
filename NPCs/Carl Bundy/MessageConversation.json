@@ -2,83 +2,70 @@
     "DataType": "MSGConversationData",
     "DataVersion": 0,
     "GameVersion": "0.3.4f4",
-    "ConversationIndex": 1,
-    "Read": false,
+    "ConversationIndex": 0,
+    "Read": true,
     "MessageHistory": [
         {
-            "Sender": 0,
-            "MessageID": -1277951948,
-            "Text": "Late Night",
+            "Sender": 1,
+            "MessageID": 1717111568,
+            "Text": "Great, I'll meet you <b>rehind Ray's Realty</b> between 12:00 AM and 6:00 AM.",
             "EndOfChain": true
         },
         {
             "Sender": 1,
-            "MessageID": 2053663030,
+            "MessageID": 1505274081,
+            "Text": "Hello, I'm after 5x Cocaine. I can pay <color=#46CB4F>$960</color> for it.",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 0,
+            "MessageID": 559951907,
+            "Text": "Deal",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": 300711977,
             "Text": "Great, I'll meet you <b>behind the bus stop in the suburbs</b> between 12:00 AM and 6:00 AM.",
             "EndOfChain": true
         },
         {
             "Sender": 1,
-            "MessageID": 1651757710,
-            "Text": "Hey, have you got 5x Cocaine? I'll pay <color=#46CB4F>$960</color> for it",
+            "MessageID": -797364252,
+            "Text": "Hey, if you got 5x Cocaine I'll pay <color=#46CB4F>$975</color> for it. Deal?",
             "EndOfChain": true
         },
         {
             "Sender": 0,
-            "MessageID": 2138028798,
-            "Text": "How about 5x Cocaine for $1,060?",
-            "EndOfChain": false
+            "MessageID": -1524478512,
+            "Text": "Yes",
+            "EndOfChain": true
         },
         {
             "Sender": 1,
-            "MessageID": 1547948488,
-            "Text": "Ok. What time you wanna meet?",
+            "MessageID": 1071881244,
+            "Text": "Great, I'll meet you <b>behind the bus stop in the suburbs</b> between 12:00 AM and 6:00 AM.",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": -1980461044,
+            "Text": "Hey, I need 5x Cocaine. I'll pay <color=#46CB4F>$975</color>. Deal?",
             "EndOfChain": true
         },
         {
             "Sender": 0,
-            "MessageID": 2036763431,
-            "Text": "Late Night",
+            "MessageID": 232078331,
+            "Text": "Deal",
             "EndOfChain": true
         },
         {
             "Sender": 1,
-            "MessageID": -1772174250,
-            "Text": "Great, I'll meet you <b>at the residential park</b> between 12:00 AM and 6:00 AM.",
-            "EndOfChain": true
-        },
-        {
-            "Sender": 1,
-            "MessageID": 1123941392,
-            "Text": "Hey, if you got 5x Cocaine I'll pay <color=#46CB4F>$960</color> for it. Deal?",
-            "EndOfChain": true
-        },
-        {
-            "Sender": 1,
-            "MessageID": 1856904779,
-            "Text": "Nevermind",
-            "EndOfChain": true
-        },
-        {
-            "Sender": 1,
-            "MessageID": 643853323,
-            "Text": "Hey, can I get 5x Cocaine? I'll pay <color=#46CB4F>$960</color>",
+            "MessageID": -719355755,
+            "Text": "Great, I'll meet you <b>behind the post office</b> between 12:00 AM and 6:00 AM.",
             "EndOfChain": true
         }
     ],
-    "ActiveResponses": [
-        {
-            "Text": "Yep",
-            "Label": "ACCEPT_CONTRACT"
-        },
-        {
-            "Text": "[Counter-offer]",
-            "Label": "COUNTEROFFER"
-        },
-        {
-            "Text": "Not right now",
-            "Label": "REJECT_CONTRACT"
-        }
-    ],
+    "ActiveResponses": [],
     "IsHidden": false
 }
