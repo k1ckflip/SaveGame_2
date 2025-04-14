@@ -3,32 +3,8 @@
     "DataVersion": 0,
     "GameVersion": "0.3.4f4",
     "ConversationIndex": 5,
-    "Read": true,
+    "Read": false,
     "MessageHistory": [
-        {
-            "Sender": 1,
-            "MessageID": 34687053,
-            "Text": "Great, I'll meet you <b>underneath the south end of the overpass</b> between 12:00 AM and 6:00 AM.",
-            "EndOfChain": true
-        },
-        {
-            "Sender": 1,
-            "MessageID": 1968576673,
-            "Text": "Hey, if you got 4x Cocaine I'll pay <color=#46CB4F>$920</color> for it. Deal?",
-            "EndOfChain": true
-        },
-        {
-            "Sender": 0,
-            "MessageID": 1438249434,
-            "Text": "Yep",
-            "EndOfChain": true
-        },
-        {
-            "Sender": 1,
-            "MessageID": 1917755522,
-            "Text": "Great, I'll meet you <b>at the residential park</b> between 12:00 AM and 6:00 AM.",
-            "EndOfChain": true
-        },
         {
             "Sender": 1,
             "MessageID": -1739169408,
@@ -63,6 +39,30 @@
             "Sender": 1,
             "MessageID": 1850970554,
             "Text": "Great, I'll meet you <b>underneath the south end of the overpass</b> between 12:00 AM and 6:00 AM.",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": 515331808,
+            "Text": "Hello, I'm after 4x Cocaine. I can pay <color=#46CB4F>$920</color> for it.",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": 194123034,
+            "Text": "Nevermind",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": 1437497501,
+            "Text": "Hey, can I get 4x Cocaine? I'll pay <color=#46CB4F>$920</color>",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": -1038363368,
+            "Text": "nvm",
             "EndOfChain": true
         }
     ],

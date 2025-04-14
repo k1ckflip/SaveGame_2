@@ -3,10 +3,10 @@
     "DataVersion": 0,
     "GameVersion": "0.3.4f4",
     "Bed": {
-        "ObjectGUID": ""
+        "ObjectGUID": "53f3f818-ef04-4749-9448-336507fc668a"
     },
     "Supplies": {
-        "ObjectGUID": ""
+        "ObjectGUID": "85d9fbb0-b198-4ca0-839a-ad744b439433"
     },
     "Pots": {
         "ObjectGUIDs": [

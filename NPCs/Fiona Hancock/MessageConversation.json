@@ -2,15 +2,9 @@
     "DataType": "MSGConversationData",
     "DataVersion": 0,
     "GameVersion": "0.3.4f4",
-    "ConversationIndex": 7,
-    "Read": true,
+    "ConversationIndex": 10,
+    "Read": false,
     "MessageHistory": [
-        {
-            "Sender": 1,
-            "MessageID": -1747903538,
-            "Text": "Hey, I need 6x Cocaine. I'll pay <color=#46CB4F>$1,110</color>. Deal?",
-            "EndOfChain": true
-        },
         {
             "Sender": 0,
             "MessageID": 1825720234,
@@ -57,6 +51,18 @@
             "Sender": 1,
             "MessageID": 915151839,
             "Text": "Great, I'll meet you <b>in the alleyway next to HAM legal services</b> between 12:00 AM and 6:00 AM.",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": -911124834,
+            "Text": "Hello, I'm after 7x Cocaine. I can pay <color=#46CB4F>$1,340</color> for it.",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": -1732671441,
+            "Text": "nvm",
             "EndOfChain": true
         }
     ],

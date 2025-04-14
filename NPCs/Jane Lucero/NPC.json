@@ -14,11 +14,8 @@
         "anna_chesterfield",
         "billy_kramer"
     ],
-    "ActiveContractGUIDs": [
-        "757c3aee-ed57-412e-bf76-a7605f03f601",
-        "91b8d7d0-4dff-46e6-afb9-6f87c14da80a"
-    ],
-    "Cash": 1321.199951171875,
+    "ActiveContractGUIDs": [],
+    "Cash": 9670.0,
     "OverflowItems": {
         "Items": [
             "{\"DataType\":\"ItemData\",\"DataVersion\":0,\"GameVersion\":\"0.3.4f4\",\"ID\":\"\",\"Quantity\":0}",

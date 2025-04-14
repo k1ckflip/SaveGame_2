@@ -2,33 +2,9 @@
     "DataType": "MSGConversationData",
     "DataVersion": 0,
     "GameVersion": "0.3.4f4",
-    "ConversationIndex": 11,
-    "Read": true,
+    "ConversationIndex": 16,
+    "Read": false,
     "MessageHistory": [
-        {
-            "Sender": 1,
-            "MessageID": -177805764,
-            "Text": "Great, I'll meet you <b>behind Handy Hank's</b> between 12:00 AM and 6:00 AM.",
-            "EndOfChain": true
-        },
-        {
-            "Sender": 1,
-            "MessageID": -1688087852,
-            "Text": "Hey, if you got 8x Cocaine I'll pay <color=#46CB4F>$1,830</color> for it. Deal?",
-            "EndOfChain": true
-        },
-        {
-            "Sender": 0,
-            "MessageID": -1563610780,
-            "Text": "Deal",
-            "EndOfChain": true
-        },
-        {
-            "Sender": 1,
-            "MessageID": -1692685258,
-            "Text": "Great, I'll meet you <b>in the graveyard</b> between 12:00 AM and 6:00 AM.",
-            "EndOfChain": true
-        },
         {
             "Sender": 1,
             "MessageID": -908844040,
@@ -63,6 +39,30 @@
             "Sender": 1,
             "MessageID": -1293592184,
             "Text": "Great, I'll meet you <b>behind Handy Hank's</b> between 12:00 AM and 6:00 AM.",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": 282735495,
+            "Text": "Hey, if you got 6x Cocaine I'll pay <color=#46CB4F>$1,380</color> for it. Deal?",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": -1878891438,
+            "Text": "nvm",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": 1757722799,
+            "Text": "Hey, I need 6x Cocaine. I'll pay <color=#46CB4F>$1,380</color>. Deal?",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": -1110964408,
+            "Text": "Nevermind",
             "EndOfChain": true
         }
     ],

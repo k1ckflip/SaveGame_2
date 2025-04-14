@@ -2,8 +2,8 @@
     "DataType": "MSGConversationData",
     "DataVersion": 0,
     "GameVersion": "0.3.4f4",
-    "ConversationIndex": 6,
-    "Read": true,
+    "ConversationIndex": 22,
+    "Read": false,
     "MessageHistory": [
         {
             "Sender": 1,
@@ -39,6 +39,18 @@
             "Sender": 1,
             "MessageID": -1619170909,
             "Text": "Great, I'll meet you <b>next to the medical center</b> between 12:00 AM and 6:00 AM.",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": 257239115,
+            "Text": "Hey, I need 7x Cocaine. I'll pay <color=#46CB4F>$1,460</color>. Deal?",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": -219300499,
+            "Text": "Actually, nevermind",
             "EndOfChain": true
         }
     ],

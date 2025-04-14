@@ -1,0 +1,30 @@
+{
+    "DataType": "ChemistData",
+    "DataVersion": 0,
+    "GameVersion": "0.3.4f4",
+    "ID": "joseph_pinkman",
+    "AssignedProperty": "dockswarehouse",
+    "FirstName": "Joseph",
+    "LastName": "Pinkman",
+    "IsMale": true,
+    "AppearanceIndex": 0,
+    "Position": {
+        "x": -77.69427490234375,
+        "y": -2.429999828338623,
+        "z": -64.60631561279297
+    },
+    "Rotation": {
+        "x": 0.0,
+        "y": 0.2197141945362091,
+        "z": 0.0,
+        "w": 0.9755643010139465
+    },
+    "GUID": "ed236ad0-6654-4581-92d4-0a1fd42cc232",
+    "PaidForToday": false,
+    "MoveItemData": {
+        "TemplateItemJSON": "",
+        "GrabbedItemQuantity": 0,
+        "SourceGUID": "",
+        "DestinationGUID": ""
+    }
+}

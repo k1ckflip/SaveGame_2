@@ -32,7 +32,7 @@
             },
             {
                 "SourceGUID": "e9ac9aff-0497-4064-a4eb-64ce221592c3",
-                "DestinationGUID": "eeecd21b-1674-4dce-a576-a35f34377619",
+                "DestinationGUID": "",
                 "FilterMode": 1,
                 "FilterItemIDs": []
             }

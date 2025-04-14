@@ -2,5 +2,66 @@
     "DataType": "DeliveriesData",
     "DataVersion": 0,
     "GameVersion": "0.3.4f4",
-    "ActiveDeliveries": []
+    "ActiveDeliveries": [
+        {
+            "DeliveryID": "1906752e-c2d5-46f4-bd33-f2b83de33b41",
+            "StoreName": "Gas-Mart (West)",
+            "DestinationCode": "dockswarehouse",
+            "LoadingDockIndex": 0,
+            "Items": [
+                {
+                    "String": "banana",
+                    "Int": 40
+                },
+                {
+                    "String": "battery",
+                    "Int": 40
+                },
+                {
+                    "String": "cuke",
+                    "Int": 80
+                },
+                {
+                    "String": "donut",
+                    "Int": 40
+                },
+                {
+                    "String": "paracetamol",
+                    "Int": 40
+                }
+            ],
+            "Status": 2,
+            "TimeUntilArrival": 0
+        },
+        {
+            "DeliveryID": "5eaa1e8f-cdac-4f7f-beab-0f2617d04b64",
+            "StoreName": "Gas-Mart (Central)",
+            "DestinationCode": "dockswarehouse",
+            "LoadingDockIndex": 1,
+            "Items": [
+                {
+                    "String": "banana",
+                    "Int": 40
+                },
+                {
+                    "String": "battery",
+                    "Int": 40
+                },
+                {
+                    "String": "cuke",
+                    "Int": 80
+                },
+                {
+                    "String": "donut",
+                    "Int": 40
+                },
+                {
+                    "String": "paracetamol",
+                    "Int": 40
+                }
+            ],
+            "Status": 2,
+            "TimeUntilArrival": 0
+        }
+    ]
 }

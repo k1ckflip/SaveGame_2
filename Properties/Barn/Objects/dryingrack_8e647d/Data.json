@@ -13,7 +13,7 @@
     "Rotation": -90,
     "Input": {
         "Items": [
-            "{\"DataType\":\"QualityItemData\",\"DataVersion\":0,\"GameVersion\":\"0.3.4f4\",\"ID\":\"cocaleaf\",\"Quantity\":16,\"Quality\":\"Standard\"}"
+            "{\"DataType\":\"QualityItemData\",\"DataVersion\":0,\"GameVersion\":\"0.3.4f4\",\"ID\":\"cocaleaf\",\"Quantity\":1,\"Quality\":\"Standard\"}"
         ]
     },
     "Output": {
@@ -24,9 +24,21 @@
     "DryingOperations": [
         {
             "ItemID": "cocaleaf",
-            "Quantity": 16,
+            "Quantity": 4,
+            "StartQuality": 3,
+            "Time": 648
+        },
+        {
+            "ItemID": "cocaleaf",
+            "Quantity": 12,
             "StartQuality": 2,
-            "Time": 188
+            "Time": 216
+        },
+        {
+            "ItemID": "cocaleaf",
+            "Quantity": 4,
+            "StartQuality": 2,
+            "Time": 174
         }
     ]
 }

@@ -2,15 +2,9 @@
     "DataType": "MSGConversationData",
     "DataVersion": 0,
     "GameVersion": "0.3.4f4",
-    "ConversationIndex": 3,
-    "Read": true,
+    "ConversationIndex": 4,
+    "Read": false,
     "MessageHistory": [
-        {
-            "Sender": 1,
-            "MessageID": -329901761,
-            "Text": "Hello, I'm after 7x Cocaine. I can pay <color=#46CB4F>$1,540</color> for it.",
-            "EndOfChain": true
-        },
         {
             "Sender": 0,
             "MessageID": -871467576,
@@ -57,6 +51,18 @@
             "Sender": 1,
             "MessageID": -595124077,
             "Text": "Great, I'll meet you <b>in the graveyard</b> between 12:00 AM and 6:00 AM.",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": 2114292676,
+            "Text": "Hello, I'm after 8x Cocaine. I can pay <color=#46CB4F>$1,810</color> for it.",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": -424326227,
+            "Text": "Nvm",
             "EndOfChain": true
         }
     ],

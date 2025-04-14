@@ -24,9 +24,15 @@
     "DryingOperations": [
         {
             "ItemID": "cocaleaf",
-            "Quantity": 16,
+            "Quantity": 4,
+            "StartQuality": 3,
+            "Time": 639
+        },
+        {
+            "ItemID": "cocaleaf",
+            "Quantity": 10,
             "StartQuality": 2,
-            "Time": 129
+            "Time": 159
         }
     ]
 }

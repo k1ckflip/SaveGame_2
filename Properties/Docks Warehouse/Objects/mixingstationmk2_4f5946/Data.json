@@ -13,24 +13,24 @@
     "Rotation": 0,
     "ProductContents": {
         "Items": [
-            "{\"DataType\":\"CocaineData\",\"DataVersion\":0,\"GameVersion\":\"0.3.4f4\",\"ID\":\"aspensplooge\",\"Quantity\":20,\"Quality\":\"Heavenly\",\"PackagingID\":\"\"}"
+            "{\"DataType\":\"ItemData\",\"DataVersion\":0,\"GameVersion\":\"0.3.4f4\",\"ID\":\"\",\"Quantity\":0}"
         ]
     },
     "MixerContents": {
         "Items": [
-            "{\"DataType\":\"ItemData\",\"DataVersion\":0,\"GameVersion\":\"0.3.4f4\",\"ID\":\"horsesemen\",\"Quantity\":10}"
+            "{\"DataType\":\"ItemData\",\"DataVersion\":0,\"GameVersion\":\"0.3.4f4\",\"ID\":\"\",\"Quantity\":0}"
         ]
     },
     "OutputContents": {
         "Items": [
-            "{\"DataType\":\"CocaineData\",\"DataVersion\":0,\"GameVersion\":\"0.3.4f4\",\"ID\":\"slimypuke\",\"Quantity\":10,\"Quality\":\"Heavenly\",\"PackagingID\":\"\"}"
+            "{\"DataType\":\"ItemData\",\"DataVersion\":0,\"GameVersion\":\"0.3.4f4\",\"ID\":\"\",\"Quantity\":0}"
         ]
     },
     "CurrentMixOperation": {
-        "ProductID": "",
-        "ProductQuality": 0,
-        "IngredientID": "",
-        "Quantity": 0
+        "ProductID": "aspensplooge",
+        "ProductQuality": 4,
+        "IngredientID": "donut",
+        "Quantity": 20
     },
-    "CurrentMixTime": 0
+    "CurrentMixTime": 1932
 }

@@ -2,39 +2,9 @@
     "DataType": "MSGConversationData",
     "DataVersion": 0,
     "GameVersion": "0.3.4f4",
-    "ConversationIndex": 12,
-    "Read": true,
+    "ConversationIndex": 8,
+    "Read": false,
     "MessageHistory": [
-        {
-            "Sender": 0,
-            "MessageID": -337420898,
-            "Text": "Deal",
-            "EndOfChain": true
-        },
-        {
-            "Sender": 1,
-            "MessageID": 913814023,
-            "Text": "Good!! I'll see u <b>behind Sauerkraut Supreme pizzeria</b> between 12:00 AM and 6:00 AM.",
-            "EndOfChain": true
-        },
-        {
-            "Sender": 1,
-            "MessageID": 2141500766,
-            "Text": "I NEED 4x Cocaine. I GOT <color=#46CB4F>$920</color>. DEAL?",
-            "EndOfChain": true
-        },
-        {
-            "Sender": 0,
-            "MessageID": -1245560063,
-            "Text": "Deal",
-            "EndOfChain": true
-        },
-        {
-            "Sender": 1,
-            "MessageID": 889412210,
-            "Text": "Good!! I'll see u <b>behind Thompson construction and demolition</b> between 12:00 AM and 6:00 AM.",
-            "EndOfChain": true
-        },
         {
             "Sender": 1,
             "MessageID": 219415539,
@@ -64,8 +34,51 @@
             "MessageID": -1206418001,
             "Text": "Good!! I'll see u <b>behind Thompson construction and demolition</b> between 12:00 AM and 6:00 AM.",
             "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": -2142875231,
+            "Text": "You got 4x Cocaine? I'll pay <color=#46CB4F>$920</color> for it",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": -536158792,
+            "Text": "Nevermind!",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": 1200352316,
+            "Text": "You got 4x Cocaine? I'll pay <color=#46CB4F>$920</color> for it",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": -383341057,
+            "Text": "TOO LONG!! Nevermind",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": -1778947451,
+            "Text": "I NEED 4x Cocaine. I GOT <color=#46CB4F>$920</color>. DEAL?",
+            "EndOfChain": true
         }
     ],
-    "ActiveResponses": [],
+    "ActiveResponses": [
+        {
+            "Text": "Yes",
+            "Label": "ACCEPT_CONTRACT"
+        },
+        {
+            "Text": "[Counter-offer]",
+            "Label": "COUNTEROFFER"
+        },
+        {
+            "Text": "Not right now",
+            "Label": "REJECT_CONTRACT"
+        }
+    ],
     "IsHidden": false
 }
