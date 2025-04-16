@@ -9,22 +9,22 @@
     "IsMale": false,
     "AppearanceIndex": 1,
     "Position": {
-        "x": 192.71141052246095,
-        "y": 0.0899992361664772,
-        "z": -17.483505249023439
+        "x": 179.78330993652345,
+        "y": -0.008779296651482582,
+        "z": -6.2830963134765629
     },
     "Rotation": {
         "x": 0.0,
-        "y": 0.7071066498756409,
+        "y": -0.6206932067871094,
         "z": 0.0,
-        "w": 0.7071070075035095
+        "w": 0.7840535640716553
     },
     "GUID": "6beeb519-0828-48db-b012-5bc3c10524e1",
-    "PaidForToday": true,
+    "PaidForToday": false,
     "MoveItemData": {
-        "TemplateItemJSON": "{\"DataType\":\"QualityItemData\",\"DataVersion\":0,\"GameVersion\":\"0.3.4f4\",\"ID\":\"cocainebase\",\"Quantity\":0,\"Quality\":\"Heavenly\"}",
-        "GrabbedItemQuantity": 10,
-        "SourceGUID": "cd20e461-c73e-44eb-9e2e-12b959e60161",
-        "DestinationGUID": "85037c4a-f3ba-4cb4-86f7-21dfbe605a04"
+        "TemplateItemJSON": "",
+        "GrabbedItemQuantity": 0,
+        "SourceGUID": "",
+        "DestinationGUID": ""
     }
 }

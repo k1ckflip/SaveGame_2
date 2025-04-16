@@ -23,7 +23,7 @@
     },
     "OutputContents": {
         "Items": [
-            "{\"DataType\":\"CocaineData\",\"DataVersion\":0,\"GameVersion\":\"0.3.4f4\",\"ID\":\"tokyodeath\",\"Quantity\":10,\"Quality\":\"Heavenly\",\"PackagingID\":\"\"}"
+            "{\"DataType\":\"ItemData\",\"DataVersion\":0,\"GameVersion\":\"0.3.4f4\",\"ID\":\"\",\"Quantity\":0}"
         ]
     },
     "CurrentMixOperation": {

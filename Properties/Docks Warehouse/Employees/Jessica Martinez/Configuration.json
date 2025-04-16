@@ -15,6 +15,30 @@
                 "DestinationGUID": "ba955d69-e646-45ad-a4f0-e2ac706f18a2",
                 "FilterMode": 1,
                 "FilterItemIDs": []
+            },
+            {
+                "SourceGUID": "d585c427-b6b0-40be-b79e-acfe22ad2114",
+                "DestinationGUID": "44f70166-f5f8-4d81-a4f0-16481751cfa4",
+                "FilterMode": 1,
+                "FilterItemIDs": []
+            },
+            {
+                "SourceGUID": "d585c427-b6b0-40be-b79e-acfe22ad2114",
+                "DestinationGUID": "e7ca39a8-ecef-4da5-8661-036df1c5c777",
+                "FilterMode": 1,
+                "FilterItemIDs": []
+            },
+            {
+                "SourceGUID": "d585c427-b6b0-40be-b79e-acfe22ad2114",
+                "DestinationGUID": "3b27ac2e-f323-4897-9a38-9a06591e92bc",
+                "FilterMode": 1,
+                "FilterItemIDs": []
+            },
+            {
+                "SourceGUID": "d585c427-b6b0-40be-b79e-acfe22ad2114",
+                "DestinationGUID": "60ae3a72-dca0-4ab0-ac7e-99a50d9e8111",
+                "FilterMode": 1,
+                "FilterItemIDs": []
             }
         ]
     }

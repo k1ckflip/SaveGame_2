@@ -6,13 +6,5 @@
     "IsOwned": true,
     "SwitchStates": [],
     "ToggleableStates": [],
-    "LaunderingOperations": [
-        {
-            "DataType": "LaunderOperationData",
-            "DataVersion": 0,
-            "GameVersion": "0.3.4f4",
-            "Amount": 8000.0,
-            "MinutesSinceStarted": 743
-        }
-    ]
+    "LaunderingOperations": []
 }

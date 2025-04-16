@@ -2,21 +2,9 @@
     "DataType": "MSGConversationData",
     "DataVersion": 0,
     "GameVersion": "0.3.4f4",
-    "ConversationIndex": 7,
-    "Read": true,
+    "ConversationIndex": 10,
+    "Read": false,
     "MessageHistory": [
-        {
-            "Sender": 1,
-            "MessageID": 1756071008,
-            "Text": "Actually, nevermind",
-            "EndOfChain": true
-        },
-        {
-            "Sender": 1,
-            "MessageID": -1996613004,
-            "Text": "Hey, I need 7x Cocaine. I'll pay <color=#46CB4F>$1,480</color>. Deal?",
-            "EndOfChain": true
-        },
         {
             "Sender": 0,
             "MessageID": -1241146963,
@@ -63,6 +51,18 @@
             "Sender": 1,
             "MessageID": -817137117,
             "Text": "Alright cool, I'll meet you <b>behind Handy Hank's</b> between 12:00 AM and 6:00 AM.",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": 2136977407,
+            "Text": "Hey, if you got 9x Cocaine I'll pay <color=#46CB4F>$1,960</color> for it. Deal?",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": 1466489789,
+            "Text": "Actually, nevermind",
             "EndOfChain": true
         }
     ],

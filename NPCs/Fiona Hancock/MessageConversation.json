@@ -2,21 +2,9 @@
     "DataType": "MSGConversationData",
     "DataVersion": 0,
     "GameVersion": "0.3.4f4",
-    "ConversationIndex": 13,
-    "Read": true,
+    "ConversationIndex": 23,
+    "Read": false,
     "MessageHistory": [
-        {
-            "Sender": 1,
-            "MessageID": 1157086641,
-            "Text": "Hey, can I get 7x Cocaine? I'll pay <color=#46CB4F>$1,320</color>",
-            "EndOfChain": true
-        },
-        {
-            "Sender": 0,
-            "MessageID": -2060164084,
-            "Text": "Yes",
-            "EndOfChain": true
-        },
         {
             "Sender": 1,
             "MessageID": 915151839,
@@ -63,6 +51,18 @@
             "Sender": 1,
             "MessageID": 1154547137,
             "Text": "Actually, nevermind",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": -1709494997,
+            "Text": "Hey, can I get 7x Cocaine? I'll pay <color=#46CB4F>$1,295</color>",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": 549879114,
+            "Text": "nvm",
             "EndOfChain": true
         }
     ],

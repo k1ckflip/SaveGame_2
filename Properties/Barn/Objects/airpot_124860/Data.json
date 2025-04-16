@@ -13,8 +13,8 @@
     "Rotation": 90,
     "SoilID": "extralonglifesoil",
     "SoilLevel": 20.0,
-    "RemainingSoilUses": 1,
-    "WaterLevel": 2.028770923614502,
+    "RemainingSoilUses": 2,
+    "WaterLevel": 2.975397825241089,
     "AppliedAdditives": [
         "Growing/Fertilizer/Fertilizer_Additive",
         "Growing/PGR/PGR_Additive",
@@ -25,7 +25,7 @@
         "DataVersion": 0,
         "GameVersion": "0.3.4f4",
         "SeedID": "cocaseed",
-        "GrowthProgress": 0.6609195470809937,
+        "GrowthProgress": 0.5965518951416016,
         "YieldLevel": 1.100000023841858,
         "QualityLevel": 0.40000003576278689,
         "ActiveBuds": []

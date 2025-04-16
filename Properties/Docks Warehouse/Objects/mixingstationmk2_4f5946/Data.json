@@ -27,10 +27,10 @@
         ]
     },
     "CurrentMixOperation": {
-        "ProductID": "aspensplooge",
-        "ProductQuality": 4,
-        "IngredientID": "donut",
-        "Quantity": 20
+        "ProductID": "",
+        "ProductQuality": 0,
+        "IngredientID": "",
+        "Quantity": 0
     },
-    "CurrentMixTime": 8419
+    "CurrentMixTime": 0
 }

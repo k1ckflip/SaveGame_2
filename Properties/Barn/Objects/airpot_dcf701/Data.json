@@ -25,9 +25,26 @@
         "DataVersion": 0,
         "GameVersion": "0.3.4f4",
         "SeedID": "cocaseed",
-        "GrowthProgress": 0.9679036140441895,
+        "GrowthProgress": 1.0,
         "YieldLevel": 1.100000023841858,
         "QualityLevel": 0.40000003576278689,
-        "ActiveBuds": []
+        "ActiveBuds": [
+            11,
+            19,
+            16,
+            4,
+            1,
+            14,
+            8,
+            15,
+            17,
+            3,
+            5,
+            9,
+            13,
+            12,
+            6,
+            7
+        ]
     }
 }

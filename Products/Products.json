@@ -9,6 +9,7 @@
         "granddaddypurple",
         "afghanass",
         "afghancake",
+        "afghancock",
         "afghandick",
         "afghanmint",
         "afghanqueef",
@@ -51,6 +52,7 @@
         "fruitydeath",
         "fruityfuel",
         "fruitygrool",
+        "fruitystink",
         "girlscoutmonkey",
         "girlscoutpunch",
         "goldexperience",
@@ -113,6 +115,7 @@
         "strawberrycrystal",
         "strawberrymint",
         "strawberryshart",
+        "superass",
         "superassblaster",
         "superballs",
         "supercrystal",
@@ -134,6 +137,7 @@
         "ultraurkle",
         "weddingghost",
         "weddingpunch",
+        "weddingsplooge",
         "whitegrool",
         "whitepuke",
         "meth",
@@ -832,6 +836,26 @@
             "Product": "fatsmegma",
             "Mixer": "donut",
             "Output": "weddingpunch"
+        },
+        {
+            "Product": "aspensplooge",
+            "Mixer": "donut",
+            "Output": "afghancock"
+        },
+        {
+            "Product": "tokyocrystal",
+            "Mixer": "viagra",
+            "Output": "fruitystink"
+        },
+        {
+            "Product": "fruitystink",
+            "Mixer": "motoroil",
+            "Output": "superass"
+        },
+        {
+            "Product": "superass",
+            "Mixer": "flumedicine",
+            "Output": "weddingsplooge"
         }
     ],
     "ProductPrices": [
@@ -866,6 +890,10 @@
         {
             "String": "afghancake",
             "Int": 74
+        },
+        {
+            "String": "afghancock",
+            "Int": 522
         },
         {
             "String": "afghandick",
@@ -1034,6 +1062,10 @@
         {
             "String": "fruitygrool",
             "Int": 216
+        },
+        {
+            "String": "fruitystink",
+            "Int": 100
         },
         {
             "String": "girlscoutmonkey",
@@ -1284,6 +1316,10 @@
             "Int": 50
         },
         {
+            "String": "superass",
+            "Int": 112
+        },
+        {
             "String": "superassblaster",
             "Int": 52
         },
@@ -1366,6 +1402,10 @@
         {
             "String": "weddingpunch",
             "Int": 48
+        },
+        {
+            "String": "weddingsplooge",
+            "Int": 114
         },
         {
             "String": "whitegrool",

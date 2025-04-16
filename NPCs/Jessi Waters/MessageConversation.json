@@ -3,26 +3,8 @@
     "DataVersion": 0,
     "GameVersion": "0.3.4f4",
     "ConversationIndex": 9,
-    "Read": true,
+    "Read": false,
     "MessageHistory": [
-        {
-            "Sender": 1,
-            "MessageID": -383341057,
-            "Text": "TOO LONG!! Nevermind",
-            "EndOfChain": true
-        },
-        {
-            "Sender": 1,
-            "MessageID": -1778947451,
-            "Text": "I NEED 4x Cocaine. I GOT <color=#46CB4F>$920</color>. DEAL?",
-            "EndOfChain": true
-        },
-        {
-            "Sender": 1,
-            "MessageID": -1529646274,
-            "Text": "nvm",
-            "EndOfChain": true
-        },
         {
             "Sender": 1,
             "MessageID": 152720721,
@@ -64,8 +46,39 @@
             "MessageID": -1208714119,
             "Text": "Good!! I'll see u <b>at the skatepark</b> between 12:00 AM and 6:00 AM.",
             "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": 178341915,
+            "Text": "You got 4x Cocaine? I'll pay <color=#46CB4F>$920</color> for it",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": 1826272835,
+            "Text": "TOO LONG!! Nevermind",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": 397770351,
+            "Text": "I'm after 4x Cocaine. I can pay <color=#46CB4F>$920</color> for it Deal??",
+            "EndOfChain": true
         }
     ],
-    "ActiveResponses": [],
+    "ActiveResponses": [
+        {
+            "Text": "Sure thing",
+            "Label": "ACCEPT_CONTRACT"
+        },
+        {
+            "Text": "[Counter-offer]",
+            "Label": "COUNTEROFFER"
+        },
+        {
+            "Text": "No",
+            "Label": "REJECT_CONTRACT"
+        }
+    ],
     "IsHidden": false
 }

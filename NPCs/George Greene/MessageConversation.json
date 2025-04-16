@@ -2,33 +2,9 @@
     "DataType": "MSGConversationData",
     "DataVersion": 0,
     "GameVersion": "0.3.4f4",
-    "ConversationIndex": 10,
-    "Read": true,
+    "ConversationIndex": 8,
+    "Read": false,
     "MessageHistory": [
-        {
-            "Sender": 1,
-            "MessageID": 391959515,
-            "Text": "Actually, nevermind",
-            "EndOfChain": true
-        },
-        {
-            "Sender": 1,
-            "MessageID": 1007919230,
-            "Text": "Hey, I need 4x Cocaine. I'll pay <color=#46CB4F>$920</color>. Deal?",
-            "EndOfChain": true
-        },
-        {
-            "Sender": 0,
-            "MessageID": -1519228528,
-            "Text": "Yep",
-            "EndOfChain": true
-        },
-        {
-            "Sender": 1,
-            "MessageID": 950472735,
-            "Text": "Great, I'll meet you <b>behind the western Gas Mart</b> between 12:00 AM and 6:00 AM.",
-            "EndOfChain": true
-        },
         {
             "Sender": 1,
             "MessageID": -927591457,
@@ -63,6 +39,30 @@
             "Sender": 1,
             "MessageID": 570748542,
             "Text": "Great, I'll meet you <b>on the west wharf</b> between 12:00 AM and 6:00 AM.",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": -1326118530,
+            "Text": "Hey, I need 4x Cocaine. I'll pay <color=#46CB4F>$920</color>. Deal?",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": -253194395,
+            "Text": "Nevermind",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": 1351107860,
+            "Text": "Hey, if you got 4x Cocaine I'll pay <color=#46CB4F>$920</color> for it. Deal?",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": 1169785139,
+            "Text": "Don't worry about it",
             "EndOfChain": true
         }
     ],

@@ -9,9 +9,9 @@
     "IsMale": true,
     "AppearanceIndex": 1,
     "Position": {
-        "x": -76.07666015625,
+        "x": -76.08673858642578,
         "y": -2.429999828338623,
-        "z": -64.56539154052735
+        "z": -64.34085083007813
     },
     "Rotation": {
         "x": 0.0,
@@ -20,7 +20,7 @@
         "w": 0.9971530437469482
     },
     "GUID": "4e1e0522-2f55-48f0-9bbd-732ce9631353",
-    "PaidForToday": false,
+    "PaidForToday": true,
     "MoveItemData": {
         "TemplateItemJSON": "",
         "GrabbedItemQuantity": 0,
