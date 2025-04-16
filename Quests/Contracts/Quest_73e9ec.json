@@ -1,0 +1,52 @@
+{
+    "DataType": "ContractData",
+    "DataVersion": 0,
+    "GameVersion": "0.3.4f4",
+    "GUID": "73e9ec31-327d-4756-838d-7f9629a1f36d",
+    "State": 1,
+    "IsTracked": true,
+    "Title": "Deal for Hank",
+    "Description": "Hank has requested a delivery of 4x Cocaine Next to the destroyed RV for $920.",
+    "Expires": true,
+    "ExpiryDate": {
+        "DataType": "GameDateTimeData",
+        "DataVersion": 0,
+        "GameVersion": "0.3.4f4",
+        "ElapsedDays": 122,
+        "Time": 600
+    },
+    "Entries": [
+        {
+            "DataType": "QuestEntryData",
+            "DataVersion": 0,
+            "GameVersion": "0.3.4f4",
+            "Name": "4x Cocaine, Destroyed RV",
+            "State": 1
+        }
+    ],
+    "CustomerGUID": "df3536a8-be0d-4935-a8b2-6ead38e3b1d3",
+    "Payment": 920.0,
+    "ProductList": {
+        "entries": [
+            {
+                "ProductID": "cocaine",
+                "Quality": 3,
+                "Quantity": 4
+            }
+        ]
+    },
+    "DeliveryLocationGUID": "4f13f483-b3be-4652-9975-78c6759992a5",
+    "DeliveryWindow": {
+        "IsEnabled": true,
+        "WindowStartTime": 0,
+        "WindowEndTime": 600
+    },
+    "PickupScheduleIndex": 0,
+    "AcceptTime": {
+        "DataType": "GameDateTimeData",
+        "DataVersion": 0,
+        "GameVersion": "0.3.4f4",
+        "ElapsedDays": 121,
+        "Time": 1356
+    }
+}

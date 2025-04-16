@@ -2,55 +2,67 @@
     "DataType": "MSGConversationData",
     "DataVersion": 0,
     "GameVersion": "0.3.4f4",
-    "ConversationIndex": 24,
-    "Read": false,
+    "ConversationIndex": 7,
+    "Read": true,
     "MessageHistory": [
         {
             "Sender": 1,
-            "MessageID": -1099220529,
-            "Text": "Hey, if you got 7x Cocaine I'll pay <color=#46CB4F>$1,460</color> for it. Deal?",
-            "EndOfChain": true
-        },
-        {
-            "Sender": 0,
-            "MessageID": 1830850181,
-            "Text": "Yep",
+            "MessageID": 1756071008,
+            "Text": "Actually, nevermind",
             "EndOfChain": true
         },
         {
             "Sender": 1,
-            "MessageID": -704489171,
-            "Text": "Alright cool, I'll meet you <b>in the graveyard</b> between 12:00 AM and 6:00 AM.",
-            "EndOfChain": true
-        },
-        {
-            "Sender": 1,
-            "MessageID": -1836573129,
-            "Text": "Hey, can I get 7x Cocaine? I'll pay <color=#46CB4F>$1,460</color>",
+            "MessageID": -1996613004,
+            "Text": "Hey, I need 7x Cocaine. I'll pay <color=#46CB4F>$1,480</color>. Deal?",
             "EndOfChain": true
         },
         {
             "Sender": 0,
-            "MessageID": -1993234613,
+            "MessageID": -1241146963,
+            "Text": "Deal",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": 42778169,
+            "Text": "Alright cool, I'll meet you <b>next to the courthouse</b> between 12:00 AM and 6:00 AM.",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": -178510504,
+            "Text": "Hello, I'm after 8x Cocaine. I can pay <color=#46CB4F>$1,715</color> for it.",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 0,
+            "MessageID": 936339756,
             "Text": "Sure thing",
             "EndOfChain": true
         },
         {
             "Sender": 1,
-            "MessageID": -1808262244,
-            "Text": "Alright cool, I'll meet you <b>in the alleyway next to HAM legal services</b> between 12:00 AM and 6:00 AM.",
+            "MessageID": -308027931,
+            "Text": "Ok, I'll meet you <b>next to the medical center</b> between 12:00 AM and 6:00 AM.",
             "EndOfChain": true
         },
         {
             "Sender": 1,
-            "MessageID": 25964075,
-            "Text": "Hey, if you got 7x Cocaine I'll pay <color=#46CB4F>$1,480</color> for it. Deal?",
+            "MessageID": -1109103495,
+            "Text": "You got 9x Cocaine? I'll pay <color=#46CB4F>$1,960</color> for it",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 0,
+            "MessageID": -733484614,
+            "Text": "Sure thing",
             "EndOfChain": true
         },
         {
             "Sender": 1,
-            "MessageID": 1756071008,
-            "Text": "Actually, nevermind",
+            "MessageID": -817137117,
+            "Text": "Alright cool, I'll meet you <b>behind Handy Hank's</b> between 12:00 AM and 6:00 AM.",
             "EndOfChain": true
         }
     ],

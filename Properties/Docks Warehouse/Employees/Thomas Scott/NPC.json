@@ -9,18 +9,18 @@
     "IsMale": true,
     "AppearanceIndex": 6,
     "Position": {
-        "x": -76.012451171875,
+        "x": -77.68144226074219,
         "y": -2.429999828338623,
-        "z": -64.29417419433594
+        "z": -64.66919708251953
     },
     "Rotation": {
         "x": 0.0,
-        "y": -0.07540453225374222,
+        "y": 0.2197141945362091,
         "z": 0.0,
-        "w": 0.9971530437469482
+        "w": 0.9755643010139465
     },
     "GUID": "9dccd336-b846-4269-bcb3-e8de79d9af73",
-    "PaidForToday": true,
+    "PaidForToday": false,
     "MoveItemData": {
         "TemplateItemJSON": "",
         "GrabbedItemQuantity": 0,

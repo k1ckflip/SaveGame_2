@@ -26,9 +26,9 @@
     },
     "Output": {
         "Items": [
-            "{\"DataType\":\"ItemData\",\"DataVersion\":0,\"GameVersion\":\"0.3.4f4\",\"ID\":\"\",\"Quantity\":0}"
+            "{\"DataType\":\"QualityItemData\",\"DataVersion\":0,\"GameVersion\":\"0.3.4f4\",\"ID\":\"cocainebase\",\"Quantity\":10,\"Quality\":\"Heavenly\"}"
         ]
     },
-    "RemainingCookTime": 46,
-    "InputQuality": 4
+    "RemainingCookTime": 0,
+    "InputQuality": 2
 }

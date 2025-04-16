@@ -1,0 +1,30 @@
+{
+    "DataType": "BotanistData",
+    "DataVersion": 0,
+    "GameVersion": "0.3.4f4",
+    "ID": "jason_rodriguez",
+    "AssignedProperty": "barn",
+    "FirstName": "Jason",
+    "LastName": "Rodriguez",
+    "IsMale": true,
+    "AppearanceIndex": 0,
+    "Position": {
+        "x": 191.262451171875,
+        "y": 0.09000074863433838,
+        "z": -4.781450271606445
+    },
+    "Rotation": {
+        "x": 0.0,
+        "y": 0.22124609351158143,
+        "z": 0.0,
+        "w": -0.9752180576324463
+    },
+    "GUID": "c001fb49-a409-4cac-bbd2-de3a02532fe6",
+    "PaidForToday": true,
+    "MoveItemData": {
+        "TemplateItemJSON": "",
+        "GrabbedItemQuantity": 0,
+        "SourceGUID": "",
+        "DestinationGUID": ""
+    }
+}

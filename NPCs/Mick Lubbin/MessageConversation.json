@@ -2,51 +2,9 @@
     "DataType": "MSGConversationData",
     "DataVersion": 0,
     "GameVersion": "0.3.4f4",
-    "ConversationIndex": 15,
-    "Read": false,
+    "ConversationIndex": 19,
+    "Read": true,
     "MessageHistory": [
-        {
-            "Sender": 1,
-            "MessageID": 1175263565,
-            "Text": "Hey, I need 3x Pink Diamond. I'll pay <color=#46CB4F>$420</color>. Deal?",
-            "EndOfChain": true
-        },
-        {
-            "Sender": 0,
-            "MessageID": -1099129014,
-            "Text": "How about 5x Pink Diamond for $540?",
-            "EndOfChain": false
-        },
-        {
-            "Sender": 1,
-            "MessageID": 287535194,
-            "Text": "Alright then. What time?",
-            "EndOfChain": true
-        },
-        {
-            "Sender": 0,
-            "MessageID": 677479559,
-            "Text": "Night",
-            "EndOfChain": true
-        },
-        {
-            "Sender": 1,
-            "MessageID": -864801350,
-            "Text": "Great, I'll meet you <b>next to Bud's bar</b> between 6:00 PM and 12:00 PM.",
-            "EndOfChain": true
-        },
-        {
-            "Sender": 1,
-            "MessageID": -1106806873,
-            "Text": "Hey, if you got 2x Cocaine I'll pay <color=#46CB4F>$460</color> for it. Deal?",
-            "EndOfChain": true
-        },
-        {
-            "Sender": 1,
-            "MessageID": 630965363,
-            "Text": "nvm",
-            "EndOfChain": true
-        },
         {
             "Sender": 1,
             "MessageID": 34826045,
@@ -64,21 +22,50 @@
             "MessageID": -1236792547,
             "Text": "Hey, if you got 2x Cocaine I'll pay <color=#46CB4F>$460</color> for it. Deal?",
             "EndOfChain": true
-        }
-    ],
-    "ActiveResponses": [
-        {
-            "Text": "Deal",
-            "Label": "ACCEPT_CONTRACT"
         },
         {
-            "Text": "[Counter-offer]",
-            "Label": "COUNTEROFFER"
+            "Sender": 1,
+            "MessageID": -493985950,
+            "Text": "Actually, nevermind",
+            "EndOfChain": true
         },
         {
-            "Text": "Not right now",
-            "Label": "REJECT_CONTRACT"
+            "Sender": 1,
+            "MessageID": 1729804040,
+            "Text": "You got 3x Cocaine? I'll pay <color=#46CB4F>$690</color> for it",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 0,
+            "MessageID": -49843142,
+            "Text": "Yep",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": 227029649,
+            "Text": "Great, I'll meet you <b>next to the barbershop</b> between 12:00 AM and 6:00 AM.",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": 254488544,
+            "Text": "Hello, I'm after 2x Cocaine. I can pay <color=#46CB4F>$460</color> for it.",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 0,
+            "MessageID": 579578078,
+            "Text": "Sure thing",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": -1423975111,
+            "Text": "Great, I'll meet you <b>at the basketball court</b> between 12:00 AM and 6:00 AM.",
+            "EndOfChain": true
         }
     ],
+    "ActiveResponses": [],
     "IsHidden": false
 }

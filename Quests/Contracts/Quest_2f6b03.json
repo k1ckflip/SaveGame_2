@@ -1,0 +1,52 @@
+{
+    "DataType": "ContractData",
+    "DataVersion": 0,
+    "GameVersion": "0.3.4f4",
+    "GUID": "2f6b0376-6c03-4d12-b2b3-ed01aa8f7c72",
+    "State": 1,
+    "IsTracked": true,
+    "Title": "Deal for Lily",
+    "Description": "Lily has requested a delivery of 6x Cocaine in the alleyway next to HAM legal services for $1,350.",
+    "Expires": true,
+    "ExpiryDate": {
+        "DataType": "GameDateTimeData",
+        "DataVersion": 0,
+        "GameVersion": "0.3.4f4",
+        "ElapsedDays": 122,
+        "Time": 600
+    },
+    "Entries": [
+        {
+            "DataType": "QuestEntryData",
+            "DataVersion": 0,
+            "GameVersion": "0.3.4f4",
+            "Name": "6x Cocaine, Alleyway next to HAM legal services",
+            "State": 1
+        }
+    ],
+    "CustomerGUID": "399b1478-34dd-4dbd-9ae9-9550ab9725ca",
+    "Payment": 1350.0,
+    "ProductList": {
+        "entries": [
+            {
+                "ProductID": "cocaine",
+                "Quality": 3,
+                "Quantity": 6
+            }
+        ]
+    },
+    "DeliveryLocationGUID": "76f05a16-d5f7-4ac4-87bf-e2113b7a03a4",
+    "DeliveryWindow": {
+        "IsEnabled": true,
+        "WindowStartTime": 0,
+        "WindowEndTime": 600
+    },
+    "PickupScheduleIndex": 0,
+    "AcceptTime": {
+        "DataType": "GameDateTimeData",
+        "DataVersion": 0,
+        "GameVersion": "0.3.4f4",
+        "ElapsedDays": 121,
+        "Time": 1402
+    }
+}

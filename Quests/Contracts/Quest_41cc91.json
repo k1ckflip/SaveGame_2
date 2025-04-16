@@ -1,0 +1,52 @@
+{
+    "DataType": "ContractData",
+    "DataVersion": 0,
+    "GameVersion": "0.3.4f4",
+    "GUID": "41cc91fc-a05d-43cd-b52c-2ed67e029f8d",
+    "State": 1,
+    "IsTracked": false,
+    "Title": "Deal for Chloe",
+    "Description": "Chloe has requested a delivery of 2x Cocaine at the skatepark for $460.",
+    "Expires": true,
+    "ExpiryDate": {
+        "DataType": "GameDateTimeData",
+        "DataVersion": 0,
+        "GameVersion": "0.3.4f4",
+        "ElapsedDays": 121,
+        "Time": 1800
+    },
+    "Entries": [
+        {
+            "DataType": "QuestEntryData",
+            "DataVersion": 0,
+            "GameVersion": "0.3.4f4",
+            "Name": "2x Cocaine, Skatepark",
+            "State": 1
+        }
+    ],
+    "CustomerGUID": "16d03826-0ef9-4e25-b5ef-63aca1728618",
+    "Payment": 460.0,
+    "ProductList": {
+        "entries": [
+            {
+                "ProductID": "cocaine",
+                "Quality": 1,
+                "Quantity": 2
+            }
+        ]
+    },
+    "DeliveryLocationGUID": "dfef5a22-ac4d-4081-954f-5c6b79a41d58",
+    "DeliveryWindow": {
+        "IsEnabled": true,
+        "WindowStartTime": 1200,
+        "WindowEndTime": 1800
+    },
+    "PickupScheduleIndex": 0,
+    "AcceptTime": {
+        "DataType": "GameDateTimeData",
+        "DataVersion": 0,
+        "GameVersion": "0.3.4f4",
+        "ElapsedDays": 121,
+        "Time": 1500
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "DataType": "VehicleData",
+    "DataVersion": 0,
+    "GameVersion": "0.3.4f4",
+    "GUID": "f54ed147-161d-4be4-8c02-5dca4da391f1",
+    "VehicleCode": "veeper",
+    "Position": {
+        "x": 177.6199951171875,
+        "y": 0.3659999668598175,
+        "z": -18.415000915527345
+    },
+    "Rotation": {
+        "x": 9.777068044058979e-12,
+        "y": 1.0,
+        "z": 0.0,
+        "w": -2.0762308849953116e-7
+    },
+    "Color": "White"
+}

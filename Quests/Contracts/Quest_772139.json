@@ -1,0 +1,52 @@
+{
+    "DataType": "ContractData",
+    "DataVersion": 0,
+    "GameVersion": "0.3.4f4",
+    "GUID": "7721394d-cde6-485b-b314-10d1aa06e8b4",
+    "State": 1,
+    "IsTracked": true,
+    "Title": "Deal for Jackie",
+    "Description": "Jackie has requested a delivery of 4x Cocaine behind the green house in the suburbs for $920.",
+    "Expires": true,
+    "ExpiryDate": {
+        "DataType": "GameDateTimeData",
+        "DataVersion": 0,
+        "GameVersion": "0.3.4f4",
+        "ElapsedDays": 122,
+        "Time": 600
+    },
+    "Entries": [
+        {
+            "DataType": "QuestEntryData",
+            "DataVersion": 0,
+            "GameVersion": "0.3.4f4",
+            "Name": "4x Cocaine, Behind green house",
+            "State": 1
+        }
+    ],
+    "CustomerGUID": "184784cc-08fc-4d3e-a631-d29d9e8d52de",
+    "Payment": 920.0,
+    "ProductList": {
+        "entries": [
+            {
+                "ProductID": "cocaine",
+                "Quality": 3,
+                "Quantity": 4
+            }
+        ]
+    },
+    "DeliveryLocationGUID": "c9fad1e6-d724-4fc3-aa5e-56449f83e2ee",
+    "DeliveryWindow": {
+        "IsEnabled": true,
+        "WindowStartTime": 0,
+        "WindowEndTime": 600
+    },
+    "PickupScheduleIndex": 0,
+    "AcceptTime": {
+        "DataType": "GameDateTimeData",
+        "DataVersion": 0,
+        "GameVersion": "0.3.4f4",
+        "ElapsedDays": 121,
+        "Time": 1406
+    }
+}

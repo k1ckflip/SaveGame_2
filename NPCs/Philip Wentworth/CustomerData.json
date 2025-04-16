@@ -2,20 +2,20 @@
     "DataType": "CustomerData",
     "DataVersion": 0,
     "GameVersion": "0.3.4f4",
-    "Dependence": 1.0,
+    "Dependence": 0.2800000011920929,
     "PurchaseableProducts": [
         "cocaine",
         "aspensplooge"
     ],
     "ProductAffinities": [
-        1.0,
-        1.0,
-        1.0
+        0.9700911045074463,
+        0.7798223495483398,
+        0.03569246083498001
     ],
-    "TimeSinceLastDealCompleted": 260,
-    "TimeSinceLastDealOffered": 372,
-    "OfferedDeals": 109,
-    "CompletedDeals": 102,
+    "TimeSinceLastDealCompleted": 1060,
+    "TimeSinceLastDealOffered": 1157,
+    "OfferedDeals": 1,
+    "CompletedDeals": 2,
     "IsContractOffered": false,
     "OfferedContract": {
         "Payment": 0.0,
@@ -34,10 +34,10 @@
         "IsCounterOffer": false
     },
     "OfferedContractTime": {
-        "elapsedDays": 117,
+        "elapsedDays": 120,
         "time": 2215
     },
-    "TimeSincePlayerApproached": 1169513,
-    "TimeSinceInstantDealOffered": 1169513,
+    "TimeSincePlayerApproached": 1002079,
+    "TimeSinceInstantDealOffered": 1002079,
     "HasBeenRecommended": false
 }

@@ -8,14 +8,14 @@
         "aspensplooge"
     ],
     "ProductAffinities": [
-        -0.27600687742233279,
+        -0.1897568702697754,
         1.0,
         1.0
     ],
-    "TimeSinceLastDealCompleted": 715,
-    "TimeSinceLastDealOffered": 852,
-    "OfferedDeals": 83,
-    "CompletedDeals": 49,
+    "TimeSinceLastDealCompleted": 987,
+    "TimeSinceLastDealOffered": 1641,
+    "OfferedDeals": 86,
+    "CompletedDeals": 53,
     "IsContractOffered": false,
     "OfferedContract": {
         "Payment": 0.0,
@@ -34,10 +34,10 @@
         "IsCounterOffer": false
     },
     "OfferedContractTime": {
-        "elapsedDays": 117,
-        "time": 1415
+        "elapsedDays": 0,
+        "time": 0
     },
-    "TimeSincePlayerApproached": 111376,
-    "TimeSinceInstantDealOffered": 1169511,
+    "TimeSincePlayerApproached": 117210,
+    "TimeSinceInstantDealOffered": 987,
     "HasBeenRecommended": false
 }

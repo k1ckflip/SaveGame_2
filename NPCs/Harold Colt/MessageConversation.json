@@ -3,66 +3,66 @@
     "DataVersion": 0,
     "GameVersion": "0.3.4f4",
     "ConversationIndex": 11,
-    "Read": false,
+    "Read": true,
     "MessageHistory": [
         {
             "Sender": 1,
-            "MessageID": 1510903722,
-            "Text": "Hello, I'm after 3x Cocaine. I can pay <color=#46CB4F>$655</color> for it.",
+            "MessageID": -617422866,
+            "Text": "Don't worry about it",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": 97178078,
+            "Text": "Hey, I need 4x Cocaine. I'll pay <color=#46CB4F>$885</color>. Deal?",
             "EndOfChain": true
         },
         {
             "Sender": 0,
-            "MessageID": 1145526034,
+            "MessageID": -2092292390,
+            "Text": "Yep",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": 1644165551,
+            "Text": "Great, I'll meet you <b>rehind Ray's Realty</b> between 12:00 AM and 6:00 AM.",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": 2100232725,
+            "Text": "Hey, I need 4x Cocaine. I'll pay <color=#46CB4F>$900</color>. Deal?",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 0,
+            "MessageID": -1661490042,
+            "Text": "Sure thing",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": 1821305720,
+            "Text": "Great, I'll meet you <b>behind the dealership</b> between 12:00 AM and 6:00 AM.",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": 1206634370,
+            "Text": "Hey, if you got 4x Cocaine I'll pay <color=#46CB4F>$910</color> for it. Deal?",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 0,
+            "MessageID": -791643948,
             "Text": "Deal",
             "EndOfChain": true
         },
         {
             "Sender": 1,
-            "MessageID": 611299145,
-            "Text": "Great, I'll meet you <b>Next to the destroyed RV</b> between 12:00 AM and 6:00 AM.",
-            "EndOfChain": true
-        },
-        {
-            "Sender": 1,
-            "MessageID": -1955597600,
-            "Text": "Hello, I'm after 3x Cocaine. I can pay <color=#46CB4F>$655</color> for it.",
-            "EndOfChain": true
-        },
-        {
-            "Sender": 0,
-            "MessageID": -819334657,
-            "Text": "Yes",
-            "EndOfChain": true
-        },
-        {
-            "Sender": 1,
-            "MessageID": -1741736308,
-            "Text": "Great, I'll meet you <b>behind the bus stop in the suburbs</b> between 12:00 AM and 6:00 AM.",
-            "EndOfChain": true
-        },
-        {
-            "Sender": 1,
-            "MessageID": -524375627,
-            "Text": "Hey, I need 4x Cocaine. I'll pay <color=#46CB4F>$885</color>. Deal?",
-            "EndOfChain": true
-        },
-        {
-            "Sender": 1,
-            "MessageID": -1783292104,
-            "Text": "Don't worry about it",
-            "EndOfChain": true
-        },
-        {
-            "Sender": 1,
-            "MessageID": -294887074,
-            "Text": "You got 4x Cocaine? I'll pay <color=#46CB4F>$885</color> for it",
-            "EndOfChain": true
-        },
-        {
-            "Sender": 1,
-            "MessageID": -617422866,
-            "Text": "Don't worry about it",
+            "MessageID": -1784155847,
+            "Text": "Great, I'll meet you <b>behind the dealership</b> between 12:00 AM and 6:00 AM.",
             "EndOfChain": true
         }
     ],

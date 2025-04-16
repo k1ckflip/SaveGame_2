@@ -1,0 +1,52 @@
+{
+    "DataType": "ContractData",
+    "DataVersion": 0,
+    "GameVersion": "0.3.4f4",
+    "GUID": "3ff32f4d-f55c-417e-be12-06df3ce0a78f",
+    "State": 1,
+    "IsTracked": false,
+    "Title": "Deal for Ludwig",
+    "Description": "Ludwig has requested a delivery of 1x Cocaine behind Thompson construction and demolition for $180.",
+    "Expires": true,
+    "ExpiryDate": {
+        "DataType": "GameDateTimeData",
+        "DataVersion": 0,
+        "GameVersion": "0.3.4f4",
+        "ElapsedDays": 121,
+        "Time": 1800
+    },
+    "Entries": [
+        {
+            "DataType": "QuestEntryData",
+            "DataVersion": 0,
+            "GameVersion": "0.3.4f4",
+            "Name": "1x Cocaine, Behind Thompson construction and demolition",
+            "State": 1
+        }
+    ],
+    "CustomerGUID": "ac55fc3b-804a-46e3-9adc-19aaf79bed5b",
+    "Payment": 180.0,
+    "ProductList": {
+        "entries": [
+            {
+                "ProductID": "cocaine",
+                "Quality": 1,
+                "Quantity": 1
+            }
+        ]
+    },
+    "DeliveryLocationGUID": "5fdc79c3-1636-43b1-947a-5ba8f80f825b",
+    "DeliveryWindow": {
+        "IsEnabled": true,
+        "WindowStartTime": 1200,
+        "WindowEndTime": 1800
+    },
+    "PickupScheduleIndex": 0,
+    "AcceptTime": {
+        "DataType": "GameDateTimeData",
+        "DataVersion": 0,
+        "GameVersion": "0.3.4f4",
+        "ElapsedDays": 121,
+        "Time": 1445
+    }
+}

@@ -29,12 +29,6 @@
                 "DestinationGUID": "60ae3a72-dca0-4ab0-ac7e-99a50d9e8111",
                 "FilterMode": 1,
                 "FilterItemIDs": []
-            },
-            {
-                "SourceGUID": "e9ac9aff-0497-4064-a4eb-64ce221592c3",
-                "DestinationGUID": "",
-                "FilterMode": 1,
-                "FilterItemIDs": []
             }
         ]
     }

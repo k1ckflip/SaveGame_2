@@ -20,7 +20,7 @@
         "w": 0.973018229007721
     },
     "GUID": "6b857c1b-0035-49b6-b3ad-5f26b98898c7",
-    "PaidForToday": true,
+    "PaidForToday": false,
     "MoveItemData": {
         "TemplateItemJSON": "",
         "GrabbedItemQuantity": 0,

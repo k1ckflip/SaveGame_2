@@ -2,33 +2,9 @@
     "DataType": "MSGConversationData",
     "DataVersion": 0,
     "GameVersion": "0.3.4f4",
-    "ConversationIndex": 22,
-    "Read": false,
+    "ConversationIndex": 14,
+    "Read": true,
     "MessageHistory": [
-        {
-            "Sender": 1,
-            "MessageID": -1286386485,
-            "Text": "Hey, can I get 7x Cocaine? I'll pay <color=#46CB4F>$1,435</color>",
-            "EndOfChain": true
-        },
-        {
-            "Sender": 0,
-            "MessageID": 943951208,
-            "Text": "Yep",
-            "EndOfChain": true
-        },
-        {
-            "Sender": 1,
-            "MessageID": 1322897974,
-            "Text": "Great, I'll meet you <b>next to the courthouse</b> between 12:00 AM and 6:00 AM.",
-            "EndOfChain": true
-        },
-        {
-            "Sender": 1,
-            "MessageID": 310095630,
-            "Text": "Hello, I'm after 7x Cocaine. I can pay <color=#46CB4F>$1,435</color> for it.",
-            "EndOfChain": true
-        },
         {
             "Sender": 0,
             "MessageID": -1295996431,
@@ -51,6 +27,42 @@
             "Sender": 1,
             "MessageID": -219300499,
             "Text": "Actually, nevermind",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": 783350815,
+            "Text": "Hey, if you got 7x Cocaine I'll pay <color=#46CB4F>$1,460</color> for it. Deal?",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 0,
+            "MessageID": -698235573,
+            "Text": "Sure thing",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": -807366943,
+            "Text": "Great, I'll meet you <b>behind the bank</b> between 12:00 AM and 6:00 AM.",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": 698900936,
+            "Text": "Hey, if you got 8x Cocaine I'll pay <color=#46CB4F>$1,690</color> for it. Deal?",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 0,
+            "MessageID": 2125241484,
+            "Text": "Yep",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": 1426040800,
+            "Text": "Great, I'll meet you <b>behind the bank</b> between 12:00 AM and 6:00 AM.",
             "EndOfChain": true
         }
     ],

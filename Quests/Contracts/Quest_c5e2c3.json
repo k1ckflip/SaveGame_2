@@ -1,0 +1,52 @@
+{
+    "DataType": "ContractData",
+    "DataVersion": 0,
+    "GameVersion": "0.3.4f4",
+    "GUID": "c5e2c327-9ce0-4820-a8a3-514f0c3b486a",
+    "State": 1,
+    "IsTracked": true,
+    "Title": "Deal for Herbert",
+    "Description": "Herbert has requested a delivery of 9x Cocaine behind Handy Hank's for $1,960.",
+    "Expires": true,
+    "ExpiryDate": {
+        "DataType": "GameDateTimeData",
+        "DataVersion": 0,
+        "GameVersion": "0.3.4f4",
+        "ElapsedDays": 122,
+        "Time": 600
+    },
+    "Entries": [
+        {
+            "DataType": "QuestEntryData",
+            "DataVersion": 0,
+            "GameVersion": "0.3.4f4",
+            "Name": "9x Cocaine, Behind Handy Hank's",
+            "State": 1
+        }
+    ],
+    "CustomerGUID": "5cbaecbe-ecf7-4cd5-8bf3-db6d83cee193",
+    "Payment": 1960.0,
+    "ProductList": {
+        "entries": [
+            {
+                "ProductID": "cocaine",
+                "Quality": 3,
+                "Quantity": 9
+            }
+        ]
+    },
+    "DeliveryLocationGUID": "75d79474-d11d-4535-8079-5b6202bf386f",
+    "DeliveryWindow": {
+        "IsEnabled": true,
+        "WindowStartTime": 0,
+        "WindowEndTime": 600
+    },
+    "PickupScheduleIndex": 0,
+    "AcceptTime": {
+        "DataType": "GameDateTimeData",
+        "DataVersion": 0,
+        "GameVersion": "0.3.4f4",
+        "ElapsedDays": 121,
+        "Time": 1359
+    }
+}

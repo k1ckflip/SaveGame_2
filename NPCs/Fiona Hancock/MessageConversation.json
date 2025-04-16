@@ -2,39 +2,9 @@
     "DataType": "MSGConversationData",
     "DataVersion": 0,
     "GameVersion": "0.3.4f4",
-    "ConversationIndex": 10,
-    "Read": false,
+    "ConversationIndex": 13,
+    "Read": true,
     "MessageHistory": [
-        {
-            "Sender": 0,
-            "MessageID": 1825720234,
-            "Text": "Sure thing",
-            "EndOfChain": true
-        },
-        {
-            "Sender": 1,
-            "MessageID": -1948745132,
-            "Text": "Great, I'll meet you <b>behind Handy Hank's</b> between 12:00 AM and 6:00 AM.",
-            "EndOfChain": true
-        },
-        {
-            "Sender": 1,
-            "MessageID": 1700317643,
-            "Text": "Hello, I'm after 6x Cocaine. I can pay <color=#46CB4F>$1,130</color> for it.",
-            "EndOfChain": true
-        },
-        {
-            "Sender": 0,
-            "MessageID": 2002975735,
-            "Text": "Deal",
-            "EndOfChain": true
-        },
-        {
-            "Sender": 1,
-            "MessageID": -716972770,
-            "Text": "Great, I'll meet you <b>behind the bank</b> between 12:00 AM and 6:00 AM.",
-            "EndOfChain": true
-        },
         {
             "Sender": 1,
             "MessageID": 1157086641,
@@ -63,6 +33,36 @@
             "Sender": 1,
             "MessageID": -1732671441,
             "Text": "nvm",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": -670674954,
+            "Text": "Hey, I need 7x Cocaine. I'll pay <color=#46CB4F>$1,340</color>. Deal?",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 0,
+            "MessageID": 166266765,
+            "Text": "Sure thing",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": 610343395,
+            "Text": "Great, I'll meet you <b>in the alleyway next to HAM legal services</b> between 12:00 AM and 6:00 AM.",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": 598553451,
+            "Text": "Hey, I need 7x Cocaine. I'll pay <color=#46CB4F>$1,295</color>. Deal?",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": 1154547137,
+            "Text": "Actually, nevermind",
             "EndOfChain": true
         }
     ],
